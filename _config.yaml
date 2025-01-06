@@ -1,19 +1,16 @@
 # site properties and page defaults
-title: GichanLee
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Software Engineering Laboratory (SELAB)
+subtitle: Hanyang University ERICA
+description: 한양대학교 에리카캠퍼스의 학연산클러스터지원센터 621호에 위치한 소프트웨어공학 연구실입니다. Scott Uk-Jin Lee 교수님을 중심으로 2025년 현재 6명의 석박사통합과정생들이 열심히 연구하고 있습니다:)
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@GichanLee.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: GichanLee
-  twitter: GichanLee
-  youtube: GichanLee
+  email: scottlee@hanyang.ac.kr
+  orcid: 0000-0002-8457-3097
+  google-scholar: eOKfjrMAAAAJ
 
 ### jekyll settings
 
