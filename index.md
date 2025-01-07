@@ -26,7 +26,7 @@ SELAB의 주요 연구 분야는 "머신러닝/인공지능 기반의 소프트�
 
 {%
   include feature.html
-  image="images/rq3.png"
+  image="images/graphs.png"
   link="research"
   title="Research"
   text=text
