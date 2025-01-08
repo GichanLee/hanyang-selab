@@ -28,9 +28,14 @@
     - defect-prediction
     - XAI
 
-- id: doi:10.1109/SANER56733.2023.00026
-  type: paper
+- type: paper
+  title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction Models
+  authors:
+    - Gichan Lee
+    - Scott Uk-Jin Lee
+  publisher: 2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
   description: 
+  link: https://ieeexplore.ieee.org/document/10123486
   date: 2023-03-21
   tags:
     - defect-prediction
