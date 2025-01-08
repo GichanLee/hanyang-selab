@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: NEWS
 nav:
-  order: 4
-  tooltip: Musings and miscellany
+  order: 3
+  tooltip: 연구실 소식
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
