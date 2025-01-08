@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Software Engineering Laboratory (SELAB)
-subtitle: Hanyang University ERICA
-description: 한양대학교 에리카캠퍼스의 학연산클러스터지원센터 621호에 위치한 소프트웨어공학 연구실입니다. Scott Uk-Jin Lee 교수님을 중심으로 2025년 현재 6명의 석박사통합과정생들이 열심히 연구하고 있습니다:)
+title: Software Engineering Laboratory
+subtitle: SELAB
+description: 한양대학교 에리카의 학연산클러스터지원센터 621호에 위치한 소프트웨어공학 연구실입니다. 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
