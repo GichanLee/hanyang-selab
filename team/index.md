@@ -1,8 +1,8 @@
 ---
 title: Team
 nav:
-  order: 3
-  tooltip: About our team
+  order: 2
+  tooltip: 구성원
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
