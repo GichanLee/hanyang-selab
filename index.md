@@ -49,7 +49,7 @@ SELAB은 다년간의 연구 성과들을 바탕으로 정부/산업체/대학�
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project.png"
   link="projects"
   title="Project"
   flip=true
