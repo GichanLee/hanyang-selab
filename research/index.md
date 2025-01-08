@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+SELAB의 구성원들은 [Google Scholar Software Systems 분야 상위저작물](https://scholar.google.com/citations?view_op=top_venues&hl=ko&vq=eng_softwaresystems)에 해당하는 탑티어 컨퍼런스 및 저널에 논문을 출판할 수 있도록 노력을 기울이고 있습니다. 하기한 연구들은 구성원들의 ORCID에 기반하여 주마다 갱신되며, 모든 출판물은 Scott Uk-Jin Lee 교수님의 [Google Scholar](https://scholar.google.com/citations?hl=ko&user=eOKfjrMAAAAJ&view_op=list_works&sortby=pubdate)에서 확인할 수 있습니다.
 
 {% include section.html %}
 
