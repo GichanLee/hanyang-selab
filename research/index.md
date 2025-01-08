@@ -20,7 +20,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include citation.html lookup="Toward Reliable Software Analytics: Systematic Integration of Explanations From Different Model-Agnostic Techniques" style="rich" %}
 
-
 {% include section.html %}
 
 ## All
