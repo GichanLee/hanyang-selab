@@ -182,27 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -218,30 +202,32 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1145/3691620.3695056
+  title: 'NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological
+    and Empirical Perceptions of Modern Developers'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Gichan Lee
+  - Hansae Ju
+  - Scott Uk-Jin Lee
+  publisher: Proceedings of the 39th IEEE/ACM International Conference on Automated
+    Software Engineering
+  date: '2024-10-27'
+  link: https://doi.org/g8x22h
+  type: paper
+  description: "\uC18C\uC2A4 \uCF54\uB4DC\uB97C \uC774\uD574\uD558\uB294 \uAC1C\uBC1C\
+    \uC790\uB4E4\uC758 \uC2E0\uACBD\uC0DD\uB9AC\uD559\uC801 \uBC18\uC751\uB4E4\uACFC\
+    \ \uB300\uADDC\uBAA8 \uC778\uC2DD \uC870\uC0AC \uACB0\uACFC\uB4E4\uC744 \uD65C\
+    \uC6A9\uD558\uC5EC \uACB0\uD568 \uC720\uBC1C \uCEE4\uBC0B\uB4E4\uC744 \uC608\uCE21\
+    \uD560 \uC218 \uC788\uB294\uC9C0 \uD1B5\uACC4\uC801\uC73C\uB85C \uC870\uC0AC\uD55C\
+    \ \uC5F0\uAD6C."
+  image: images/ASE.png
+  buttons:
+  - type: source
+    text: Source
+    link: https://github.com/Verssae/NeuroJIT
+  tags:
+  - defect-prediction
+  - defect-inducing-commits
+  repo: null
   plugin: sources.py
   file: sources.yaml
