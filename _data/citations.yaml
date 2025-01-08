@@ -56,10 +56,11 @@
   publisher: Mathematics
   date: '2024-10-17'
   link: https://doi.org/g8x22p
-  orcid: 0000-0002-8457-3097
+  orcid: 0009-0008-5948-8254
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  sana: true
 - id: doi:10.3390/math12060833
   title: 'Sea Shield: A Blockchain Technology Consensus to Improve Proof-of-Stake-Based
     Consensus Blockchain Safety'
@@ -69,10 +70,11 @@
   publisher: Mathematics
   date: '2024-03-12'
   link: https://doi.org/g8x22q
-  orcid: 0000-0002-8457-3097
+  orcid: 0009-0008-5948-8254
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  sana: true
 - id: doi:10.1016/j.jss.2023.111677
   title: A systematic literature review on Android-specific smells
   authors:
@@ -82,10 +84,12 @@
   publisher: Journal of Systems and Software
   date: '2023-07-01'
   link: https://doi.org/gtbg7j
-  orcid: 0000-0002-8457-3097
+  orcid: 0000-0002-6818-1763
   scott: true
   plugin: sources.py
   file: sources.yaml
+  zhiqiang: true
+  xinchen: true
   type: paper
   image: images/zhiqiang.jpg
   tages:
@@ -122,7 +126,7 @@
     \uC5EC \uC2E4\uC9C8\uC801\uC73C\uB85C \uADF8\uB4E4 \uC0AC\uC774\uC5D0 \uC2EC\uAC01\
     \uD55C \uBE44\uC77C\uAD00\uC131\uC774 \uC874\uC7AC\uD558\uBA70, \uC774\uB97C \uD0C0\
     \uD30C\uD558\uAE30 \uC704\uD55C \uCD08\uC11D\uC744 \uC81C\uACF5\uD55C \uC5F0\uAD6C"
-  image: images/ieee_software.png
+  image: images/ieee_software.PNG
   tags:
   - defect-prediction
   - XAI
@@ -183,10 +187,11 @@
   publisher: Applied Sciences
   date: '2021-12-20'
   link: https://doi.org/g8x22w
-  orcid: 0000-0002-8457-3097
+  orcid: 0000-0003-0638-4298
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  shanza: true
 - id: doi:10.3390/electronics10182211
   title: Wake Lock Leak Detection in Android Apps Using Multi-Layer Perceptron
   authors:
@@ -197,10 +202,11 @@
   publisher: Electronics
   date: '2021-09-09'
   link: https://doi.org/gnffgm
-  orcid: 0000-0002-8457-3097
+  orcid: 0000-0002-1292-3553
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  zhiqiang: true
 - id: doi:10.1016/j.suscom.2021.100589
   title: 'Measuring power consumption in mobile devices for energy sustainable app
     development: A comparative study and challenges'
@@ -242,10 +248,11 @@
   publisher: IEEE Access
   date: '2021-01-01'
   link: https://doi.org/g8x223
-  orcid: 0000-0002-8457-3097
+  orcid: 0000-0002-6818-1763
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  xinchen: true
 - id: doi:10.1109/ACCESS.2020.3047019
   title: 'FCDP: Fidelity Calculation for Description-to-Permissions in Android Apps'
   authors:
@@ -255,10 +262,12 @@
   publisher: IEEE Access
   date: '2021-01-01'
   link: https://doi.org/gn7t4g
-  orcid: 0000-0002-8457-3097
+  orcid: 0000-0002-6818-1763
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  zhiqiang: true
+  xinchen: true
 - id: doi:10.3390/app10175851
   title: Machine Learning Evaluation of the Requirement Engineering Process Models
     for Cloud Computing and Security Issues
@@ -297,10 +306,12 @@
   publisher: IEEE Access
   date: '2018-01-01'
   link: https://doi.org/g4h2c4
-  orcid: 0000-0002-8457-3097
+  orcid: 0000-0002-2058-4336
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  asad: true
+  isma: true
 - id: doi:10.1109/ACCESS.2017.2752242
   title: Optimizing Lifespan and Energy Consumption by Smart Meters in Green-Cloud-Based
     Smart Grids
@@ -312,10 +323,12 @@
   publisher: IEEE Access
   date: '2017-01-01'
   link: https://doi.org/gnfc84
-  orcid: 0000-0002-8457-3097
+  orcid: 0000-0002-2058-4336
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  asad: true
+  isma: true
 - id: doi:10.1155/2015/435316
   title: An Effective Methodology with Automated Product Configuration for Software
     Product Line Development
@@ -326,5 +339,765 @@
   link: https://doi.org/f7wrfv
   orcid: 0000-0002-8457-3097
   scott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BCCA50787.2020.9274461
+  title: Why the new consensus mechanism is needed in blockchain technology?
+  authors:
+  - Sana Naz
+  - Scott Uk-Jin Lee
+  publisher: 2020 Second International Conference on Blockchain Computing and Applications
+    (BCCA)
+  date: '2020-11-02'
+  link: https://doi.org/g8x24r
+  orcid: 0009-0008-5948-8254
+  sana: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2021.3100118
+  title: Enhancing Fidelity of Description in Android Apps With Category-Based Common
+    Permissions
+  authors:
+  - Zhiqiang Wu
+  - Xin Chen
+  - Muhammad Umair Khan
+  - Scott Uk-Jin Lee
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/g8x223
+  orcid: 0000-0002-1292-3553
+  zhiqiang: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11277-018-5936-6
+  title: An Aggregate MapReduce Data Block Placement Strategy for Wireless IoT Edge
+    Nodes in Smart Grid
+  authors:
+  - Nawab Muhammad Faseeh Qureshi
+  - Isma Farah Siddiqui
+  - Mukhtiar Ali Unar
+  - Muhammad Aslam Uqaili
+  - Choon Sung Nam
+  - Dong Ryeol Shin
+  - Jaehyoun Kim
+  - Ali Kashif Bashir
+  - Asad Abbas
+  publisher: Wireless Personal Communications
+  date: '2018-09-10'
+  link: https://doi.org/g8x24s
+  orcid: 0000-0002-2058-4336
+  asad: true
+  plugin: orcid.py
+  file: orcid.yaml
+  isma: true
+- id: doi:10.1007/s11277-018-5739-9
+  title: Stuck-at Fault Analytics of IoT Devices Using Knowledge-based Data Processing
+    Strategy in Smart Grid
+  authors:
+  - Isma Farah Siddiqui
+  - Nawab Muhammad Faseeh Qureshi
+  - Muhammad Akram Shaikh
+  - Bhawani Shankar Chowdhry
+  - Asad Abbas
+  - Ali Kashif Bashir
+  - Scott Uk-Jin Lee
+  publisher: Wireless Personal Communications
+  date: '2018-04-17'
+  link: https://doi.org/grfgxc
+  orcid: 0000-0001-7491-8023
+  asad: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2017.2680470
+  title: Binary Pattern for Nested Cardinality Constraints for Software Product Line
+    of IoT-Based Feature Models
+  authors:
+  - Asad Abbas
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  - Ali Kashif Bashir
+  publisher: IEEE Access
+  date: '2017-01-01'
+  link: https://doi.org/g8x24t
+  orcid: 0000-0002-2058-4336
+  asad: true
+  plugin: orcid.py
+  file: orcid.yaml
+  isma: true
+- id: doi:10.17485/ijst/2016/v9i17/92728
+  title: An Approach for Optimized Feature Selection in Software Product Lines using
+    Union-Find and Genetic Algorithms
+  authors:
+  - Asad Abbas
+  - Zhiqiang Wu
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: Indian Journal of Science and Technology
+  date: '2016-05-16'
+  link: https://doi.org/g8x24v
+  orcid: 0000-0001-7491-8023
+  asad: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4772613
+  title: Resource Allocation-Aware Efficient Interference Management Technique for
+    Ultra-Dense Femto Environment
+  authors:
+  - Wanying Guo
+  - Bojun Wang
+  - Lian Zhao
+  - Isma  Farah Siddiqui
+  publisher: Elsevier BV
+  date: '2024-01-01'
+  link: https://doi.org/g8x24w
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.comcom.2024.05.013
+  title: Resource allocation-aware efficient interference management technique for
+    ultra-dense Femto environment
+  authors:
+  - Wanying Guo
+  - Bojun Wang
+  - Lian Zhao
+  - Isma Farah Siddiqui
+  publisher: Computer Communications
+  date: '2024-09-01'
+  link: https://doi.org/g8x24x
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.seta.2023.103228
+  title: Orchestrating model to improve utilization of IaaS environment for sustainable
+    revenue
+  authors:
+  - Afzal Badshah
+  - Anwar Ghani
+  - Isma Farah Siddiqui
+  - Ali Daud
+  - Muhammad Zubair
+  - Zafar Mehmood
+  publisher: Sustainable Energy Technologies and Assessments
+  date: '2023-06-01'
+  link: https://doi.org/g8x24z
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jksuci.2022.11.007
+  title: A Fuzzy-Based Duo-Secure Multi-Modal Framework for IoMT Anomaly Detection
+  authors:
+  - Shiraz Ali Wagan
+  - Jahwan Koo
+  - Isma Farah Siddiqui
+  - Nawab Muhammad Faseeh Qureshi
+  - Muhammad Attique
+  - Dong Ryeol Shin
+  publisher: Journal of King Saud University - Computer and Information Sciences
+  date: '2023-01-01'
+  link: https://doi.org/g8x242
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32604/csse.2023.035311
+  title: 'MDEV Model: A Novel Ensemble-Based Transfer Learning Approach for Pneumonia
+    Classification Using CXR Images'
+  authors:
+  - Mehwish Shaikh
+  - Isma Farah Siddiqui
+  - Qasim Arain
+  - Jahwan Koo
+  - Mukhtiar Ali Unar
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: Computer Systems Science and Engineering
+  date: '2023-01-01'
+  link: https://doi.org/g8x243
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jksuci.2022.07.019
+  title: 'Cooperative Communication Resource Allocation Strategies for 5G and Beyond
+    Networks: A Review of Architecture, Challenges and Opportunities'
+  authors:
+  - Wanying Guo
+  - Nawab Muhammad Faseeh Qureshi
+  - Isma Farah Siddiqui
+  - Dong Ryeol Shin
+  publisher: Journal of King Saud University - Computer and Information Sciences
+  date: '2022-11-01'
+  link: https://doi.org/g8rgkt
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jksuci.2022.09.005
+  title: 'Internet of medical things and trending converged technologies: A comprehensive
+    review on real-time applications'
+  authors:
+  - Shiraz Ali Wagan
+  - Jahwan Koo
+  - Isma Farah Siddiqui
+  - Muhammad Attique
+  - Dong Ryeol Shin
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: Journal of King Saud University - Computer and Information Sciences
+  date: '2022-11-01'
+  link: https://doi.org/g8x244
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jksuci.2022.11.004
+  title: QoS-Aware Energy-Efficient MicroBase Station Deployment for 5G-Enabled HetNets
+  authors:
+  - Wanying Guo
+  - Jahwan Koo
+  - Isma Farah Siddiqui
+  - Nawab Muhammad Faseeh Qureshi
+  - Dong Ryeol Shin
+  publisher: Journal of King Saud University - Computer and Information Sciences
+  date: '2022-11-01'
+  link: https://doi.org/g8x245
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app122010495
+  title: Predictive Modeling of Employee Churn Analysis for IoT-Enabled Software Industry
+  authors:
+  - Komal Naz
+  - Isma Farah Siddiqui
+  - Jahwan Koo
+  - Mohammad Ali Khan
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: Applied Sciences
+  date: '2022-10-18'
+  link: https://doi.org/g8x246
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11277-021-09362-7
+  title: Performance Evaluation of Data-driven Intelligent Algorithms for Big data
+    Ecosystem
+  authors:
+  - Muhammad Junaid
+  - Sajid Ali
+  - Isma Farah Siddiqui
+  - Choonsung Nam
+  - Nawab Muhammad Faseeh Qureshi
+  - Jaehyoun Kim
+  - Dong Ryeol Shin
+  publisher: Wireless Personal Communications
+  date: '2022-08-23'
+  link: https://doi.org/g8x247
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.patrec.2022.03.021
+  title: Scarcity-aware spam detection technique for big data ecosystem
+  authors:
+  - Woo Hyun Park
+  - Isma Farah Siddiqui
+  - Chinmay Chakraborty
+  - Nawab Muhammad Faseeh Qureshi
+  - Dong Ryeol Shin
+  publisher: Pattern Recognition Letters
+  date: '2022-05-01'
+  link: https://doi.org/g8x248
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32604/cmc.2022.030235
+  title: AI-Enabled Grouping Bridgehead to Secure Penetration Topics of Metaverse
+  authors:
+  - Woo Hyun Park
+  - Isma Farah Siddiqui
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: Computers, Materials &amp; Continua
+  date: '2022-01-01'
+  link: https://doi.org/g8x249
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MACS56771.2022.10022700
+  title: Automated Classification of Pneumonia from Chest X-Ray Images using Deep
+    Transfer Learning EfficientNet-B0 Model
+  authors:
+  - Mehwish Shaikh
+  - Qasim Ali Arain
+  - Isma Farah Siddiqui
+  - Hassan Ahmed Shaikh
+  publisher: 2022 14th International Conference on Mathematics, Actuarial Science,
+    Computer Science and Statistics (MACS)
+  date: '2022-11-12'
+  link: https://doi.org/g8x25b
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11277-022-10112-6
+  title: 'Correction to: Performance Evaluation of Data-driven Intelligent Algorithms
+    for Big data Ecosystem'
+  authors:
+  - Muhammad Junaid
+  - Sajid Ali
+  - Isma Farah Siddiqui
+  - Choonsung Nam
+  - Nawab Muhammad Faseeh Qureshi
+  - Jaehyoun Kim
+  - Dong Ryeol Shin
+  publisher: Wireless Personal Communications
+  date: '2022-11-01'
+  link: https://doi.org/g8x25c
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICDCSW56584.2022.00042
+  title: Cost-Effective Optimal Multi-Source Energy Management Technique in Heterogeneous
+    Networks
+  authors:
+  - Wanying Guo
+  - Dong Ryeol Shin
+  - Isma Farah Siddiqui
+  - Jahwan Koo
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: 2022 IEEE 42nd International Conference on Distributed Computing Systems
+    Workshops (ICDCSW)
+  date: '2022-07-01'
+  link: https://doi.org/g8x25d
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ECTIDAMTNCON53731.2022.9720403
+  title: Handling Non-Fuctional Requirements in IoT-based Machine Learning Systems
+  authors:
+  - Aaiza Khan
+  - Isma Farah Siddiqui
+  - Mehwish Shaikh
+  - Shabana Anwar
+  - Murk Shaikh
+  publisher: 2022 Joint International Conference on Digital Arts, Media and Technology
+    with ECTI Northern Section Conference on Electrical, Electronics, Computer and
+    Telecommunications Engineering (ECTI DAMT &amp; NCON)
+  date: '2022-01-26'
+  link: https://doi.org/g8x25f
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GCWkshps56602.2022.10008526
+  title: Machine Learning as a Service for Beyond 5G Networks
+  authors:
+  - Sukhdeep Singh
+  - Joseph Thaliath
+  - Isma Farah Siddiqui
+  - Ashish Jain
+  - Seungil Yoon
+  - Mohammad Attique
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: 2022 IEEE Globecom Workshops (GC Wkshps)
+  date: '2022-12-04'
+  link: https://doi.org/g8x25g
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32604/cmc.2022.028241
+  title: NLP-Based Subject with Emotions Joint Analytics for Epidemic Articles
+  authors:
+  - Woo Hyun Park
+  - Isma Farah Siddiqui
+  - Dong Ryeol Shin
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: Computers, Materials &amp; Continua
+  date: '2022-01-01'
+  link: https://doi.org/g8x25h
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/WoWMoM54355.2022.00082
+  title: Periodic-Collaboration-Based Energy-Efficient Cell Dormancy in Heterogeneous
+    Dense Networks
+  authors:
+  - Wanying Guo
+  - Shiraz Ali Wagan
+  - Dong Ryeol Shin
+  - Isma Farah Siddiqui
+  - Jahwan Koo
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: 2022 IEEE 23rd International Symposium on a World of Wireless, Mobile
+    and Multimedia Networks (WoWMoM)
+  date: '2022-06-01'
+  link: https://doi.org/g6pq8d
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GCWOT53057.2022.9772888
+  title: SAHWS:IoT-enabled Workflow Scheduler for Next-Generation Hadoop Cluster
+  authors:
+  - Jahwan Koo
+  - Isma Farah Siddiqui
+  - Bhawani Shankar Chowdhry
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: 2022 Global Conference on Wireless and Optical Technologies (GCWOT)
+  date: '2022-02-14'
+  link: https://doi.org/g8x25j
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2021/1679835
+  title: "On\u2010Ground Distributed COVID\u201019 Variant Intelligent Data Analytics\
+    \ for a Regional Territory"
+  authors:
+  - Umrah Zadi Khuhawar
+  - Isma Farah Siddiqui
+  - Qasim Ali Arain
+  - Mokhi Maan Siddiqui
+  - Nawab Muhammad Faseeh Qureshi
+  publisher: Wireless Communications and Mobile Computing
+  date: '2021-01-01'
+  link: https://doi.org/g7gcvd
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3837/tiis.2021.08.015
+  title: Personality Characteristic-based Enhanced Software Testing Levels for Crowd
+    Outsourcing Environment
+  authors: []
+  publisher: KSII Transactions on Internet and Information Systems
+  date: '2021-08-31'
+  link: https://doi.org/g8x25k
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CAIDA51941.2021.9425236
+  title: Comparative Analysis for Predicting Non-Functional Requirements using Supervised
+    Machine Learning
+  authors:
+  - Vajeeha Mir Khatian
+  - Qasim Ali Arain
+  - Mamdouh Alenezi
+  - Muhammad Owais Raza
+  - Fariha Shaikh
+  - Isma Farah
+  publisher: 2021 1st International Conference on Artificial Intelligence and Data
+    Analytics (CAIDA)
+  date: '2021-04-06'
+  link: https://doi.org/g8x25m
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000943455500012
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000943455500012
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11277-020-07215-3
+  title: Stream-Based Authentication Strategy Using IoT Sensor Data in Multi-homing
+    Sub-aqueous Big Data Network
+  authors:
+  - Nawab Muhammad Faseeh Qureshi
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Ali Kashif Bashir
+  - Choon Sung Nam
+  - Bhawani Shankar Chowdhry
+  - Muhammad Aslam Uqaili
+  publisher: Wireless Personal Communications
+  date: '2020-03-14'
+  link: https://doi.org/g8x25n
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31209/2019.100000132
+  title: A Novel Knowledge-Based Battery Drain Reducer for Smart Meters
+  authors:
+  - Isma Siddiqui
+  - Scott Lee
+  - Asad Abbas
+  publisher: Intelligent Automation and Soft Computing
+  date: '2019-01-01'
+  link: https://doi.org/grfcg2
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICISCT49550.2020.9080030
+  title: "Artificial Intelligence Based Memory Stash Alzheimer\u2019s Aid"
+  authors:
+  - Bhagia Sheri
+  - Pooja Kumari
+  - Isma Farah Siddiqui
+  - Hira Noman
+  publisher: 2020 International Conference on Information Science and Communication
+    Technology (ICISCT)
+  date: '2020-02-01'
+  link: https://doi.org/g8x25p
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13677-020-00195-6
+  title: IoT-enabled directed acyclic graph in spark cluster
+  authors:
+  - Jahwan Koo
+  - Nawab Muhammad Faseeh Qureshi
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Ali Kashif Bashir
+  publisher: Journal of Cloud Computing
+  date: '2020-09-14'
+  link: https://doi.org/g8x25q
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5373/JARDCS/V12I7/20202067
+  title: 'Multilayered Authentication Framework: Enabling Secure Sensor Accessibility
+    in Web of Things'
+  authors:
+  - Muhammad Aamir Panhwar
+  publisher: Journal of Advanced Research in Dynamical and Control Systems
+  date: '2020-07-20'
+  link: https://doi.org/g8x25r
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICISCT49550.2020.9080033
+  title: "Predicting Students\u2019 Academic Performance Through Supervised Machine\
+    \ Learning"
+  authors:
+  - Engr. Sana Bhutto
+  - Isma Farah Siddiqui
+  - Qasim Ali Arain
+  - Maleeha Anwar
+  publisher: 2020 International Conference on Information Science and Communication
+    Technology (ICISCT)
+  date: '2020-02-01'
+  link: https://doi.org/g8x25s
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11277-020-07312-3
+  title: Pseudo-Cache-Based IoT Small Files Management Framework in HDFS Cluster
+  authors:
+  - Isma Farah Siddiqui
+  - Nawab Muhammad Faseeh Qureshi
+  - Bhawani Shankar Chowdhry
+  - Muhammad Aslam Uqaili
+  publisher: Wireless Personal Communications
+  date: '2020-05-02'
+  link: https://doi.org/g8x25t
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000568448300023
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000568448300023
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICICT47744.2019.9001991
+  title: Comparative analysis of Mobile Application Testing and Crowd Source Software
+    Testing
+  authors:
+  - Gul Bano
+  - Qasim Ali
+  - Sunbul Sajid Khuwaja
+  - Isma Farah
+  - Paras Lal
+  - Imran Memon
+  - Asma Zubedi
+  publisher: 2019 8th International Conference on Information and Communication Technologies
+    (ICICT)
+  date: '2019-11-01'
+  link: https://doi.org/g8x25v
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/ICACT.2019.8701970
+  title: Dynamic Container-based Resource Management Framework of Spark Ecosystem
+  authors:
+  - Nawab Muhammad Faseeh Qureshi
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Ali Kashif Bashir
+  - Keehyun Choi
+  - Jaehyoun Kim
+  - Dong Ryeol Shin
+  publisher: 2019 21st International Conference on Advanced Communication Technology
+    (ICACT)
+  date: '2019-02-01'
+  link: https://doi.org/g8x25w
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11277-019-06264-7
+  title: Edge-Node-Aware Adaptive Data Processing Framework for Smart Grid
+  authors:
+  - Isma Farah Siddiqui
+  - Nawab Muhammad Faseeh Qureshi
+  - Bhawani Shankar Chowdhry
+  - Muhammad Aslam Uqaili
+  publisher: Wireless Personal Communications
+  date: '2019-03-27'
+  link: https://doi.org/g8x25x
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3318396.3318415
+  title: Images Based Indoor Positioning Using AI and Crowdsourcing
+  authors:
+  - Eman Shahid
+  - Qasim Arain
+  - Sandia Kumari
+  - Isma Farah
+  publisher: Proceedings of the 2019 8th International Conference on Educational and
+    Information Technology
+  date: '2019-03-02'
+  link: https://doi.org/g8x25z
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11277-018-5739-9
+  title: Stuck-at Fault Analytics of IoT Devices Using Knowledge-based Data Processing
+    Strategy in Smart Grid
+  authors:
+  - Isma Farah Siddiqui
+  - Nawab Muhammad Faseeh Qureshi
+  - Muhammad Akram Shaikh
+  - Bhawani Shankar Chowdhry
+  - Asad Abbas
+  - Ali Kashif Bashir
+  - Scott Uk-Jin Lee
+  publisher: Wireless Personal Communications
+  date: '2018-04-17'
+  link: https://doi.org/grfgxc
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3328833.3328838
+  title: To enhance Effectiveness of Crowdsource Software Testing by applying Personality
+    Types
+  authors:
+  - Zainab Umair Kamangar
+  - Umair Ayaz Kamangar
+  - Qasim Ali
+  - Isma Farah
+  - Shahzad Nizamani
+  - Tauha Hussain Ali
+  publisher: Proceedings of the 2019 8th International Conference on Software and
+    Information Engineering
+  date: '2019-04-09'
+  link: https://doi.org/gphkhn
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GLOCOM.2018.8648016
+  title: A Knowledge-Based Path Optimization Technique for Cognitive Nodes in Smart
+    Grid
+  authors:
+  - Nawab Muhammad Faseeh Qureshi
+  - Ali Kashif Bashir
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Keehyun Choi
+  - Dong Ryeol Shin
+  publisher: 2018 IEEE Global Communications Conference (GLOBECOM)
+  date: '2018-12-01'
+  link: https://doi.org/g8x252
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2017.2725318
+  title: Storage-Tag-Aware Scheduler for Hadoop Cluster
+  authors:
+  - Nawab Muhammad Faseeh Qureshi
+  - Dong Ryeol Shin
+  - Isma Farah Siddiqui
+  - Bhawani Shankar Chowdhry
+  publisher: IEEE Access
+  date: '2017-01-01'
+  link: https://doi.org/g8x253
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17485/IJST/2016/V9I17/92728
+  title: An Approach for Optimized Feature Selection in Software Product Lines using
+    Union-Find and Genetic Algorithms
+  authors:
+  - Asad Abbas
+  - Zhiqiang Wu
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: Indian Journal of Science and Technology
+  date: '2016-05-16'
+  link: https://doi.org/g8x24v
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17485/IJST/2016/V9I17/92730
+  title: An Empirical Study over Correctness Properties for Multithreaded Programs
+  authors:
+  - Abdul Rahim Mohamed Ariffin
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: Indian Journal of Science and Technology
+  date: '2016-05-16'
+  link: https://doi.org/g8x254
+  orcid: 0000-0002-2058-4336
+  isma: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-10987-9_23
+  title: An Advanced Hyper-Efficient Design to Detect Random Peer-to-Peer Botnets
+  authors:
+  - Isma Farah Siddiqui
+  - Nawab Muhammad Faseeh
+  - Scott UK-Jin Lee
+  - Mukhtiar Ali Unar
+  publisher: Communications in Computer and Information Science
+  date: '2014-01-01'
+  link: https://doi.org/g8x255
+  orcid: 0000-0002-2058-4336
+  isma: true
   plugin: orcid.py
   file: orcid.yaml
