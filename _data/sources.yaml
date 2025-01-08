@@ -1,23 +1,13 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1145/3691620.3695056
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: 소스 코드를 이해하는 개발자들의 신경생리학적 반응들과 대규모 인식 조사 결과들을 활용하여 결함 유발 커밋들을 예측할 수 있는지 통계적으로 조사한 연구.
+  date: 2024-10-27
+  image: images/ASE.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+      text: Source
+      link: https://github.com/Verssae/NeuroJIT
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+    - defect-prediction
+    - defect-inducing-commits
+  repo: 
