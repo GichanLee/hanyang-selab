@@ -22,7 +22,7 @@
   type: paper
   description: 동일한 결함 예측 결과에 대한 XAI 기술들의 설명들을 분석하여 실질적으로 그들 사이에 심각한 비일관성이 존재하며, 이를 타파하기 위한 초석을 제공한 연구
   date: 2023-02-13
-  image: images/ieee_software.png
+  image: images/ieee.png
   tags:
     - defect-prediction
     - XAI
