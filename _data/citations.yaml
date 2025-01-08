@@ -126,7 +126,7 @@
     \uC5EC \uC2E4\uC9C8\uC801\uC73C\uB85C \uADF8\uB4E4 \uC0AC\uC774\uC5D0 \uC2EC\uAC01\
     \uD55C \uBE44\uC77C\uAD00\uC131\uC774 \uC874\uC7AC\uD558\uBA70, \uC774\uB97C \uD0C0\
     \uD30C\uD558\uAE30 \uC704\uD55C \uCD08\uC11D\uC744 \uC81C\uACF5\uD55C \uC5F0\uAD6C"
-  image: images/ieee_software.PNG
+  image: images/ieee_software.png
   tags:
   - defect-prediction
   - XAI
