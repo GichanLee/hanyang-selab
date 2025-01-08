@@ -46,7 +46,6 @@
   tags:
   - defect-prediction
   - defect-inducing-commits
-  repo: null
 - id: doi:10.3390/math12203263
   title: 'S&amp;SEM: A Secure and Speed-Up Election Mechanism for PoS-Based Blockchain
     Network'
@@ -315,3 +314,24 @@
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1109/SANER56733.2023.00026
+  title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction
+    Models
+  authors:
+  - Gichan Lee
+  - Scott Uk-Jin Lee
+  publisher: 2023 IEEE International Conference on Software Analysis, Evolution and
+    Reengineering (SANER)
+  date: '2023-03-15'
+  link: https://doi.org/g8x236
+  type: paper
+  description: "\uB3D9\uC77C\uD55C \uACB0\uD568 \uC608\uCE21 \uACB0\uACFC\uC5D0 \uB300\
+    \uD55C XAI \uAE30\uC220\uB4E4\uC758 \uC124\uBA85\uB4E4\uC744 \uBD84\uC11D\uD558\
+    \uC5EC \uC2E4\uC9C8\uC801\uC73C\uB85C \uADF8\uB4E4 \uC0AC\uC774\uC5D0 \uC2EC\uAC01\
+    \uD55C \uBE44\uC77C\uAD00\uC131\uC774 \uC874\uC7AC\uD568\uC744 \uD1B5\uACC4\uC801\
+    \uC73C\uB85C \uAC80\uC99D\uD55C \uC5F0\uAD6C."
+  tags:
+  - defect-prediction
+  - XAI
+  plugin: sources.py
+  file: sources.yaml
