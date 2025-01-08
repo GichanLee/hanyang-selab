@@ -1,6 +1,6 @@
 - id: doi:10.1145/3691620.3695056
   type: paper
-  description: 소스 코드를 이해하는 개발자들의 신경생리학적 반응들과 대규모 인식 조사 결과들을 활용하여 결함 유발 커밋들을 예측할 수 있는지 통계적으로 조사한 연구.
+  description: 
   date: 2024-10-27
   image: images/ASE.png
   buttons:
@@ -21,9 +21,17 @@
 
 - id: doi:10.1109/MS.2023.3244204
   type: paper
-  description: 동일한 결함 예측 결과에 대한 XAI 기술들의 설명들을 분석하여 실질적으로 그들 사이에 심각한 비일관성이 존재함을 밝히고 이로 인한 정보 문제를 해소하기 위한 기초적인 접근에 대해 제안한 연구.
+  description: 
   date: 2023-02-13
   image: images/ieee.png
+  tags:
+    - defect-prediction
+    - XAI
+
+- id: doi:10.1109/SANER56733.2023.00026.
+  type: paper
+  description: 
+  date: 2023-03-21
   tags:
     - defect-prediction
     - XAI
