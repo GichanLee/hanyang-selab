@@ -74,7 +74,7 @@ SELAB에는 Scott Uk-Jin Lee 교수님을 위시하여 2025년 1월 기준 총 6
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/temp_members.jpg"
   link="team"
   title="Team"
   text=text
