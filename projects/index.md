@@ -1,8 +1,8 @@
 ---
 title: Projects
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 4
+  tooltip: 수행 과제
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
