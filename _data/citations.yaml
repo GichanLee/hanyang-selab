@@ -316,7 +316,7 @@
   scott: true
   plugin: orcid.py
   file: orcid.yaml
-- type: paper
+- id: doi:10.1109/SANER56733.2023.00026
   title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction
     Models
   authors:
@@ -324,9 +324,10 @@
   - Scott Uk-Jin Lee
   publisher: 2023 IEEE International Conference on Software Analysis, Evolution and
     Reengineering (SANER)
-  description: null
-  link: https://ieeexplore.ieee.org/document/10123486
   date: '2023-03-21'
+  link: https://ieeexplore.ieee.org/document/10123486
+  type: paper
+  description: null
   tags:
   - defect-prediction
   - XAI
