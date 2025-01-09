@@ -17,20 +17,20 @@ $wrap: 800px;
   box-shadow: var(--shadow);
 }
 
-.citation-image {
-  position: relative;
-  width: $thumb-size;
-  flex-shrink: 0;
-  // box-shadow: var(--shadow);
-}
+// .citation-image {
+//   position: relative;
+//   width: $thumb-size;
+//   flex-shrink: 0;
+//   // box-shadow: var(--shadow);
+// }
 
-.citation-image img {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-}
+// .citation-image img {
+//   position: absolute;
+//   inset: 0;
+//   width: 100%;
+//   height: 100%;
+//   object-fit: contain;
+// }
 
 .citation-text {
   position: relative;
@@ -96,8 +96,8 @@ $wrap: 800px;
     flex-direction: column;
   }
 
-  .citation-image {
-    width: unset;
-    height: $thumb-size;
-  }
+  // .citation-image {
+  //   width: unset;
+  //   height: $thumb-size;
+  // }
 }
