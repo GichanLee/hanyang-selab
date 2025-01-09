@@ -2,32 +2,30 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: 연락처
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+SELAB은 경기도 안산시 한양대학로 55의 학연산클러스터지원센터 621호에, Scott Uk-Jin Lee 교수님의 연구실은 617호에 위치합니다. 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="scottlee@hanyang.ac.kr"
+  link="scottlee@hanyang.ac.kr"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(031) 867-5309"
+  link="+82-031-867-5309"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="한양대 ERICA 학연산클러스터지원센터"
+  link="https://maps.app.goo.gl/id7bQnzffGXXaXG17"
 %}
 
 {% include section.html %}
@@ -37,7 +35,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="SELAB"
 %}
 
 {% endcapture %}
@@ -47,19 +45,27 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="SELAB"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="SELAB"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+가나다라 테스트
 {% endcapture %}
 
 {% capture col2 %}
