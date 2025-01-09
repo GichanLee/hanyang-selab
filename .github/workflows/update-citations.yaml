@@ -30,12 +30,13 @@ jobs:
     steps:
       - name: Verify secret presence
         run: |
-          if [ -z "${{ secrets.GOOGLE_SCHOLAR_API_KEY  }}" ]; then
+          echo "Using secret from env variable"
+          if [-z "${{ secrets.GOOGLE_SCHOLAR_API_KEY  }}"]; then
             echo "Secret is not set!"
             exit 1
           else
             echo "Secret is set."
-
+          fi
       - name: Debug dump
         uses: crazy-max/ghaction-dump-context@v2
 
