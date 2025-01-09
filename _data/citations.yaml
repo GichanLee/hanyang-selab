@@ -15,8 +15,8 @@
   file: orcid.yaml
   gichan: true
 - id: doi:10.1145/3691620.3695056
-  title: 'NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological
-    and Empirical Perceptions of Modern Developers'
+  title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction
+    Models
   authors:
   - Gichan Lee
   - Hansae Ju
@@ -32,8 +32,6 @@
   gichan: true
   hansae: true
   type: paper
-  description: null
-  image: images/ASE.png
   buttons:
   - type: source
     text: Source
@@ -84,7 +82,6 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/zhiqiang.jpg
   tags:
   - code-smell
   - android
@@ -115,8 +112,6 @@
   file: sources.yaml
   gichan: true
   type: paper
-  description: null
-  image: images/ieee.png
   tags:
   - defect-prediction
   - XAI
@@ -346,7 +341,6 @@
   date: '2023-03-21'
   link: https://ieeexplore.ieee.org/document/10123486
   type: paper
-  description: null
   tags:
   - defect-prediction
   - XAI
