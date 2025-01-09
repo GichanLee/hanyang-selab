@@ -54,12 +54,6 @@ jobs:
       - name: SSH debug
         if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
-        
-      - name: access to secrets
-        run: |
-          echo "GOOGLE_SCHOLAR_API_KEY=${{secrets.GOOGLE_SCHOLAR_API_KEY}} >> .env
-        env:
-          GOOGLE_SCHOLAR_API_KEY: ${{secrets.GOOGLE_SCHOLAR_API_KEY}}
 
       - name: Build updated citations
         if: github.event.action != 'closed'
