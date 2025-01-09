@@ -1,19 +1,19 @@
 - orcid: 0000-0002-8457-3097
   scott: true
-# - orcid: 0000-0001-8019-8720
-#   gichan: true
-# - orcid: 0009-0004-8912-2262
-#   sana: true
-# - orcid: 0009-0007-1064-1521
-#   hansae: true
-# - orcid: 0009-0006-9411-6128
-#   jungbin: true
-# - orcid: 0009-0006-6048-5347
-#   seungho: true
-# - orcid: 0009-0000-5690-6483
-#   junwoo: true
-# - orcid: 0009-0008-5948-8254
-#   sana: true
+- orcid: 0000-0001-8019-8720
+  gichan: true
+- orcid: 0009-0004-8912-2262
+  hakjin: true
+- orcid: 0009-0007-1064-1521
+  hansae: true
+- orcid: 0009-0006-9411-6128
+  jungbin: true
+- orcid: 0009-0006-6048-5347
+  seungho: true
+- orcid: 0009-0000-5690-6483
+  junwoo: true
+- orcid: 0009-0008-5948-8254
+  sana: true
 # # Alumni
 # - orcid: 0000-0002-1292-3553
 #   zhiqiang: true
