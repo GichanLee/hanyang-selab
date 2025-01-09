@@ -9,10 +9,11 @@
   publisher: Lecture Notes in Computer Science
   date: '2024-09-29'
   link: https://doi.org/g8x22n
-  orcid: 0000-0002-8457-3097
+  orcid: 0000-0001-8019-8720
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  gichan: true
 - id: doi:10.1145/3691620.3695056
   title: 'NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological
     and Empirical Perceptions of Modern Developers'
@@ -24,10 +25,12 @@
     Software Engineering
   date: '2024-10-27'
   link: https://doi.org/g8x22h
-  orcid: 0000-0002-8457-3097
+  orcid: 0009-0007-1064-1521
   scott: true
   plugin: sources.py
   file: sources.yaml
+  gichan: true
+  hansae: true
   type: paper
   description: null
   image: images/ASE.png
@@ -48,10 +51,11 @@
   publisher: Mathematics
   date: '2024-10-17'
   link: https://doi.org/g8x22p
-  orcid: 0000-0002-8457-3097
+  orcid: 0009-0008-5948-8254
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  sana: true
 - id: doi:10.3390/math12060833
   title: 'Sea Shield: A Blockchain Technology Consensus to Improve Proof-of-Stake-Based
     Consensus Blockchain Safety'
@@ -61,10 +65,11 @@
   publisher: Mathematics
   date: '2024-03-12'
   link: https://doi.org/g8x22q
-  orcid: 0000-0002-8457-3097
+  orcid: 0009-0008-5948-8254
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  sana: true
 - id: doi:10.1016/j.jss.2023.111677
   title: A systematic literature review on Android-specific smells
   authors:
@@ -104,10 +109,11 @@
   publisher: IEEE Software
   date: '2023-02-13'
   link: https://doi.org/g8x22s
-  orcid: 0000-0002-8457-3097
+  orcid: 0000-0001-8019-8720
   scott: true
   plugin: sources.py
   file: sources.yaml
+  gichan: true
   type: paper
   description: null
   image: images/ieee.png
@@ -314,6 +320,19 @@
   link: https://doi.org/f7wrfv
   orcid: 0000-0002-8457-3097
   scott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BCCA50787.2020.9274461
+  title: Why the new consensus mechanism is needed in blockchain technology?
+  authors:
+  - Sana Naz
+  - Scott Uk-Jin Lee
+  publisher: 2020 Second International Conference on Blockchain Computing and Applications
+    (BCCA)
+  date: '2020-11-02'
+  link: https://doi.org/g8x24r
+  orcid: 0009-0008-5948-8254
+  sana: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/SANER56733.2023.00026
