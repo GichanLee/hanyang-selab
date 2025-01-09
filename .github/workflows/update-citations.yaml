@@ -59,7 +59,7 @@ jobs:
         run: |
           echo "GOOGLE_SCHOLAR_API_KEY=$GOOGLE_SCHOLAR_API_KEY" >> .env
         env:
-          MAP_API_KEY: ${{secrets.GOOGLE_SCHOLAR_API_KEY}}
+          GOOGLE_SCHOLAR_API_KEY: ${{secrets.GOOGLE_SCHOLAR_API_KEY}}
 
       - name: Build updated citations
         if: github.event.action != 'closed'
