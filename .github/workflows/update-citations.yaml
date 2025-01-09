@@ -28,6 +28,9 @@ jobs:
     timeout-minutes: 15
 
     steps:
+      - name: test
+        run: |
+          echo "GOOGLE_SCHOLAR_API_KEY=$GOOGLE_SCHOLAR_API_KEY"
       - name: Debug dump
         uses: crazy-max/ghaction-dump-context@v2
 
