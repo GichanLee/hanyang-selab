@@ -11,9 +11,7 @@ SELAB의 구성원들은 Google Scholar Software Systems 분야 [상위저작물
 
 {% include section.html %}
 
-<!-- 모든 출판물은 Scott Uk-Jin Lee 교수님의 [Google Scholar 페이지](https://scholar.google.com/citations?hl=ko&user=eOKfjrMAAAAJ&view_op=list_works&sortby=pubdate)에서 더 자세히 확인할 수 있습니다. -->
-{% include section.html %}
-
+## Publications by Year
 {% include search-box.html %}
 
 {% include search-info.html %}
