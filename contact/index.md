@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-SELAB은 경기도 안산시 한양대학로 55의 학연산클러스터지원센터 621호에, Scott Uk-Jin Lee 교수님의 연구실은 617호에 위치합니다. 
+SELAB에 대하여 궁금한 사항들은 아래의 연락처로 연락 바랍니다.
 
 {%
   include button.html
@@ -34,8 +34,8 @@ SELAB은 경기도 안산시 한양대학로 55의 학연산클러스터지원�
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="SELAB"
+  image="images/cluster.jpg"
+  caption="학연산클러스터"
 %}
 
 {% endcapture %}
@@ -50,34 +50,6 @@ SELAB은 경기도 안산시 한양대학로 55의 학연산클러스터지원�
 
 {% endcapture %}
 
-{% capture col3 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="SELAB"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
-
-{% capture col1 %}
-가나다라 테스트
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
