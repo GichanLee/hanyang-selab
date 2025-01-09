@@ -4,6 +4,25 @@
 (2025.01.01)
 안녕하세요? 한양대학교 ERICA 캠퍼스 소프트웨어공학 연구실입니다. **Scott Uk-Jin Lee** 교수님의 지도 아래 SELAB에서는 재능 있는 대학원생들이 소프트웨어 품질 향상을 위한 다양하고 흥미로운 주제를 탐색하고 연구하고 있습니다. SELAB은 자유로운 분위기 속에서 능동적이고 자기주도적인 연구를 수행하는 것을 중점 목표로 하며, 현재 수행중인 주요 연구 및 과제, 구성원들은 다음과 같습니다.
 
+{%
+  include button.html
+  type="email"
+  text="scottlee@hanyang.ac.kr"
+  link="scottlee@hanyang.ac.kr"
+%}
+{%
+  include button.html
+  type="phone"
+  text="(031) 867-5309"
+  link="+82-031-867-5309"
+%}
+{%
+  include button.html
+  type="address"
+  tooltip="한양대 ERICA 학연산클러스터지원센터"
+  link="https://maps.app.goo.gl/id7bQnzffGXXaXG17"
+%}
+
 {% include section.html %}
 
 ## SELAB Highlights
