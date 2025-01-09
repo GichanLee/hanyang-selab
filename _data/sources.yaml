@@ -1,8 +1,7 @@
 - id: doi:10.1145/3691620.3695056
   type: paper
-  description: 
+  title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction Models
   date: 2024-10-27
-  image: images/ASE.png
   buttons:
     - type: source
       text: Source
@@ -14,16 +13,13 @@
 - id: doi:10.1016/j.jss.2023.111677
   type: paper
   date: 2023-07-01
-  image: images/zhiqiang.jpg
   tags:
     - code-smell
     - android
 
 - id: doi:10.1109/MS.2023.3244204
   type: paper
-  description: 
   date: 2023-02-13
-  image: images/ieee.png
   tags:
     - defect-prediction
     - XAI
@@ -35,7 +31,6 @@
     - Gichan Lee
     - Scott Uk-Jin Lee
   publisher: 2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
-  description: 
   link: https://ieeexplore.ieee.org/document/10123486
   date: 2023-03-21
   tags:
