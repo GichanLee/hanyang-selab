@@ -9,16 +9,10 @@ nav:
 
 SELAB의 구성원들은 Google Scholar Software Systems 분야 [상위저작물](https://scholar.google.com/citations?view_op=top_venues&hl=ko&vq=eng_softwaresystems)에 해당하는 탑티어 컨퍼런스 및 저널에 논문을 출판할 수 있도록 최선의 노력을 기울이고 있습니다. 하기한 논문들의 목록은 Scott Uk-Jin Lee 교수님의 ORCID에 기반하여 주마다 갱신됩니다. 
 
+{% include section.html %}
+
 <!-- 모든 출판물은 Scott Uk-Jin Lee 교수님의 [Google Scholar 페이지](https://scholar.google.com/citations?hl=ko&user=eOKfjrMAAAAJ&view_op=list_works&sortby=pubdate)에서 더 자세히 확인할 수 있습니다. -->
-<!-- ## Highlighted
-
-{% include citation.html lookup="NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological and Empirical Perceptions of Modern Developers" style="rich" %}
-
-{% include citation.html lookup="A systematic literature review on Android-specific smells" style="rich" %}
-
-{% include citation.html lookup="Toward Reliable Software Analytics: Systematic Integration of Explanations From Different Model-Agnostic Techniques" style="rich" %}
-
-{% include section.html %} -->
+{% include section.html %}
 
 {% include search-box.html %}
 
