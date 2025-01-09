@@ -28,9 +28,14 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - name: test
+      - name: Verify secret presence
         run: |
-          echo "GOOGLE_SCHOLAR_API_KEY=$GOOGLE_SCHOLAR_API_KEY"
+          if [ -z "${{ secrets.GOOGLE_SCHOLAR_API_KEY  }}" ]; then
+            echo "Secret is not set!"
+            exit 1
+          else
+            echo "Secret is set."
+
       - name: Debug dump
         uses: crazy-max/ghaction-dump-context@v2
 
