@@ -6,7 +6,7 @@ description: 석박사통합과정
 aliases:
   - Junwoo Lee
 links:
-  email: 
+  email: joonywlee@hanyang.ac.kr
   orcid: 0009-0000-5690-6483
   github: 
 ---
