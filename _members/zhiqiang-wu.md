@@ -5,8 +5,7 @@ role: programmer
 description: HONOR
 group: 박사졸
 aliases:
-  - 황교준
-  - Kyojun Hwang
+  - Zhiqiang Wu
 links:
   email: wzq0515@gmail.com
   linkedin: zhiqiang-wu
