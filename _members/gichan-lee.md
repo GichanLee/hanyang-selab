@@ -13,4 +13,4 @@ links:
   linkedin: gcselab
 ---
 
-각자의 소개글
+안녕하세요. 소프트웨어 분석 (Software Analytics), 결함 예측, XAI4SE를 중점적으로 연구하고 있는 이기찬입니다. 
