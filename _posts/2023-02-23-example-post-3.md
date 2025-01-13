@@ -1,7 +1,7 @@
 ---
-title: Example post 3
-author: john-doe
-tags: biology, medicine
+title: 대학원생 모집
+author: scott-ukjin
+tags: 공지사항
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+모집글
