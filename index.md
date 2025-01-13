@@ -4,12 +4,14 @@
 {%
   include button.html
   type="email"
+  tooltip="대표 이메일"
   text="scottlee@hanyang.ac.kr"
   link="scottlee@hanyang.ac.kr"
 %}
 {%
   include button.html
   type="phone"
+  tooltip="대표 전화번호"
   text="(031) 867-5309"
   link="+82-031-867-5309"
 %}
