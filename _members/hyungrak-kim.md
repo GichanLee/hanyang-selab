@@ -3,7 +3,7 @@ name: Hyungrak Kim
 image: images/김형락.jpg
 role: programmer
 description: (주)라인플러스
-group: alum
+group: 석사졸
 aliases:
   - 김형락
   - Hyungrak Kim
