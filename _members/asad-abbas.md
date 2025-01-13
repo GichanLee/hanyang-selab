@@ -2,7 +2,7 @@
 name: Asad Abbas
 image: images/asad.jpg
 role: phd
-description:
+description: PhD
 group: 박사졸
 aliases:
   - Asad Abbas
