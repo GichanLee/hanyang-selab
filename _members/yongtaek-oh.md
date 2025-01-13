@@ -1,7 +1,7 @@
 ---
 name: Youngtaek Oh
 image: images/오용택.jpg
-role: master
+role: programmer
 description: (주)루닛
 group: alum
 aliases:
