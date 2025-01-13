@@ -5,6 +5,7 @@ role: phd
 description: 석박사통합과정
 aliases:
   - Gichan Lee
+group: 현역
 links:
   email: fantasyopy@hanyang.ac.kr
   orcid: 0000-0001-8019-8720
