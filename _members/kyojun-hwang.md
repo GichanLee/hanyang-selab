@@ -1,7 +1,7 @@
 ---
 name: Kyojun Hwang
 image: images/황교준.jpg
-role: master
+role: programmer
 description: (주)크래프톤
 group: alum
 aliases:
