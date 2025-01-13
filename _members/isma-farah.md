@@ -2,7 +2,7 @@
 name: Isma Farah Siddiqui
 image: images/isma.jpg
 role: phd
-description: Assi. Prof. at Monash University
+description: Lecturer at Monash University
 group: 박사졸
 aliases:
   - Isma Farah Siddiqui
