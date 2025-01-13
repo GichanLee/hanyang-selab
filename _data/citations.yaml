@@ -334,3 +334,17 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224363
+  title: Proposal of Outpatient Flow Optimization System in Tertiary and General Hospitals
+    Using Explainable Digital Twin Simulations
+  authors:
+  - Gichan Lee
+  - Scott Uk-Jin Lee
+  publisher: "2022 \uD55C\uAD6D\uC18C\uD504\uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\
+    \uB300\uD68C"
+  date: '2022-12-20'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224363
+  type: paper
+  orcid: 0000-0001-8019-8720
+  plugin: sources.py
+  file: sources.yaml
