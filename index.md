@@ -12,8 +12,8 @@
   include button.html
   type="phone"
   tooltip="대표 전화번호"
-  text="(031) 867-5309"
-  link="+82-031-867-5309"
+  text="(031) 400-4754"
+  link="+82-031-400-4754"
 %}
 {%
   include button.html
