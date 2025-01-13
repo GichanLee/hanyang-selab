@@ -6,6 +6,7 @@ affiliation: Hanyang University ERICA
 aliases:
   - SUJ Lee
 links:
+  email: scottlee@hanyang.ac.kr
   orcid: 0000-0002-8457-3097
 ---
 
