@@ -3,6 +3,8 @@ name: Hakjin Lee
 image: images/이학진.jpg
 role: phd
 description: 석박사통합과정
+aliases:
+  - Hakjin Lee
 links:
   email: gsdjini91@gmail.com
   orcid: 0009-0004-8912-2262
