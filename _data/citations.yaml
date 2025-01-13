@@ -348,3 +348,18 @@
   orcid: 0000-0001-8019-8720
   plugin: sources.py
   file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224363
+  type: paper
+  title: Proposal of Outpatient Flow Optimization System in Tertiary and General Hospitals Using Explainable Digital Twin Simulations
+  authors:
+    - Gichan Lee
+    - Scott Uk-Jin Lee
+  publisher: 2022 한국소프트웨어종합학술대회
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224363
+  date: 2022-12-20
+  tags:
+    - defect-prediction
+    - XAI 
+  orcid: 0000-0001-8019-8720
+  gichan: true
+  scott: true
