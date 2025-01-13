@@ -1,7 +1,7 @@
 ---
 name: Hyungrak Kim
 image: images/김형락.jpg
-role: master
+role: programmer
 description: (주)라인플러스
 group: alum
 aliases:
