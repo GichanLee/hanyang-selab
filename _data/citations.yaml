@@ -36,9 +36,6 @@
   - type: source
     text: Source
     link: https://github.com/Verssae/NeuroJIT
-  tags:
-  - defect-prediction
-  - defect-inducing-commits
 - id: doi:10.3390/math12203263
   title: 'S&amp;SEM: A Secure and Speed-Up Election Mechanism for PoS-Based Blockchain
     Network'
@@ -82,9 +79,6 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  tags:
-  - code-smell
-  - android
 - id: doi:10.3390/electronics12122618
   title: Security Analysis of Web Open-Source Projects Based on Java and PHP
   authors:
@@ -112,9 +106,6 @@
   file: sources.yaml
   gichan: true
   type: paper
-  tags:
-  - defect-prediction
-  - XAI
 - id: doi:10.1145/3536430
   title: Fast Automated Abstract Machine Repair Using Simultaneous Modifications and
     Refactoring
@@ -341,8 +332,5 @@
   date: '2023-03-21'
   link: https://ieeexplore.ieee.org/document/10123486
   type: paper
-  tags:
-  - defect-prediction
-  - XAI
   plugin: sources.py
   file: sources.yaml
