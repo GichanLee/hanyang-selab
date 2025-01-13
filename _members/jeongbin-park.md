@@ -4,7 +4,8 @@ image: images/박정빈.png
 role: phd
 description: 석박사통합과정
 aliases:
-  - Jungbin Park
+  - Jeongbin Park
+  - 박정빈
 group: 현역
 links:
   email: pjb0226@hanyang.ac.kr
