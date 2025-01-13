@@ -7,7 +7,7 @@ group: 박사졸
 aliases:
   - Zhiqiang Wu
 links:
-  email: wzq0515@gmail.com
+  email: wzq0515@outlook.com
   linkedin: zhiqiang-wu
 ---
 
