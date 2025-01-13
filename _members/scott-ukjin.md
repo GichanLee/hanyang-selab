@@ -3,7 +3,7 @@ name: Scott Uk-jin Lee
 image: images/이욱진.jpg
 role: pi
 description: 지도교수
-affiliation: Hanyang University ERICA
+<!-- affiliation: Hanyang University ERICA -->
 aliases:
   - SUJ Lee
 links:
