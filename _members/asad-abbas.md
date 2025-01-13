@@ -1,0 +1,11 @@
+---
+name: Asad Abbas
+image: images/asad.jpg
+role: phd
+description:
+group: 박사졸
+aliases:
+  - Asad Abbas
+links:
+  email: asad.msse330@iiu.edu.pk
+---
