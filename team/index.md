@@ -13,6 +13,10 @@ nav:
 {% include list.html data="members" component="portrait" filter="role != 'pi' and group != 'alum'" %}
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Alumni
-{% include list.html data="members" component="portrait" filter="role != 'pi' and group == 'alum'" %}
+# {% include icon.html icon="fa-solid fa-users" %}Alumni (master)
+{% include list.html data="members" component="portrait" filter="role != 'pi' and group == '석사졸'" %}
+{% include section.html %}
+
+# {% include icon.html icon="fa-solid fa-users" %}Alumni (phd)
+{% include list.html data="members" component="portrait" filter="role != 'pi' and group == '박사졸'" %}
 {% include section.html %}
