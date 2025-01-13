@@ -5,6 +5,7 @@ role: phd
 description: 석박사통합과정
 aliases:
   - Mohsin Javaid Siddiqui 
+group: 현역
 links:
   email: mohsinjavaid@hanyang.ac.kr
   orcid: 0009-0006-6145-6011
