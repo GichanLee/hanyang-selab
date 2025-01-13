@@ -1,5 +1,5 @@
 ---
-name:  Jungbin Park
+name:  Jeongbin Park
 image: images/박정빈.png
 role: phd
 description: 석박사통합과정
@@ -12,4 +12,4 @@ links:
   github: 
 ---
 
-각자 소개글
+안녕하세요. 석박사통합과정생 박정빈입니다. 현재 관심있는 연구 분야는 Foundation Models for Software Engineering 입니다.
