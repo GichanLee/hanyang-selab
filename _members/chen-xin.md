@@ -5,6 +5,7 @@ role: phd
 description: 석박사통합과정
 aliases:
   - Chen Xin
+group: 현역
 links:
   email: xxtx0122@hanyang.ac.kr
 ---
