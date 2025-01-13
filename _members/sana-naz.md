@@ -5,6 +5,7 @@ role: phd
 description: 박사과정
 aliases:
   - Sana Naz
+group: 현역
 links:
   email: 
   orcid: 0009-0008-5948-8254
