@@ -13,7 +13,7 @@ nav:
 
 ## 2025 Activated
 
-{% include list.html component="card" data="projects" filter="group == 'activated'" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
