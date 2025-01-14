@@ -14,6 +14,7 @@
   plugin: sources.py
   file: sources.yaml
   gichan: true
+  type: paper
 - id: doi:10.1145/3691620.3695056
   title: 'NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological
     and Empirical Perceptions of Modern Developers'
@@ -70,6 +71,7 @@
   plugin: sources.py
   file: sources.yaml
   sana: true
+  type: paper
 - id: doi:10.1016/j.jss.2023.111677
   title: A systematic literature review on Android-specific smells
   authors:
@@ -100,6 +102,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.1109/MS.2023.3244204
   title: 'Toward Reliable Software Analytics: Systematic Integration of Explanations
     From Different Model-Agnostic Techniques'
@@ -138,6 +141,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.3390/su14042427
   title: A Comparison of Recent Requirements Gathering and Management Tools in Requirements
     Engineering for IoT-Enabled Sustainable Cities
@@ -152,6 +156,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2022.3147586
   title: 'A Review of NLIDB With Deep Learning: Findings, Challenges and Open Issues'
   authors:
@@ -167,6 +172,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.3390/app112412116
   title: Columns Occurrences Graph to Improve Column Prediction in Deep Learning Nlidb
   authors:
@@ -181,6 +187,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.3390/electronics10182211
   title: Wake Lock Leak Detection in Android Apps Using Multi-Layer Perceptron
   authors:
@@ -195,6 +202,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.1016/j.suscom.2021.100589
   title: Measuring power consumption in mobile devices for energy sustainable app
     development
@@ -210,6 +218,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2021.3110244
   title: Detecting wake lock leaks in android apps using machine learning
   authors:
@@ -225,6 +234,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2021.3100118
   title: Enhancing fidelity of description in Android apps with category-based common
     permissions
@@ -240,6 +250,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2020.3047019
   title: 'FCDP: Fidelity Calculation for Description-to-Permissions in Android Apps'
   authors:
@@ -253,6 +264,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.3390/app10175851
   title: Machine Learning Evaluation of the Requirement Engineering Process Models
     for Cloud Computing and Security Issues
@@ -266,6 +278,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.3390/math7100963
   title: Dynamic Agile Distributed Development Method
   authors:
@@ -335,6 +348,7 @@
   sana: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   scott: true
 - id: doi:10.1109/SANER56733.2023.00026
   title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction
@@ -363,6 +377,7 @@
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
   date: '2022-12-20'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224363
+  type: paper
   orcid: 0000-0001-8019-8720
   gichan: true
   scott: true
@@ -377,6 +392,7 @@
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
   date: '2022-12-20'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224051
+  type: paper
   orcid: 0009-0004-8912-2262
   hakjin: true
   scott: true
@@ -391,6 +407,7 @@
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
   date: '2022-12-20'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224052
+  type: paper
   orcid: 0009-0007-1064-1521
   hansae: true
   scott: true
@@ -405,6 +422,7 @@
     \uD559\uC220\uB300\uD68C"
   date: '2022-07-14'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140328
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -418,6 +436,7 @@
     \uD559\uC220\uB300\uD68C"
   date: '2022-07-14'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140329
+  type: paper
   orcid: 0009-0004-8912-2262
   hakjin: true
   scott: true
@@ -432,6 +451,7 @@
     \uD559\uC220\uB300\uD68C"
   date: '2022-07-14'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140330
+  type: paper
   orcid: null
   hansae: true
   scott: true
@@ -446,6 +466,7 @@
     \uD559\uC220\uB300\uD68C"
   date: '2022-07-14'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113645
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -459,6 +480,7 @@
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
   date: '2021-12-20'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035663
+  type: paper
   orcid: 0009-0004-8912-2262
   hakjin: true
   scott: true
@@ -473,6 +495,7 @@
   publisher: "\uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C"
   date: '2021-06-30'
   link: https://doi.org/10.9708/jksci.2021.26.06.089
+  type: paper
   orcid: 0000-0002-8457-3097
   hakjin: true
   scott: true
@@ -487,6 +510,7 @@
   publisher: "\uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C"
   date: '2021-06-30'
   link: https://doi.org/10.9708/jksci.2021.26.06.107
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -501,6 +525,7 @@
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
   date: '2021-12-20'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035659
+  type: paper
   orcid: 0009-0007-1064-1521
   hansae: true
   scott: true
@@ -516,6 +541,7 @@
   publisher: Little Lion Scientific
   date: '2020-11-30'
   link: https://www.jatit.org/volumes/Vol98No22/2Vol98No22.pdf
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -531,6 +557,7 @@
     Engineering (FormaliSE)
   date: '2020-10-07'
   link: https://doi.org/10.1145/3372020.3391564
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -543,8 +570,9 @@
   - Ian Warren
   - Scott Uk-Jin Lee
   publisher: International Journal of Software Engineering and Knowledge Engineering
-  date: ''
+  date: '2020-06-01'
   link: https://doi.org/10.1142/S0218194020400057
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -556,8 +584,9 @@
   - Scott Uk-Jin Lee
   - Asad Abbas
   publisher: TSI Press Intelligent Automation & Soft Computing
-  date: ''
+  date: '2020-03-01'
   link: https://doi.org/10.31209/2019.100000132
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -569,8 +598,9 @@
   - Scott Uk-Jin Lee
   publisher: "2020 \uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C \uD558\uACC4\
     \uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2020-07-16'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09415050
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -582,8 +612,9 @@
   - Scott Uk-Jin Lee
   publisher: "2020 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uC18C\uD504\
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529719
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -595,8 +626,9 @@
   - Scott Uk-Jin Lee
   publisher: "2020 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uC18C\uD504\
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529588
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -608,8 +640,9 @@
   - Scott Uk-Jin Lee
   publisher: "2020 \uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C \uD558\uACC4\
     \uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2020-07-16'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09415049
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -622,8 +655,9 @@
   - Scott Uk-Jin Lee
   - Asad Abbas
   publisher: Little Lion Scientific
-  date: ''
+  date: '2020-11-30'
   link: https://www.jatit.org/volumes/Vol98No22/7Vol98No22.pdf
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -637,8 +671,9 @@
   - Scott Uk-Jin Lee
   publisher: "2021 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uCEF4\uD4E8\
     \uD130\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2021-06-23'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583512
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -653,8 +688,9 @@
   - Scott Uk-Jin Lee
   publisher: "2021 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uCEF4\uD4E8\
     \uD130\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2021-06-23'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583401
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -669,8 +705,9 @@
   - Scott Uk-Jin Lee
   publisher: "2021 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uCEF4\uD4E8\
     \uD130\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2021-06-23'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583400
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -682,8 +719,9 @@
   - Scott Uk-Jin Lee
   publisher: "2020 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uC18C\uD504\
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529941
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -695,8 +733,9 @@
   - Scott Uk-Jin Lee
   publisher: "2020 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uC18C\uD504\
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529940
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -709,8 +748,9 @@
   - Scott Uk-Jin Lee
   publisher: "2020 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uC18C\uD504\
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529587
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -725,6 +765,7 @@
   publisher: 2019 26th Asia-Pacific Software Engineering Conference (APSEC)
   date: '2019-12-02'
   link: https://doi.org/10.1109/APSEC48747.2019.00043
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -737,8 +778,9 @@
   - Scott Uk-Jin Lee
   publisher: "2019 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uC18C\uD504\
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2019-12-18'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301565
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -749,8 +791,9 @@
   - Muhammad Asgher Nadeem
   - Scott Uk-Jin Lee
   publisher: Indian Journal of Science and Technology
-  date: ''
+  date: '2019-11-01'
   link: https://doi.org/10.17485/ijst/2019/v12i43/146882
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -769,6 +812,7 @@
   publisher: SPRINGER
   date: '2018-04-17'
   link: https://doi.org/10.1007/s11277-018-5739-9
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -783,6 +827,7 @@
     (INCCST'19)
   date: '2019-04-10'
   link: https://hhhwwwuuu.github.io/assets/pdf/Xin0.pdf
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -794,8 +839,9 @@
   - Scott Uk-Jin Lee
   publisher: "2019 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uC18C\uD504\
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2019-12-18'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301536
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -807,8 +853,9 @@
   - Scott Uk-Jin Lee
   publisher: "2019 \uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD55C\uAD6D\uC18C\uD504\
     \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2019-12-18'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301535
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -822,8 +869,9 @@
   - Scott Uk-Jin Lee
   publisher: "2019 \uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C \uB3D9\uACC4\
     \uD559\uC220\uB300\uD68C"
-  date: ''
+  date: '2019-01-17'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07614538&language=ko_KR
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -836,8 +884,9 @@
   - Xin Chen
   - Scott Uk-Jin Lee
   publisher: Society of Convergence and Integrated Research
-  date: ''
+  date: '2019-01-01'
   link: https://hhhwwwuuu.github.io/assets/pdf/Zhiqiang6.pdf
+  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
