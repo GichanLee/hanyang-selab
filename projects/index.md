@@ -10,7 +10,7 @@ nav:
 {% include tags.html tags="pi, ci" link="/hanyang-selab/projects/" %}
 
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" style="small" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
