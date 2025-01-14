@@ -7,13 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-{% include search-info.html %}
-
-{% include section.html %}
-
 ## 2025 Activated
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" style=="small %}
 
 {% include section.html %}
 
