@@ -9,7 +9,7 @@ nav:
 
 ## 2025 Activated
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" style=="small" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" style="small" %}
 
 {% include section.html %}
 
