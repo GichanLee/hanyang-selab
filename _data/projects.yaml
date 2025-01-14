@@ -1,12 +1,8 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Brain Korea 21 Four - Education and Research Center for Artificial Intelligence in Healthcare (Hanyang University ERICA)
+  subtitle: (approx.₩690,000,000 / year) 2020.09 – 2027.8
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: Ministry of Science and ICT, 책임연구자
 
 - title: Cool Package
   subtitle: a subtitle
