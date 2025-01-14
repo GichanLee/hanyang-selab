@@ -1,13 +1,10 @@
 ---
 ---
-{% capture lorem %}
-SELAB 홈페이지는 2025년 1월 새롭게 단장되어 지속적인 업데이트 중에 있습니다. 이에 따라, 게시된 내용의 일부가 변경/제거될 수 있음을 고지드립니다.
-{% endcapture %}
 
 {%
   include alert.html
   type="info"
-  content=content
+  content="SELAB 홈페이지는 2025년 1월 새롭게 단장되어 지속적인 업데이트 중에 있습니다. 이에 따라, 게시된 내용의 일부가 변경/제거될 수 있음을 고지드립니다."
 %}
 
 {%
