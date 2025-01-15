@@ -7,6 +7,7 @@ group: 석사졸
 aliases:
   - 김형락
   - Hyunglak Kim
+  - Hyung-lak Kim
 links:
   email: jikuaij@gmail.com
 ---
