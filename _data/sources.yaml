@@ -536,8 +536,7 @@
   orcid: 0000-0002-8457-3097
   scott: true
 
-- id: shanza_JTAIT
-  type: paper
+- type: paper
   title: 'Pipeline and Deep Learning Approach for NLIDB: A Comparative Study'
   authors:
     - Shanza Abbas
@@ -697,8 +696,7 @@
   orcid: 0000-0002-8457-3097
   scott: true
 
-- id: chenxin_inccst19
-  type: paper
+- type: paper
   title: Web Attack Detection Based on ResNet and RNN
   authors:
     - Xin Chen
@@ -747,8 +745,7 @@
   orcid: 0000-0002-8457-3097
   scott: true
 
-- id: zhiqiang_SCIR
-  type: paper
+- type: paper
   title: Identifying Latent Android Malware from Application’s Description using LSTM
   authors:
     - Zhiqing Wu
@@ -805,8 +802,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207301
   date: 2017-06-18
 
-- id: zhiqiang_JTAIT
-  type: journal article
+- type: paper
   title: Classification of Concurrent Anomalies for IoT Software based Support Vector Machine
   authors:
     - Zhiqiang Wu
@@ -859,8 +855,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503314
   date: 2018-12-19
 
-- id: mohsin_IWCIT
-  type: paper
+- type: paper
   title: Comparative Analysis of GUI Development for Android application by utilizing MDA Approach
   authors:
     - Mohsin Javaid Siddiqui
@@ -906,8 +901,7 @@
   link: https://ieeexplore.ieee.org/abstract/document/8046004
   date: 2017-09-19
 
-- id: hyunglak_ICCCA17
-  type: paper
+- type: paper
   title: Effective Multi-Thread Extraction
   authors:
     - Hyung-Lak Kim
@@ -917,8 +911,7 @@
   link: https://www.researchgate.net/publication/322592767_Effective_Multi-Thread_Extraction_Methodology
   date: 2017-08-01
 
-- id: zhiqiang_ICCCA2017
-  type: paper
+- type: paper
   title: Multiple Concurrency Anomalies Classification for Mobile Applications using Support Vector Machine
   authors:
     - Zhiqiang Wu
@@ -993,8 +986,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322231
   date: 2017-12-20
 
-- id: asad_JTAIT2017
-  type: journal article
+- type: paper
   title: Contextual variability management of IoT application with xml-based feature modelling
   authors:
     - Asad Abbas
@@ -1036,8 +1028,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322411
   date: 2017-12-20
 
-- id: chenxin_IWCIT17
-  type: paper
+- type: paper
   title: Testing and Evaluation of Free/Open Source Web Vulnerability Scanners for IoT Web Applications
   authors:
     - Xin Chen
@@ -1047,8 +1038,7 @@
   link: https://www.researchgate.net/publication/327133953_Testing_and_Evaluation_of_FreeOpen_Source_Web_Vulnerability_Scanners_for_IoT_Web_Applications
   date: 2017-12-22
 
-- id: asad_ICCCA17_1
-  type: paper
+- type: paper
   title: Contextual Variability Management of IoT Applications Using Agent-Base Modeling with Software Product Line
   authors:
     - Asad Abbas
@@ -1060,8 +1050,7 @@
   link: https://www.researchgate.net/publication/333189505_Contextual_Variability_Management_of_IoT_Applications_Using_Agent-based_Modeling_with_Software_Product_Line
   date: 2017-08-01
 
-- id: asad_ICCCA17_2
-  type: paper
+- type: paper
   title: Contextual Variability Management of Multi-Software Product Line
   authors:
     - Asad Abbas
@@ -1095,8 +1084,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207291
   date: 2017-06-18
 
-- id: isma_2016JTAIT
-  type: paper
+- type: paper
   title: A hidden markov model to predict hot socket issue in smart grid
   authors:
     - Isma Farah Siddiqui
@@ -1129,8 +1117,7 @@
   link: https://www.researchgate.net/publication/313248305_A_Comparative_Study_of_Multithreading_APIs_for_Software_of_ICT_Equipment
   date: 2016-12-01
 
-- id: zhqiaing_kcc
-  type: paper
+- type: paper
   title: The Application of Bankers Algorithm in Order Scheduling Management for Deadlock Avoidance
   authors:
     - Zhiqiang Wu
@@ -1150,8 +1137,7 @@
   link: https://www.researchgate.net/publication/303553790_An_Empirical_Study_over_Correctness_Properties_for_Multithreaded_Programs
   date: 2016-05-01
 
-- id: asad_ICISCA16
-  type: paper
+- type: paper
   title: Challenges of Multi-Objective Optimization in Feature Model of Software Product Line
   authors:
     - Asad Abbas
@@ -1174,8 +1160,7 @@
   link: https://indjst.org/articles/an-approach-for-optimized-feature-selection-in-software-product-lines-using-union-find-and-genetic-algorithms
   date: 2016-05 
 
-- id: scott_KSCI
-  type: paper
+- type: paper
   title: "XML-based Feature Modeling of IoT Applications"
   authors:
     - Scott Uk-Jin Lee
@@ -1185,8 +1170,7 @@
   link: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
   date: 2016-12
 
-- id: asad_ICICTSS
-  type: paper
+- type: paper
   title: "Optimized feature selection with crosscutting concerns in software product line feature model"
   authors:
     - Asad Abbas
@@ -1197,8 +1181,7 @@
   link: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
   date: 2016-01
 
-- id: asad_JTAIT
-  type: paper
+- type: paper
   title: "Goal-based modeling for requirement traceability of software product line"
   authors:
     - Asad Abbas
@@ -1238,8 +1221,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
   date: 2016-06
 
-- id: isma_SCIR16
-  type: paper
+- type: paper
   title: "HBAC: An access control over Semantics-enabled Smart Grids to enable energy-efficiency and lifetime optimization"
   authors:
     - Isma Farah Siddiqui
@@ -1333,8 +1315,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
   date: 2015-06
 
-- id: isma_ICONI2015
-  type: paper
+- type: paper
   title: "Privacy-Aware Smart Learning: Providing XACML as a Service in Semantic Web based Smart Environment"
   authors:
     - Isma Farah Siddiqui
@@ -1390,8 +1371,7 @@
   link: http://www.dbpia.co.kr/Article/NODE06394643
   date: 2015-06
 
-- id: isma_ICICTSS15
-  type: paper
+- type: paper
   title: "A Novel Approach for Integrating Semantic Web Techniques into Smart Education Environment"
   authors:
     - Isma Farah Siddiqui
@@ -1400,8 +1380,7 @@
   link: https://www.researchgate.net/publication/271769906_A_Novel_Approach_for_Integrating_Semantic_Web_Techniques_into_Smart_Education_Environment
   date: 2015-01
 
-- id: isma_KCC16
-  type: paper
+- type: paper
   title: "A Framework for Verifying Consistency of SQL-DB Ontology using Alloy"
   authors:
     - Isma Farah Siddiqui
@@ -1410,8 +1389,7 @@
   link: https://www.researchgate.net/publication/268688886_A_Framework_for_Verifying_Consistency_of_SQL-DB_Ontology_using_Alloy
   date: 2014-06
 
-- id: isma_CCIS13
-  type: paper
+- type: paper
   title: "An Advanced Hyper-Efficient Design to Detect Random Peer-to-Peer Botnets"
   authors:
     - Isma Farah Siddiqui
@@ -1442,8 +1420,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
   date: 2013-06
 
-- id: jaeho_KCSE2014
-  type: paper
+- type: paper
   title: "XACML Policy Viewer for Generating Effective Access Control Policies"
   authors:
     - Jaeho Choi
@@ -1501,8 +1478,7 @@
   link: https://link.springer.com/article/10.1007/s10703-010-0099-4
   date: 2010-09-30
 
-- id: scott_postdoc1
-  type: paper
+- type: paper
   title: "Applying MDE for the Validation of Correct Eclipse Plugin Bundles"
   authors:
     - Guillaume Doux
@@ -1528,8 +1504,7 @@
   publisher: 2009 Third IEEE International Symposium on Theoretical Aspects of Software Engineering
   link: https://ieeexplore.ieee.org/document/5198502
   
-- id: scott_JUCS
-  type: paper
+- type: paper
   title: "Formal Verification of Semistructured Data Models in PVS"
   authors:
     - Scott Uk-Jin Lee
@@ -1565,8 +1540,7 @@
   date: 2008-04-03
   link: https://ieeexplore.ieee.org/document/4483213
   
-- id: scott_APCCM
-  type: paper
+- type: paper
   title: "Extended Abstract: Towards Verifying Semistructured Data"
   authors:
     - Gillian Dobbie
@@ -1577,8 +1551,7 @@
   date: 2007-01-30
   link: https://dl.acm.org/citation.cfm?id=1274457
 
-- id: scott_doc1
-  type: paper
+- type: paper
   title: "A PVS Approach to Verifying ORA-SS Data Models"
   authors:
     - Scott Uk-Jin Lee
@@ -1600,8 +1573,7 @@
   publisher: Electronic Notes in Theoretical Computer Science (ENTCS)
   link: https://doi.org/10.1016/j.entcs.2006.01.025
 
-- id: scott_ICDCIT
-  type: paper
+- type: paper
   title: "Research into Verifying Semistructured Data"
   authors:
     - Gillian Dobbie
