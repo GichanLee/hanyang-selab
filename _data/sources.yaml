@@ -2,10 +2,6 @@
   type: paper
   title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction Models
   date: 2024-10-27
-  buttons:
-    - type: source
-      text: Source
-      link: https://github.com/Verssae/NeuroJIT
 
 - id: doi:10.1016/j.jss.2023.111677
   type: paper
@@ -43,13 +39,8 @@
   type: paper
   description: null
   image: images/ASE.png
-  buttons:
-  - type: source
-    text: Source
-    link: https://github.com/Verssae/NeuroJIT
-  tags:
-  - defect-prediction
-  - defect-inducing-commits
+
+
 - id: doi:10.1007/978-3-031-66456-4_8
   type: paper
   title: 'Less is More: An Empirical Study of Undersampling Techniques for Technical Debt Prediction'
@@ -93,9 +84,7 @@
   file: sources.yaml
   type: paper
   image: images/zhiqiang.jpg
-  tags:
-  - code-smell
-  - android
+
 - id: doi:10.3390/electronics12122618
   type: paper
   title: Security Analysis of Web Open-Source Projects Based on Java and PHP
@@ -119,9 +108,7 @@
   link: https://ieeexplore.ieee.org/document/10123486
   type: paper
   description: null
-  tags:
-  - defect-prediction
-  - XAI
+
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MS.2023.3244204
@@ -141,9 +128,7 @@
   type: paper
   description: null
   image: images/ieee.png
-  tags:
-  - defect-prediction
-  - XAI
+
 - id: doi:10.1145/3536430
   type: paper
   title: Fast Automated Abstract Machine Repair Using Simultaneous Modifications and Refactoring
