@@ -2,7 +2,7 @@
 name: Sana Naz
 image: images/sana.jpg
 role: phd
-description: 박사과
+description: 박사과정
 aliases:
   - Gichan Lee
 group: 현역
