@@ -408,7 +408,7 @@
   orcid: 0000-0002-8457-3097
   scott: true
 
-- id: https://www.jatit.org/volumes/Vol98No22/2Vol98No22.pdf
+- id: khan_JTAIT
   type: paper
   title: 'Energy-Leaks in Android Application Development: Perspective and Challenges'
   authors:
@@ -416,7 +416,7 @@
     - Shanza Abbas
     - Scott Uk-Jin Lee
     - Asad Abbas
-  publisher: Little Lion Scientific
+  publisher: Journal of Theoretical and Applied Information Technology
   date: '2020-11-30'
   link: https://www.jatit.org/volumes/Vol98No22/2Vol98No22.pdf
   orcid: 0000-0002-8457-3097
@@ -536,7 +536,7 @@
   orcid: 0000-0002-8457-3097
   scott: true
 
-- id: https://www.jatit.org/volumes/Vol98No22/7Vol98No22.pdf
+- id: shanza_JTAIT
   type: paper
   title: 'Pipeline and Deep Learning Approach for NLIDB: A Comparative Study'
   authors:
@@ -544,7 +544,7 @@
     - Muhammad Umair Khan
     - Scott Uk-Jin Lee
     - Asad Abbas
-  publisher: Little Lion Scientific
+  publisher: Journal of Theoretical and Applied Information Technology
   date: '2020-11-30'
   link: https://www.jatit.org/volumes/Vol98No22/7Vol98No22.pdf
   orcid: 0000-0002-8457-3097
@@ -697,7 +697,7 @@
   orcid: 0000-0002-8457-3097
   scott: true
 
-- id: https://hhhwwwuuu.github.io/assets/pdf/Xin0.pdf
+- id: chenxin_inccst19
   type: paper
   title: Web Attack Detection Based on ResNet and RNN
   authors:
@@ -747,7 +747,7 @@
   orcid: 0000-0002-8457-3097
   scott: true
 
-- id: https://hhhwwwuuu.github.io/assets/pdf/Zhiqiang6.pdf
+- id: zhiqiang_SCIR
   type: paper
   title: Identifying Latent Android Malware from Application’s Description using LSTM
   authors:
@@ -917,7 +917,7 @@
   link: https://www.researchgate.net/publication/322592767_Effective_Multi-Thread_Extraction_Methodology
   date: 2017-08-01
 
-- id: https://hhhwwwuuu.github.io/assets/pdf/Zhiqiang3.pdf
+- id: zhiqiang_ICCCA2017
   type: paper
   title: Multiple Concurrency Anomalies Classification for Mobile Applications using Support Vector Machine
   authors:
@@ -1185,7 +1185,7 @@
   link: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
   date: 2016-12
 
-- id: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
+- id: asad_ICICTSS
   type: paper
   title: "Optimized feature selection with crosscutting concerns in software product line feature model"
   authors:
@@ -1197,7 +1197,7 @@
   link: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
   date: 2016-01
 
-- id: https://www.jatit.org/volumes/Vol94No2/8Vol94No2.pdf
+- id: asad_JTAIT
   type: paper
   title: "Goal-based modeling for requirement traceability of software product line"
   authors:
@@ -1333,7 +1333,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
   date: 2015-06
 
-- id: https://www.researchgate.net/profile/Isma-Siddiqui/publication/289519517_Privacy-Aware_Smart_Learning_Providing_XACML_as_a_Service_in_Semantic_Web_based_Smart_Environment/links/591a853eaca2722d7cfe9201/Privacy-Aware-Smart-Learning-Providing-XACML-as-a-Service-in-Semantic-Web-based-Smart-Environment.pdf
+- id: isma_ICONI2015
   type: paper
   title: "Privacy-Aware Smart Learning: Providing XACML as a Service in Semantic Web based Smart Environment"
   authors:
@@ -1442,7 +1442,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
   date: 2013-06
 
-- id: http://sigsoft.or.kr/ftp/KCSE2014_proceeding.pdf
+- id: jaeho_KCSE2014
   type: paper
   title: "XACML Policy Viewer for Generating Effective Access Control Policies"
   authors:
