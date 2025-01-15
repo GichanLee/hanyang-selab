@@ -320,7 +320,7 @@
   authors:
   - Scott Uk-Jin Lee
   publisher: Hindawi Publishing Corporation
-  date: ''
+  date: '2015-10-19'
   link: https://www.hindawi.com/journals/mpe/2015/435316/
   orcid: 0000-0002-8457-3097
   scott: true
@@ -1065,7 +1065,7 @@
   - Scott Uk-Jin Lee
   publisher: "2017\uB144 \uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C \uB3D9\
     \uACC4\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1 \uC81C25\uAD8C \uC81C1\uD638"
-  date: '2017-01-01'
+  date: '2017-01-12'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101017
   type: paper
   plugin: sources.py
@@ -1129,7 +1129,7 @@
   - Scott Uk-Jin Lee
   publisher: "2017\uB144 \uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C \uB3D9\
     \uACC4\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
-  date: '2017-01-01'
+  date: '2017-01-12'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101016
   type: paper
   plugin: sources.py
@@ -1234,7 +1234,7 @@
   - Abdul Rahim Mohamed Ariffin
   - Scott Uk-Jin Lee
   publisher: Indian Society for Education and Environment
-  date: ''
+  date: '2016-12-01'
   link: http://www.indjst.org/index.php/indjst/article/view/108873
   type: paper
   plugin: sources.py
@@ -1259,7 +1259,7 @@
   - Gayeon Kim
   - Scott Uk-Jin Lee
   publisher: Indian Society for Education and Environment
-  date: ''
+  date: '2016-05-01'
   link: https://indjst.org/articles/an-empirical-study-over-correctness-properties-for-multithreaded-programs
   type: paper
   plugin: sources.py
@@ -1287,7 +1287,7 @@
   - Asad Abbas
   - Wu Zhiqiang
   publisher: Indian Society for Education and Environment
-  date: ''
+  date: '2016-05-01'
   link: https://indjst.org/articles/an-approach-for-optimized-feature-selection-in-software-product-lines-using-union-find-and-genetic-algorithms
   type: paper
   plugin: sources.py
@@ -1300,7 +1300,7 @@
   - Isma Farah Siddiqui
   publisher: The Korea Society of Computer Information
   link: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
-  date: ''
+  date: '2016-12-01'
   plugin: sources.py
   file: sources.yaml
 - type: paper
@@ -1314,7 +1314,7 @@
   publisher: International Conference on Information and Convergence Technology for
     Smart Society
   link: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
-  date: ''
+  date: '2016-01-19'
   plugin: sources.py
   file: sources.yaml
 - type: paper
@@ -1325,7 +1325,7 @@
   - Scott Uk-Jin Lee
   publisher: Journal of Theoretical and Applied Information Technology
   link: https://www.jatit.org/volumes/Vol94No2/8Vol94No2.pdf
-  date: ''
+  date: '2016-12-31'
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7472/jksii.2016.17.5.09
@@ -1336,8 +1336,8 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC778\uD130\uB137\uC815\uBCF4\uD559\uD68C (Korea Internet\
     \ Information Society)"
-  date: '1970-01-01'
-  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002163275
+  date: '2016-10-31'
+  link: https://doi.org/10.7472/jksii.2016.17.5.09
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -1347,7 +1347,7 @@
   - Hyung-Lak Kim
   - Scott Uk-Jin Lee
   publisher: Korean Institute of Information Scientists and Engineers
-  date: ''
+  date: '2016-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07115900&language=ko_KR&hasTopBanner=true
   type: paper
   plugin: sources.py
@@ -1359,7 +1359,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2016-06-29'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
   type: paper
   plugin: sources.py
@@ -1373,7 +1373,7 @@
   - Scott Uk-Jin Lee
   publisher: Society of Convergence and Integrated Research
   link: https://www.researchgate.net/publication/294823751_HBAC_An_access_control_over_Semantics-enabled_Smart_Grids_to_enable_energy-efficiency_and_lifetime_optimization
-  date: ''
+  date: '2016-01-19'
   plugin: sources.py
   file: sources.yaml
 - id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07115834
@@ -1384,7 +1384,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2016-12-21'
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07115834
   type: paper
   plugin: sources.py
@@ -1396,7 +1396,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2016-06-29'
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017606
   type: paper
   plugin: sources.py
@@ -1409,7 +1409,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2016-06-29'
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017602
   type: paper
   plugin: sources.py
@@ -1421,7 +1421,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2016-06-29'
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017600
   type: paper
   plugin: sources.py
@@ -1433,7 +1433,7 @@
   - Javeria Shaikh Manzoor
   - Scott Uk-Jin Lee
   publisher: IEEE
-  date: ''
+  date: '2014-06-27'
   link: https://ieeexplore.ieee.org/document/6903311?arnumber=6903311&SID=EBSCO:edseee
   type: paper
   plugin: sources.py
@@ -1447,7 +1447,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2015-06-24'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
   type: paper
   plugin: sources.py
@@ -1461,7 +1461,7 @@
   publisher: The 7th International Conference on Internet (ICONI) 2015
   location: Kuala Lumpur, Malaysia
   link: https://www.researchgate.net/profile/Isma-Siddiqui/publication/289519517_Privacy-Aware_Smart_Learning_Providing_XACML_as_a_Service_in_Semantic_Web_based_Smart_Environment/links/591a853eaca2722d7cfe9201/Privacy-Aware-Smart-Learning-Providing-XACML-as-a-Service-in-Semantic-Web-based-Smart-Environment.pdf
-  date: ''
+  date: '2015-12-01'
   plugin: sources.py
   file: sources.yaml
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602432
@@ -1473,7 +1473,7 @@
   - Scott Uk-Jin Lee
   publisher: Proceedings of the 2015 Korean Institute of Information Scientists and
     Engineers (KIISE) Winter Conference
-  date: ''
+  date: '2015-12-01'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602432
   type: paper
   plugin: sources.py
@@ -1486,7 +1486,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2015-12-01'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602422
   type: paper
   plugin: sources.py
@@ -1499,7 +1499,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2015-06-24'
   link: http://www.dbpia.co.kr/Article/NODE06394643
   type: paper
   plugin: sources.py
@@ -1513,7 +1513,7 @@
   publisher: International Conference on Information and Convergence Technology for
     Smart Society
   link: https://www.researchgate.net/publication/271769906_A_Novel_Approach_for_Integrating_Semantic_Web_Techniques_into_Smart_Education_Environment
-  date: ''
+  date: '2015-01-01'
   plugin: sources.py
   file: sources.yaml
 - type: paper
@@ -1523,7 +1523,7 @@
   - Scott Uk-Jin Lee
   publisher: 16th Korea Computer Congress
   link: https://www.researchgate.net/publication/268688886_A_Framework_for_Verifying_Consistency_of_SQL-DB_Ontology_using_Alloy
-  date: ''
+  date: '2014-06-25'
   plugin: sources.py
   file: sources.yaml
 - type: paper
@@ -1535,7 +1535,7 @@
   - Mukhtiar Ali Unar
   publisher: Communications in Computer and Information Science (CCIS), IMTIC 2013
   link: https://www.researchgate.net/publication/268688917_An_Advanced_Hyper-Efficient_Design_to_Detect_Random_Peer-to-Peer_Botnets
-  date: ''
+  date: '2014-01-01'
   plugin: sources.py
   file: sources.yaml
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217182
@@ -1545,7 +1545,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2013-06-01'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217182
   type: paper
   plugin: sources.py
@@ -1557,7 +1557,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2013-06-01'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
   type: paper
   plugin: sources.py
@@ -1571,7 +1571,7 @@
     \uACF5\uD559 \uC18C\uC0AC\uC774\uC5B4\uD2F0, \uD55C\uAD6D\uC815\uBCF4\uCC98\uB9AC\
     \uD559\uD68C \uC18C\uD504\uD2B8\uC6E8\uC5B4\uACF5\uD559 \uC5F0\uAD6C\uD68C"
   link: http://sigsoft.or.kr/ftp/KCSE2014_proceeding.pdf
-  date: ''
+  date: '2014-02-01'
   plugin: sources.py
   file: sources.yaml
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217171
@@ -1581,7 +1581,7 @@
   - Scott Uk-Jin Lee
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
     \ Scientists and Engineers)"
-  date: ''
+  date: '2013-06-01'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217171
   type: paper
   plugin: sources.py
@@ -1595,7 +1595,7 @@
   - Marcos Didonet del Fabro
   - Scott Lee
   publisher: ECMFA 2011 - Modelling Foundations and Applications
-  date: '1970-01-01'
+  date: '2011-06-01'
   link: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_27
   type: paper
   plugin: sources.py
@@ -1611,7 +1611,7 @@
   - Marcos Didonet Del Fabro
   - Scott Uk-Jin Lee
   publisher: ECMFA 2011 - Modelling Foundations and Applications
-  date: '1970-01-01'
+  date: '2011-06-01'
   link: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_12
   type: paper
   plugin: sources.py
@@ -1641,7 +1641,7 @@
   - Scott Lee
   publisher: Neptune Days
   link: https://www.researchgate.net/publication/47664905_Applying_MDE_for_the_Validation_of_Correct_Eclipse_Plugin_Bundles
-  date: ''
+  date: '2010-05-01'
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TASE.2009.11
@@ -1654,7 +1654,7 @@
   - Hai H. Wang
   publisher: 2009 Third IEEE International Symposium on Theoretical Aspects of Software
     Engineering
-  date: '2009-07-01'
+  date: '2009-07-29'
   link: https://ieeexplore.ieee.org/document/5198502
   type: paper
   plugin: sources.py
@@ -1669,7 +1669,7 @@
   publisher: JOURNAL OF UNIVERSAL COMPUTER SCIENCE
   link: https://www.researchgate.net/publication/220349149_Formal_Verification_of_Semistructured_Data_Models_in_PVS
   pages: 241-272
-  date: ''
+  date: '2009-01-01'
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICECCS.2008.23
@@ -1721,7 +1721,7 @@
   - Lindsay Groves
   publisher: Proceedings of the Eighteenth International Conference on Software Engineering
     & Knowledge Engineering (SEKE'2006)
-  date: ''
+  date: '2006-07-01'
   link: https://www.researchgate.net/publication/221390797_A_PVS_approach_to_verifying_ORA-SS_data_models
   plugin: sources.py
   file: sources.yaml
@@ -1733,7 +1733,7 @@
   - Gillian Dobbie
   - Yuan Fang Li
   publisher: Electronic Notes in Theoretical Computer Science (ENTCS)
-  date: '2006-05-01'
+  date: '2006-05-16'
   link: https://doi.org/10.1016/j.entcs.2006.01.025
   type: paper
   plugin: sources.py
@@ -1747,6 +1747,6 @@
   - Scott Uk-Jin Lee
   publisher: International Conference on Distributed Computing and Internet Technology
   link: https://link.springer.com/chapter/10.1007/11951957_32
-  date: '1970-01-01'
+  date: '2006-12-01'
   plugin: sources.py
   file: sources.yaml
