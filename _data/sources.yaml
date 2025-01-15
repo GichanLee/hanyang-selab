@@ -408,8 +408,7 @@
   orcid: 0000-0002-8457-3097
   scott: true
 
-- id: khan_JTAIT
-  type: paper
+- type: paper
   title: 'Energy-Leaks in Android Application Development: Perspective and Challenges'
   authors:
     - Muhammad Umair Khan
