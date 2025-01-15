@@ -24,9 +24,9 @@
 - id: doi:10.1145/3691620.3695056
   title: 'NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological and Empirical Perceptions of Modern Developers'
   authors:
-  - Gichan Lee
-  - Hansae Ju
-  - Scott Uk-Jin Lee
+    - Gichan Lee
+    - Hansae Ju
+    - Scott Uk-Jin Lee
   publisher: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering
   date: '2024-10-27'
   link: https://doi.org/g8x22h
@@ -55,12 +55,13 @@
   plugin: orcid.py
   file: orcid.yaml
   gichan: true
+  
 - id: doi:10.3390/math12060833
   type: paper
   title: 'Sea Shield: A Blockchain Technology Consensus to Improve Proof-of-Stake-Based Consensus Blockchain Safety'
   authors:
-  - Sana Naz
-  - Scott Uk-Jin Lee
+    - Sana Naz
+    - Scott Uk-Jin Lee
   publisher: Mathematics
   date: '2024-03-12'
   link: https://doi.org/g8x22q
@@ -69,12 +70,13 @@
   plugin: orcid.py
   file: orcid.yaml
   sana: true
+  
 - id: doi:10.1016/j.jss.2023.111677
   title: A systematic literature review on Android-specific smells
   authors:
-  - Zhiqiang Wu
-  - Xin Chen
-  - Scott Uk-Jin Lee
+    - Zhiqiang Wu
+    - Xin Chen
+    - Scott Uk-Jin Lee
   publisher: Journal of Systems and Software
   date: '2023-07-01'
   link: https://doi.org/gtbg7j
@@ -89,8 +91,8 @@
   type: paper
   title: Security Analysis of Web Open-Source Projects Based on Java and PHP
   authors:
-  - Zhen Yin
-  - Scott Uk-Jin Lee
+    - Zhen Yin
+    - Scott Uk-Jin Lee
   publisher: Electronics
   date: '2023-06-10'
   link: https://doi.org/g8x22r
@@ -98,11 +100,12 @@
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  
 - id: doi:10.1109/SANER56733.2023.00026
   title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction Models
   authors:
-  - Gichan Lee
-  - Scott Uk-Jin Lee
+    - Gichan Lee
+    - Scott Uk-Jin Lee
   publisher: 2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
   date: '2023-03-21'
   link: https://ieeexplore.ieee.org/document/10123486
@@ -115,8 +118,8 @@
   type: paper
   title: 'Toward Reliable Software Analytics: Systematic Integration of Explanations From Different Model-Agnostic Techniques'
   authors:
-  - Gichan Lee
-  - Scott Uk-Jin Lee
+    - Gichan Lee
+    - Scott Uk-Jin Lee
   publisher: IEEE Software
   date: '2023-02-13'
   link: https://doi.org/g8x22s
@@ -147,6 +150,7 @@
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  
 - id: doi:10.3390/su14042427
   type: paper
   title: A Comparison of Recent Requirements Gathering and Management Tools in Requirements Engineering for IoT-Enabled Sustainable Cities
@@ -161,6 +165,7 @@
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  
 - id: doi:10.1109/ACCESS.2022.3147586
   type: paper
   title: 'A Review of NLIDB With Deep Learning: Findings, Challenges and Open Issues'
@@ -177,12 +182,13 @@
   scott: true
   plugin: orcid.py
   file: orcid.yaml
+  
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224363
   type: paper
   title: Proposal of Outpatient Flow Optimization System in Tertiary and General Hospitals Using Explainable Digital Twin Simulations
   authors:
-  - Gichan Lee
-  - Scott Uk-Jin Lee
+    - Gichan Lee
+    - Scott Uk-Jin Lee
   publisher: 2022 한국정보과학회 한국소프트웨어종합학술대회
   date: '2022-12-20'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224363
@@ -220,8 +226,8 @@
   type: paper
   title: Analyze the possibility of current PyScript in practical application
   authors:
-  - Zhen Yin
-  - Scott Uk-Jin Lee
+    - Zhen Yin
+    - Scott Uk-Jin Lee
   publisher: 2022 한국컴퓨터정보학회 하계학술대회
   date: '2022-07-14'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140328
@@ -232,8 +238,8 @@
   type: paper
   title: Using Reinforcement Learning Agent for Metaverse Game Testing
   authors:
-  - Hakjin Lee
-  - Scott Uk-Jin Lee
+    - Hakjin Lee
+    - Scott Uk-Jin Lee
   publisher: 2022 한국컴퓨터정보학회 하계학술대회
   date: '2022-07-14'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140329
@@ -245,8 +251,8 @@
   type: paper
   title: A Method Name Suggestion Model based on Abstractive Text Summarization
   authors:
-  - Hansae Ju
-  - Scott Uk-Jin Lee
+    - Hansae Ju
+    - Scott Uk-Jin Lee
   publisher: 2022 한국컴퓨터정보학회 하계학술대회
   date: '2022-07-14'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140330
@@ -258,8 +264,8 @@
   type: paper
   title: Detecting Cross-Site-Script Attacks using BM25 Algorithm
   authors:
-  - Zhen Yin
-  - Scott Uk-Jin Lee
+    - Zhen Yin
+    - Scott Uk-Jin Lee
   publisher: 2022 한국컴퓨터정보학회 하계학술대회
   date: '2022-07-14'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113645
@@ -270,10 +276,10 @@
   type: paper
   title: Columns Occurrences Graph to Improve Column Prediction in Deep Learning Nlidb
   authors:
-  - Shanza Abbas
-  - Muhammad Umair Khan
-  - Scott Uk-Jin Lee
-  - Asad Abbas
+    - Shanza Abbas
+    - Muhammad Umair Khan
+    - Scott Uk-Jin Lee
+    - Asad Abbas
   publisher: Applied Sciences
   date: '2021-12-20'
   link: https://doi.org/10.3390/app112412116
@@ -284,8 +290,8 @@
   type: paper
   title: Metaverse-based game test automation using ML-Agent
   authors:
-  - Hakjin Lee
-  - Scott Uk-Jin Lee
+    - Hakjin Lee
+    - Scott Uk-Jin Lee
   publisher: 2021 한국정보과학회 한국소프트웨어종합학술대회
   date: '2021-12-20'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035663
@@ -297,10 +303,10 @@
   type: paper
   title: Wake Lock Leak Detection in Android Apps Using Multi-Layer Perceptron
   authors:
-  - Muhammad Umair Khan
-  - Scott Uk-Jin Lee
-  - Zhiqiang Wu
-  - Shanza Abbas
+    - Muhammad Umair Khan
+    - Scott Uk-Jin Lee
+    - Zhiqiang Wu
+    - Shanza Abbas
   publisher: Electronics
   date: '2021-09-09'
   link: https://doi.org/10.3390/electronics10182211
@@ -311,11 +317,11 @@
   type: paper
   title: Detecting wake lock leaks in android apps using machine learning
   authors:
-  - Muhammad Umair Khan
-  - Scott Uk-Jin Lee
-  - Shanza Abbas
-  - Asad Abbas
-  - Ali Kashif Bashir
+    - Muhammad Umair Khan
+    - Scott Uk-Jin Lee
+    - Shanza Abbas
+    - Asad Abbas
+    - Ali Kashif Bashir
   publisher: IEEE Access
   date: '2021-09-17'
   link: https://doi.org/10.1109/ACCESS.2021.3110244
@@ -326,10 +332,10 @@
   type: paper
   title: Measuring power consumption in mobile devices for energy sustainable app development
   authors:
-  - Muhammad Umair Khan
-  - Shanza Abbas
-  - Scott Uk-Jin Lee
-  - Asad Abbas
+    - Muhammad Umair Khan
+    - Shanza Abbas
+    - Scott Uk-Jin Lee
+    - Asad Abbas
   publisher: ELSEVIER
   date: '2021-09-01'
   link: https://doi.org/10.1016/j.suscom.2021.100589
@@ -340,10 +346,10 @@
   type: paper
   title: Enhancing fidelity of description in Android apps with category-based common permissions
   authors:
-  - Zhiqiang Wu
-  - Xin Chen
-  - Muhammad Umair Khan
-  - Scott Uk-Jin Lee
+    - Zhiqiang Wu
+    - Xin Chen
+    - Muhammad Umair Khan
+    - Scott Uk-Jin Lee
   publisher: IEEE Access
   date: '2021-09-01'
   link: https://doi.org/10.1109/ACCESS.2021.3100118
@@ -354,9 +360,9 @@
   type: paper
   title: An Empirical Study on the Impact of Permission Smell in Android Applications
   authors:
-  - Zhiqiang Wu
-  - Hakjin Lee
-  - Scott Uk-Jin Lee
+    - Zhiqiang Wu
+    - Hakjin Lee
+    - Scott Uk-Jin Lee
   publisher: 한국컴퓨터정보학회
   date: '2021-06-30'
   link: https://doi.org/10.9708/jksci.2021.26.06.089
@@ -368,8 +374,8 @@
   type: paper
   title: 'Forgotten Permission Usages: An Empirical Study on App Description Based Android App Analysis'
   authors:
-  - Zhiqiang Wu
-  - Scott Uk-Jin Lee
+    - Zhiqiang Wu
+    - Scott Uk-Jin Lee
   publisher: 한국컴퓨터정보학회
   date: '2021-06-30'
   link: https://doi.org/10.9708/jksci.2021.26.06.107
@@ -380,8 +386,8 @@
   type: paper
   title: Automating Exploratory Testing of Game Engine based 3D Software Using Deep Reinforcement Learning
   authors:
-  - Hansae Ju
-  - Scott Uk-Jin Lee
+    - Hansae Ju
+    - Scott Uk-Jin Lee
   publisher: 2021 한국정보과학회 한국소프트웨어종합학술대회
   date: '2021-12-20'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035659
@@ -393,9 +399,9 @@
   type: paper
   title: 'FCDP: Fidelity Calculation for Description-to-Permissions in Android Apps'
   authors:
-  - Zhiqiang Wu
-  - Xin Chen
-  - Scott Uk-Jin Lee
+    - Zhiqiang Wu
+    - Xin Chen
+    - Scott Uk-Jin Lee
   publisher: IEEE Access
   date: '2020-12-24'
   link: https://doi.org/10.1109/ACCESS.2020.3047019
@@ -406,10 +412,10 @@
   type: paper
   title: 'Energy-Leaks in Android Application Development: Perspective and Challenges'
   authors:
-  - Muhammad Umair Khan
-  - Shanza Abbas
-  - Scott Uk-Jin Lee
-  - Asad Abbas
+    - Muhammad Umair Khan
+    - Shanza Abbas
+    - Scott Uk-Jin Lee
+    - Asad Abbas
   publisher: Little Lion Scientific
   date: '2020-11-30'
   link: https://www.jatit.org/volumes/Vol98No22/2Vol98No22.pdf
@@ -420,8 +426,8 @@
   type: paper
   title: Why the new consensus mechanism is needed in blockchain technology?
   authors:
-  - Sana Naz
-  - Scott Uk-Jin Lee
+    - Sana Naz
+    - Scott Uk-Jin Lee
   publisher: IEEE 2020 Second International Conference on Blockchain Computing and Applications (BCCA)
   date: '2020-11-02'
   link: https://doi.org/10.1109/BCCA50787.2020.9274461
@@ -433,10 +439,10 @@
   type: paper
   title: Semantic-based Architecture Smell Analysis
   authors:
-  - Nacha Chondamrongkul
-  - Jing Sun
-  - Ian Warren
-  - Scott Uk-Jin Lee
+    - Nacha Chondamrongkul
+    - Jing Sun
+    - Ian Warren
+    - Scott Uk-Jin Lee
   publisher: 2020 IEEE/ACM 8th International Conference on Formal Methods in Software Engineering (FormaliSE)
   date: '2020-10-07'
   link: https://doi.org/10.1145/3372020.3391564
@@ -447,8 +453,8 @@
   type: paper
   title: Machine Learning Evaluation of the Requirement Engineering Process Models for Cloud Computing and Security Issues
   authors:
-  - Muhammad Asgher Nadeem
-  - Scott Uk-Jin Lee
+    - Muhammad Asgher Nadeem
+    - Scott Uk-Jin Lee
   publisher: Applied Sciences
   date: '2020-08-24'
   link: https://doi.org/10.3390/app10175851
@@ -459,10 +465,10 @@
   type: paper
   title: Integrated Formal Tools for Software Architecture Smell Detection
   authors:
-  - Nacha Chondamrongkul
-  - Jing Sun
-  - Ian Warren
-  - Scott Uk-Jin Lee
+    - Nacha Chondamrongkul
+    - Jing Sun
+    - Ian Warren
+    - Scott Uk-Jin Lee
   publisher: International Journal of Software Engineering and Knowledge Engineering
   date: '2020-06-01'
   link: https://doi.org/10.1142/S0218194020400057
@@ -473,9 +479,9 @@
   type: paper
   title: A Novel Knowledge-Based Battery Drain Reducer for Smart Meters
   authors:
-  - Isma Farah Siddiqui
-  - Scott Uk-Jin Lee
-  - Asad Abbas
+    - Isma Farah Siddiqui
+    - Scott Uk-Jin Lee
+    - Asad Abbas
   publisher: TSI Press Intelligent Automation & Soft Computing
   date: '2020-03-01'
   link: https://doi.org/10.31209/2019.100000132
@@ -486,8 +492,8 @@
   type: paper
   title: An Algorithm to Optimize Deployment Cost for Microservice Architecture
   authors:
-  - Ziang Li
-  - Scott Uk-Jin Lee
+    - Ziang Li
+    - Scott Uk-Jin Lee
   publisher: 2020 한국컴퓨터정보학회 하계학술대회
   date: '2020-07-16'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09415050
@@ -498,8 +504,8 @@
   type: paper
   title: A Hybrid Recommendation Algorithm using Tags, Time and User Relationship
   authors:
-  - Xin Zhang
-  - Scott Uk-Jin Lee
+    - Xin Zhang
+    - Scott Uk-Jin Lee
   publisher: 2020 한국정보과학회 한국소프트웨어종합학술대회
   date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529719
@@ -510,8 +516,8 @@
   type: paper
   title: Multi-DAG Workflow Scheduling Strategy for Microservice in Clouds
   authors:
-  - Ziang Li
-  - Scott Uk-Jin Lee
+    - Ziang Li
+    - Scott Uk-Jin Lee
   publisher: 2020 한국정보과학회 한국소프트웨어종합학술대회
   date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529588
@@ -522,8 +528,8 @@
   type: paper
   title: Collaborative Filtering Recommendation Algorithm Based on LDA2Vec Topic Mode
   authors:
-  - Zhang Xin
-  - Scott Uk-Jin Lee
+    - Zhang Xin
+    - Scott Uk-Jin Lee
   publisher: 2020 한국컴퓨터정보학회 하계학술대회
   date: '2020-07-16'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09415049
@@ -534,10 +540,10 @@
   type: paper
   title: 'Pipeline and Deep Learning Approach for NLIDB: A Comparative Study'
   authors:
-  - Shanza Abbas
-  - Muhammad Umair Khan
-  - Scott Uk-Jin Lee
-  - Asad Abbas
+    - Shanza Abbas
+    - Muhammad Umair Khan
+    - Scott Uk-Jin Lee
+    - Asad Abbas
   publisher: Little Lion Scientific
   date: '2020-11-30'
   link: https://www.jatit.org/volumes/Vol98No22/7Vol98No22.pdf
@@ -548,10 +554,10 @@
   type: paper
   title: A Literature Study on Predicting AI- Based Cryptocurrency Value Trends
   authors:
-  - Seunghyeon Lee
-  - Garyoung Kim
-  - Taeyoon Kwon
-  - Scott Uk-Jin Lee
+    - Seunghyeon Lee
+    - Garyoung Kim
+    - Taeyoon Kwon
+    - Scott Uk-Jin Lee
   publisher: 2021 한국정보과학회 한국컴퓨터종합학술대회
   date: '2021-06-23'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583512
@@ -562,10 +568,10 @@
   type: paper
   title: A Proposal for a Platform that Recommend an Appropriate Deployment Method when Migrate an Application to a Microservice Architecture
   authors:
-  - Garyoung Kim
-  - Taeyoon Kwon
-  - Seunghyeon Lee
-  - Scott Uk-Jin Lee
+    - Garyoung Kim
+    - Taeyoon Kwon
+    - Seunghyeon Lee
+    - Scott Uk-Jin Lee
   publisher: 2021 한국정보과학회 한국컴퓨터종합학술대회
   date: '2021-06-23'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583401
@@ -576,10 +582,10 @@
   type: paper
   title: Improving Efficiency of Energy Consumption for Mobile Applications by Heterogeneous Code Smell Analysis Platform
   authors:
-  - Taeyoon Kwon
-  - Seunghyeon Lee
-  - Garyoung Kim
-  - Scott Uk-Jin Lee
+    - Taeyoon Kwon
+    - Seunghyeon Lee
+    - Garyoung Kim
+    - Scott Uk-Jin Lee
   publisher: 2021 한국정보과학회 한국컴퓨터종합학술대회
   date: '2021-06-23'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583400
@@ -590,8 +596,8 @@
   type: paper
   title: Configuration Management Technique for Unity-Based Game Development Projects
   authors:
-  - Semyeong Lee
-  - Scott Uk-Jin Lee
+    - Semyeong Lee
+    - Scott Uk-Jin Lee
   publisher: 2020 한국정보과학회 한국소프트웨어종합학술대회
   date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529941
@@ -602,8 +608,8 @@
   type: paper
   title: Comparative Study of Bootstrap and Foundation for Choosing a Front-end Template
   authors:
-  - Minji Kim
-  - Scott Uk-Jin Lee
+    - Minji Kim
+    - Scott Uk-Jin Lee
   publisher: 2020 한국정보과학회 한국소프트웨어종합학술대회
   date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529940
@@ -614,8 +620,8 @@
   type: paper
   title: Multi-DAG Workflow Scheduling Strategy for Microservice in Clouds
   authors:
-  - Ziang Li
-  - Scott Uk-Jin Lee
+    - Ziang Li
+    - Scott Uk-Jin Lee
   publisher: 2020 한국정보과학회 한국소프트웨어종합학술대회
   date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529588
@@ -626,9 +632,9 @@
   type: paper
   title: Effective Performance Comparison Platform for Code Smell Detection
   authors:
-  - Hansae Ju
-  - Gichan Lee
-  - Scott Uk-Jin Lee
+    - Hansae Ju
+    - Gichan Lee
+    - Scott Uk-Jin Lee
   publisher: 2020 한국정보과학회 한국소프트웨어종합학술대회
   date: '2020-12-21'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529587
@@ -639,10 +645,10 @@
   type: paper
   title: Achieving Abstract Machine Reachability with Learning-Based Model Fulfilment
   authors:
-  - Cheng-Hao Cai
-  - Jing Sun
-  - Gillian Dobbie
-  - Scott Uk-Jin Lee
+    - Cheng-Hao Cai
+    - Jing Sun
+    - Gillian Dobbie
+    - Scott Uk-Jin Lee
   publisher: 2019 26th Asia-Pacific Software Engineering Conference (APSEC)
   date: '2019-12-02'
   link: https://doi.org/10.1109/APSEC48747.2019.00043
@@ -653,9 +659,9 @@
   type: paper
   title: Permission Smells Detection for IoT Applications on Android Platform
   authors:
-  - Zhiqiang Wu
-  - Xin Chen
-  - Scott Uk-Jin Lee
+    - Zhiqiang Wu
+    - Xin Chen
+    - Scott Uk-Jin Lee
   publisher: 2019 한국정보과학회 한국소프트웨어종합학술대회
   date: '2019-12-18'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301565
@@ -666,8 +672,8 @@
   type: paper
   title: Requirement Elicitation Framework for Global Software Development
   authors:
-  - Muhammad Asgher Nadeem
-  - Scott Uk-Jin Lee
+    - Muhammad Asgher Nadeem
+    - Scott Uk-Jin Lee
   publisher: Indian Journal of Science and Technology
   date: '2019-11-01'
   link: https://doi.org/10.17485/ijst/2019/v12i43/146882
@@ -678,13 +684,13 @@
   type: paper
   title: Stuck-at Fault Analytics of IoT Devices Using Knowledge-based Data Processing Strategy in Smart Grid
   authors:
-  - Isma Farah Siddiqui
-  - Nawab Muhammad Faseeh Qureshi
-  - Muhammad Akram Shaikh
-  - Bhawani Shankar Chowdhry
-  - Asad Abbas
-  - Ali Kashif Bashir
-  - Scott Uk-Jin Lee
+    - Isma Farah Siddiqui
+    - Nawab Muhammad Faseeh Qureshi
+    - Muhammad Akram Shaikh
+    - Bhawani Shankar Chowdhry
+    - Asad Abbas
+    - Ali Kashif Bashir
+    - Scott Uk-Jin Lee
   publisher: SPRINGER
   date: '2018-04-17'
   link: https://doi.org/10.1007/s11277-018-5739-9
@@ -695,9 +701,9 @@
   type: paper
   title: Web Attack Detection Based on ResNet and RNN
   authors:
-  - Xin Chen
-  - Zhiqiang Wu
-  - Scott Uk-Jin Lee
+    - Xin Chen
+    - Zhiqiang Wu
+    - Scott Uk-Jin Lee
   publisher: 1st International Conference on Computational Sciences and Technologies (INCCST'19)
   date: '2019-04-10'
   link: https://hhhwwwuuu.github.io/assets/pdf/Xin0.pdf
@@ -708,8 +714,8 @@
   type: paper
   title: Intelligent IoT Access Control Platform for Effective Policy Conflict Resolution
   authors:
-  - Gichan Lee
-  - Scott Uk-Jin Lee
+    - Gichan Lee
+    - Scott Uk-Jin Lee
   publisher: 2019 한국정보과학회 한국소프트웨어종합학술대회
   date: '2019-12-18'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301536
@@ -720,8 +726,8 @@
   type: paper
   title: Platform Manager for XACML-based IoT Access Control Solution
   authors:
-  - Hakjin Lee
-  - Scott Uk-Jin Lee
+    - Hakjin Lee
+    - Scott Uk-Jin Lee
   publisher: 2019 한국정보과학회 한국소프트웨어종합학술대회
   date: '2019-12-18'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301535
@@ -732,9 +738,9 @@
   type: paper
   title: Permissions based Automatic Android Malware Repair using Long Short Term Memory
   authors:
-  - Zhiqiang Wu
-  - Xin Chen
-  - Scott Uk-Jin Lee
+    - Zhiqiang Wu
+    - Xin Chen
+    - Scott Uk-Jin Lee
   publisher: 2019 한국컴퓨터정보학회 동계학술대회
   date: '2019-01-17'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07614538&language=ko_KR
@@ -745,9 +751,9 @@
   type: paper
   title: Identifying Latent Android Malware from Application’s Description using LSTM
   authors:
-  - Zhiqing Wu
-  - Xin Chen
-  - Scott Uk-Jin Lee
+    - Zhiqing Wu
+    - Xin Chen
+    - Scott Uk-Jin Lee
   publisher: Society of Convergence and Integrated Research
   date: '2019-01-01'
   link: https://hhhwwwuuu.github.io/assets/pdf/Zhiqiang6.pdf
@@ -774,7 +780,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07531037
   date: 2018-06-20
 
-- id: doi: 10.1109/ACCESS.2018.2806944
+- id: doi:10.1109/ACCESS.2018.2806944
   type: journal article
   title: Multi-objective optimum solutions for IoT-based feature models of software product line
   authors:
@@ -888,7 +894,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322377
   date: 2017-12-20
 
-- id: doi: 10.1109/ACCESS.2017.2752242
+- id: doi:10.1109/ACCESS.2017.2752242
   type: journal article
   title: Optimizing Lifespan and Energy Consumption by Smart Meters in Green-Cloud-Based Smart Grids
   authors:
@@ -922,7 +928,7 @@
   link: https://hhhwwwuuu.github.io/assets/pdf/Zhiqiang3.pdf
   date: 2017-08-01
 
-- id: doi: 10.1109/ACCESS.2017.2680470
+- id: doi:10.1109/ACCESS.2017.2680470
   type: journal article
   title: Binary Pattern for Nested Cardinality Constraints for Software Product Line of IoT-Based Feature Models
   authors:
@@ -1100,7 +1106,7 @@
   link: https://www.scopus.com/record/display.uri?eid=2-s2.0-85008240258&origin=inward&txGid=1c3ff4323f667a9c0d55cd679ac515bb
   date: 2016-12-31
 
-- id: doi: 10.17485/ijst/2016/v9i45/106769
+- id: doi:10.17485/ijst/2016/v9i45/106769
   type: journal article
   title: Multi-objective optimization of feature model in software product line Perspectives and challenges
   authors:
@@ -1111,7 +1117,7 @@
   link: https://www.semanticscholar.org/paper/Multi-Objective-Optimization-of-Feature-Model-in-Abbas-Siddiqui/100f0d9695494d76e6222b7155d4d3dea406f57e
   date: 2016-12-01
 
-- id: doi: 10.17485/ijst/2016/v9i48/108873
+- id: doi:10.17485/ijst/2016/v9i48/108873
   type: journal article
   title: A Comparative Study of Multithreading APIs for Software ofICT Equipment
   authors: 
@@ -1133,7 +1139,7 @@
   link: https://www.researchgate.net/publication/318315690_The_Application_of_Banker's_Algorithm_in_Order_Scheduling_Management_for_Deadlock_Avoidance
   date: 2016-06-29
 
-- id: doi: 10.17485/ijst/2016/v9i17/92730
+- id: doi:10.17485/ijst/2016/v9i17/92730
   type: journal article
   title: An Empirical Study over Correctness Properties for Multithreaded Programs
   authors:
@@ -1166,13 +1172,7 @@
     - Wu Zhiqiang 
   publisher: Indian Society for Education and Environment
   link: https://indjst.org/articles/an-approach-for-optimized-feature-selection-in-software-product-lines-using-union-find-and-genetic-algorithms
-  date: 2016-05
-  tags:
-    - Feature model
-    - Genetic algorithm
-    - Optimization
-    - Software Product Line
-    - Union-find algorithm
+  date: 2016-05 
 
 - id: none
   type: paper
@@ -1184,13 +1184,9 @@
   publisher: The Korea Society of Computer Information
   link: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
   date: 2016-12
-  tags:
-    - Internet of Things (IoT)
-    - Software Product Line (SPL)
-    - XML-based Feature Modeling
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "Optimized feature selection with crosscutting concerns in software product line feature model"
   authors:
     - Asad Abbas
@@ -1200,15 +1196,9 @@
   publisher: International Conference on Information and Convergence Technology for Smart Society
   link: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
   date: 2016-01
-  tags:
-    - Software Product Line
-    - Feature model
-    - Union-find algorithm
-    - Genetic algorithm
-    - Optimization
 
 - id: none
-  type: journal-article
+  type: paper
   title: "Goal-based modeling for requirement traceability of software product line"
   authors:
     - Asad Abbas
@@ -1217,13 +1207,9 @@
   publisher: Journal of Theoretical and Applied Information Technology
   link: https://www.jatit.org/volumes/Vol94No2/8Vol94No2.pdf
   date: 2016-12
-  tags:
-    - Requirement traceability
-    - Software Product Line
-    - Feature Model
 
 - id: doi:10.7472/jksii.2016.17.5.09
-  type: journal-article
+  type: paper
   title: "Access Control as a Service for Information Protection in Semantic Web based Smart Environment"
   authors:
     - Isma Farah Siddiqui
@@ -1231,14 +1217,9 @@
   publisher: 한국인터넷정보학회 (Korea Internet Information Society)
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002163275
   date: 2016
-  tags:
-    - Access Control
-    - Smart Environment
-    - Semantic Web
-    - XACML
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "Automated Verification Method for Java-based Multithreaded Software"
   authors: 
     - Hyung-Lak Kim
@@ -1246,10 +1227,9 @@
   publisher: Korean Institute of Information Scientists and Engineers
   link: none
   date: 2016-12
-  tags: 
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "Improvement of Crowdsourcing based Software Development Process"
   authors:
     - Hyung-Lak Kim
@@ -1257,11 +1237,9 @@
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
   date: 2016-06
-  tags:
-
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "HBAC: An access control over Semantics-enabled Smart Grids to enable energy-efficiency and lifetime optimization"
   authors:
     - Isma Farah Siddiqui
@@ -1270,14 +1248,9 @@
   publisher: Society of Convergence and Integrated Research
   link: https://www.researchgate.net/publication/294823751_HBAC_An_access_control_over_Semantics-enabled_Smart_Grids_to_enable_energy-efficiency_and_lifetime_optimization
   date: 2016-01
-  tags:
-    - Smart grid
-    - IoT
-    - Handshake Based Access Control (HBAC)
-    - ICT
 
-  - id: doi:10.17485/ijst/2016/v9i48/108873
-  type: journal-article
+- id: doi:10.17485/ijst/2016/v9i48/108873
+  type: paper
   title: "A Comparative Study of Multithreading APIs for Software of ICT Equipment"
   authors:
     - Isma Farah Siddiqui
@@ -1287,13 +1260,9 @@
   publisher: Indian Society for Education and Environment
   link: http://www.indjst.org/index.php/indjst/article/view/108873
   date: 2016-12
-  tags:
-    - ICT Software
-    - Parallelism
-    - Multithreading Models
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "Personalized User Recommendation Technique exploiting SNS Profiling"
   authors:
     - Seon-Woong Kim
@@ -1305,7 +1274,7 @@
   tags:
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "The Necessity of Multithread Feature in Node.js"
   authors:
     - Kim Gayeon
@@ -1316,7 +1285,7 @@
   tags:
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "The Application of Banker’s Algorithm in Order Scheduling Management for Deadlock Avoidance"
   authors:
     - Wu Zhiqiang
@@ -1324,10 +1293,9 @@
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017602
   date: 2016-06
-  tags:
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "Improvement of Crowdsourcing based Software Development Process"
   authors:
     - Hyung-Lak Kim
@@ -1335,7 +1303,6 @@
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017600
   date: 2016-06
-  tags:
 
 - id: doi:10.1155/2015/435316
   type: journal-article
@@ -1345,10 +1312,9 @@
   publisher: Hindawi Publishing Corporation
   link: https://www.hindawi.com/journals/mpe/2015/435316/
   date: 2015-06
-  tags:
 
 - id: doi:10.1109/SERVICES.2014.92
-  type: conference-paper
+  type: paper
   title: "Predicting Student Blood Pressure by Support Vector Machine Using Facebook"
   authors:
     - Muhammad Umair Khan
@@ -1357,16 +1323,9 @@
   publisher: IEEE
   link: https://ieeexplore.ieee.org/document/6903311?arnumber=6903311&SID=EBSCO:edseee
   date: 2014-06
-  tags:
-    - Blood Pressure
-    - Facebook
-    - Support Vector Machines
-    - Kernel
-    - Training
-    - Error Analysis
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "XML-based Feature Modeling for Variability Management in Complex Software Product Line"
   authors:
     - Asad Abbas
@@ -1375,10 +1334,9 @@
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
   date: 2015-06
-  tags:
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "Privacy-Aware Smart Learning: Providing XACML as a Service in Semantic Web based Smart Environment"
   authors:
     - Isma Farah Siddiqui
@@ -1387,11 +1345,6 @@
   location: Kuala Lumpur, Malaysia
   link: none
   date: 2015-12
-  tags:
-    - Smart Learning
-    - Access Control
-    - Context-Aware Smart Environment
-    - Semantic Web
 
 - id: none
   type: paper
@@ -1404,10 +1357,9 @@
   publisher: Proceedings of the 2015 Korean Institute of Information Scientists and Engineers (KIISE) Winter Conference
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602432
   date: 2015-12
-  tags:
 
 - id: doi:10.17485/ijst/2016/v9i17/92730
-  type: journal-article
+  type: paper
   title: "An empirical study over correctness properties for multithreaded programs"
   authors:
     - Abdul Rahim Muhammad Ariffin
@@ -1419,7 +1371,7 @@
   date: 2016-05
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602422
-  type: conference-paper
+  type: paper
   title: "Comparative Analysis on Tools for Verifying Multithreaded Applications"
   authors:
     - Abdul Rahim Mohamed Ariffin
@@ -1430,7 +1382,7 @@
   date: 2015-12
 
 - id: http://www.dbpia.co.kr/Article/NODE06394643
-  type: conference-paper
+  type: paper
   title: "Recent Trends of Fintech and Comparative Analysis of Samsung-Pay and Apple-Pay"
   authors:
     - Seon-Woong Kim
@@ -1441,7 +1393,7 @@
   date: 2015-06
 
 - id: https://www.researchgate.net/publication/271769906_A_Novel_Approach_for_Integrating_Semantic_Web_Techniques_into_Smart_Education_Environment
-  type: conference-paper
+  type: paper
   title: "A Novel Approach for Integrating Semantic Web Techniques into Smart Education Environment"
   authors:
     - Isma Farah Siddiqui
@@ -1451,7 +1403,7 @@
   date: 2015-01
 
 - id: https://www.researchgate.net/publication/268688886_A_Framework_for_Verifying_Consistency_of_SQL-DB_Ontology_using_Alloy
-  type: conference-paper
+  type: paper
   title: "A Framework for Verifying Consistency of SQL-DB Ontology using Alloy"
   authors:
     - Isma Farah Siddiqui
@@ -1461,7 +1413,7 @@
   date: 2014-06
 
 - id: https://www.researchgate.net/publication/268688917_An_Advanced_Hyper-Efficient_Design_to_Detect_Random_Peer-to-Peer_Botnets
-  type: conference-paper
+  type: paper
   title: "An Advanced Hyper-Efficient Design to Detect Random Peer-to-Peer Botnets"
   authors:
     - Isma Farah Siddiqui
@@ -1473,7 +1425,7 @@
   date: 2013-12
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217182
-  type: conference-paper
+  type: paper
   title: "Conflict Detection Algorithm for XACML Policies"
   authors:
     - JaeJin Kim
@@ -1483,7 +1435,7 @@
   date: 2013-06
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
-  type: conference-paper
+  type: paper
   title: "Vulnerability of Web-Storage in HTML5"
   authors:
     - Jaeho Choi
@@ -1493,7 +1445,7 @@
   date: 2013-06
 
 - id: http://sigsoft.or.kr/ftp/KCSE2014_proceeding.pdf
-  type: conference-paper
+  type: paper
   title: "XACML Policy Viewer for Generating Effective Access Control Policies"
   authors:
     - Jaeho Choi
@@ -1503,7 +1455,7 @@
   date: 2014-02
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217171
-  type: conference-paper
+  type: paper
   title: "Extended Mind Map for Software Requirement Specification"
   authors:
     - Jiang Hua
@@ -1513,7 +1465,7 @@
   date: 2013-06
 
 - id: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_27
-  type: conference-paper
+  type: paper
   title: "MELO 2011 - 1st Workshop on Model-Driven Engineering, Logic and Optimization"
   authors:
     - Jordi Cabot
@@ -1526,7 +1478,7 @@
   date: 2011
 
 - id: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_12
-  type: conference-paper
+  type: paper
   title: "An MDE-Based Approach for Solving Configuration Problems: An Application to the Eclipse Platform"
   authors:
     - Guillaume Doux
@@ -1540,7 +1492,7 @@
   date: 2011
 
 - id: https://link.springer.com/article/10.1007/s10703-010-0099-4
-  type: journal-article
+  type: paper
   title: "Theorem Prover Approach to Semistructured Data Design"
   authors:
     - Scott Uk-Jin Lee
@@ -1552,7 +1504,7 @@
   date: 2010-09-30
 
 - id: https://www.researchgate.net/publication/47664905_Applying_MDE_for_the_Validation_of_Correct_Eclipse_Plugin_Bundles
-  type: conference-paper
+  type: paper
   title: "Applying MDE for the Validation of Correct Eclipse Plugin Bundles"
   authors:
     - Guillaume Doux
@@ -1562,11 +1514,12 @@
     - Jean Bézivin
     - Frédéric Madiot
     - Scott Lee
+  publisher: Neptune Days
   link: https://www.researchgate.net/publication/47664905_Applying_MDE_for_the_Validation_of_Correct_Eclipse_Plugin_Bundles
   date: 2010-05
 
- - id: doi:10.1109/TASE.2009.11.
-  type: conference-paper
+- id: doi:10.1109/TASE.2009.11.
+  type: paper
   title: "Verifying Semistructured Data Normalization Using SWRL"
   authors:
     - Yuan Fang Li
@@ -1574,16 +1527,11 @@
     - Gillian Dobbie
     - Scott Lee
     - Hai H. Wang
-  publisher: IEEE
+  publisher: 2009 Third IEEE International Symposium on Theoretical Aspects of Software Engineering
   link: https://ieeexplore.ieee.org/document/5198502
-  tags:
-    - Formal Verification
-    - Semistructured Data Modeling
-    - Semantic Web Rule Language
-    - Ontological Reasoning
-
+  
 - id: https://www.researchgate.net/publication/220349149_Formal_Verification_of_Semistructured_Data_Models_in_PVS
-  type: journal-article
+  type: paper
   title: "Formal Verification of Semistructured Data Models in PVS"
   authors:
     - Scott Uk-Jin Lee
@@ -1595,78 +1543,53 @@
   pages: 241-272
   date: 2009-01
 
-- id: none
-  type: conference-paper
-  title: "Verifying Semistructured Data Normalization Using PVS"
-  authors:
-    - Scott Uk-Jin Lee
-    - Jing Sun
-    - Gillian Dobbie
-    - Lindsay Groves
-  publisher: IEEE
-  link: none
-  date: none
-
 - id: doi:10.1109/ICECCS.2008.23
-  type: conference-paper
+  type: paper
   title: "Verifying Semistructured Data Normalization Using PVS"
   authors:
     - Scott Uk-Jin Lee
     - Jing Sun
     - Gillian Dobbie
     - Lindsay Groves
-  publisher: IEEE
+  publisher: 13th IEEE International Conference on Engineering of Complex Computer Systems (iceccs 2008)
   date: 2008-04-18
   link: https://ieeexplore.ieee.org/document/4492875
-  tags:
-    - Formal Verification
-    - Semistructured Data
-    - Data Normalization
-    - PVS
-    - Computer Science
-    - Data Modeling
 
 - id: doi:10.1109/ASWEC.2008.4483213
-  type: conference-paper
+  type: paper
   title: "Correctness Criteria for Normalization of Semistructured Data"
   authors:
     - Scott Uk-Jin Lee
     - Jing Sun
     - Gillian Dobbie
     - Lindsay Groves
-  publisher: IEEE
+  publisher: 19th Australian Conference on Software Engineering (aswec 2008)
   date: 2008-04-03
-  link: none
-  tags:
-    - Formal Specification
-    - Semistructured Data
-    - Normalization
-    - ORA-SS
-    - Z
-
+  link: https://ieeexplore.ieee.org/document/4483213
+  
 - id: https://dl.acm.org/citation.cfm?id=1274457
-  type: conference-paper
+  type: paper
   title: "Towards Verifying Semistructured Data"
   authors:
     - Scott Uk-Jin Lee
-  publisher: Australian Computer Society, Inc.
+  publisher: Proceedings of the fourth Asia-Pacific conference on Comceptual modelling - Volume 67
   link: https://dl.acm.org/citation.cfm?id=1274457
   date: 2007-01
 
 - id: doi:10.5555/1274453.1274457
-  type: conference-paper
+  type: paper
   title: "Extended Abstract: Towards Verifying Semistructured Data"
   authors:
     - Gillian Dobbie
     - Jing Sun
     - Yuan Fang Li
     - Scott Uk-Jin Lee
-  publisher: Australian Computer Society, Inc.
+  publisher: Proceedings of the fourth Asia-Pacific conference on Comceptual modelling - Volume 67
   date: 2007-01-30
   link: https://dl.acm.org/citation.cfm?id=1274457
 
-  - id: https://www.researchgate.net/publication/221390797_A_PVS_approach_to_verifying_ORA-SS_data_models
-  type: conference-paper
+- id: https://www.researchgate.net/publication/221390797_A_PVS_approach_to_verifying_ORA-SS_data_models
+  type: paper
   title: "A PVS Approach to Verifying ORA-SS Data Models"
   authors:
     - Scott Uk-Jin Lee
@@ -1678,7 +1601,7 @@
   link: https://www.researchgate.net/publication/221390797_A_PVS_approach_to_verifying_ORA-SS_data_models
 
 - id: doi:10.1016/j.entcs.2006.01.025
-  type: journal-article
+  type: paper
   title: "A Z Approach in Validating ORA-SS Data Models"
   authors:
     - Scott Uk-Jin Lee
@@ -1689,13 +1612,13 @@
   link: https://doi.org/10.1016/j.entcs.2006.01.025
 
 - id: none
-  type: conference-paper
+  type: paper
   title: "Research into Verifying Semistructured Data"
   authors:
     - Gillian Dobbie
     - Jing Sun
     - Yuan Fang Li
     - Scott Uk-Jin Lee
-  publisher: Distributed Computing and Internet Technology (ICDCIT 2006)
+  publisher: International Conference on Distributed Computing and Internet Technology
   link: https://link.springer.com/chapter/10.1007/11951957_32
   date: 2006
