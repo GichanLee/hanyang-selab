@@ -1174,7 +1174,7 @@
   link: https://indjst.org/articles/an-approach-for-optimized-feature-selection-in-software-product-lines-using-union-find-and-genetic-algorithms
   date: 2016-05 
 
-- id: none
+- id: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
   type: paper
   title: "XML-based Feature Modeling of IoT Applications"
   authors:
@@ -1185,7 +1185,7 @@
   link: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
   date: 2016-12
 
-- id: none
+- id: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
   type: paper
   title: "Optimized feature selection with crosscutting concerns in software product line feature model"
   authors:
@@ -1197,7 +1197,7 @@
   link: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
   date: 2016-01
 
-- id: none
+- id: https://www.jatit.org/volumes/Vol94No2/8Vol94No2.pdf
   type: paper
   title: "Goal-based modeling for requirement traceability of software product line"
   authors:
@@ -1218,17 +1218,17 @@
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002163275
   date: 2016
 
-- id: none
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07115900&language=ko_KR&hasTopBanner=true
   type: paper
   title: "Automated Verification Method for Java-based Multithreaded Software"
   authors: 
     - Hyung-Lak Kim
     - Scott Uk-Jin Lee
   publisher: Korean Institute of Information Scientists and Engineers
-  link: none
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07115900&language=ko_KR&hasTopBanner=true
   date: 2016-12
 
-- id: none
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
   type: paper
   title: "Improvement of Crowdsourcing based Software Development Process"
   authors:
@@ -1238,7 +1238,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
   date: 2016-06
 
-- id: none
+- id: https://www.researchgate.net/publication/294823751_HBAC_An_access_control_over_Semantics-enabled_Smart_Grids_to_enable_energy-efficiency_and_lifetime_optimization
   type: paper
   title: "HBAC: An access control over Semantics-enabled Smart Grids to enable energy-efficiency and lifetime optimization"
   authors:
@@ -1261,7 +1261,7 @@
   link: http://www.indjst.org/index.php/indjst/article/view/108873
   date: 2016-12
 
-- id: none
+- id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07115834
   type: paper
   title: "Personalized User Recommendation Technique exploiting SNS Profiling"
   authors:
@@ -1271,9 +1271,8 @@
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07115834
   date: 2016-12
-  tags:
 
-- id: none
+- id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017606
   type: paper
   title: "The Necessity of Multithread Feature in Node.js"
   authors:
@@ -1282,9 +1281,8 @@
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017606
   date: 2016-06
-  tags:
 
-- id: none
+- id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017602
   type: paper
   title: "The Application of Banker’s Algorithm in Order Scheduling Management for Deadlock Avoidance"
   authors:
@@ -1294,7 +1292,7 @@
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017602
   date: 2016-06
 
-- id: none
+- id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017600
   type: paper
   title: "Improvement of Crowdsourcing based Software Development Process"
   authors:
@@ -1305,7 +1303,7 @@
   date: 2016-06
 
 - id: doi:10.1155/2015/435316
-  type: journal-article
+  type: paper
   title: "An Effective Methodology with Automated Product Configuration for Software Product Line Development"
   authors:
     - Scott Uk-Jin Lee
@@ -1324,7 +1322,7 @@
   link: https://ieeexplore.ieee.org/document/6903311?arnumber=6903311&SID=EBSCO:edseee
   date: 2014-06
 
-- id: none
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
   type: paper
   title: "XML-based Feature Modeling for Variability Management in Complex Software Product Line"
   authors:
@@ -1335,7 +1333,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
   date: 2015-06
 
-- id: none
+- id: https://www.researchgate.net/profile/Isma-Siddiqui/publication/289519517_Privacy-Aware_Smart_Learning_Providing_XACML_as_a_Service_in_Semantic_Web_based_Smart_Environment/links/591a853eaca2722d7cfe9201/Privacy-Aware-Smart-Learning-Providing-XACML-as-a-Service-in-Semantic-Web-based-Smart-Environment.pdf
   type: paper
   title: "Privacy-Aware Smart Learning: Providing XACML as a Service in Semantic Web based Smart Environment"
   authors:
@@ -1343,10 +1341,10 @@
     - Scott Uk-Jin Lee
   publisher: The 7th International Conference on Internet (ICONI) 2015
   location: Kuala Lumpur, Malaysia
-  link: none
+  link: https://www.researchgate.net/profile/Isma-Siddiqui/publication/289519517_Privacy-Aware_Smart_Learning_Providing_XACML_as_a_Service_in_Semantic_Web_based_Smart_Environment/links/591a853eaca2722d7cfe9201/Privacy-Aware-Smart-Learning-Providing-XACML-as-a-Service-in-Semantic-Web-based-Smart-Environment.pdf
   date: 2015-12
 
-- id: none
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602432
   type: paper
   title: Aspect-Oriented Programming based Process Synchronization in Concurrent Systems
   authors:
@@ -1611,7 +1609,7 @@
   publisher: Electronic Notes in Theoretical Computer Science (ENTCS)
   link: https://doi.org/10.1016/j.entcs.2006.01.025
 
-- id: none
+- id: https://link.springer.com/chapter/10.1007/11951957_32
   type: paper
   title: "Research into Verifying Semistructured Data"
   authors:
