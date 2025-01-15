@@ -1,6 +1,8 @@
 
-# GichanLee's Website
+# Hanyang ERICA "Software Engineering Laboratory" homepage sources
 
-Visit **[gichanlee.github.io/hanyang-selab](https://gichanlee.github.io/hanyang-selab)** 🚀
+Visit **[selab.hanyang.ac.kr](https://selab.hanyang.ac.kr)** 🚀
 
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+This repo would be managed by the collaborators and me.
+
+This page was built with awesome [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)!
