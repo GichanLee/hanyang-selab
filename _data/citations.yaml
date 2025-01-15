@@ -271,30 +271,33 @@
   authors:
   - Muhammad Asgher Nadeem
   - Scott Uk-Jin Lee
-  publisher: Mathematics
+  publisher: Special Issue Application of Optimization in Production, Logistics, Inventory,
+    Supply Chain Management and Block Chain
   date: '2019-10-13'
-  link: https://doi.org/g8x224
+  link: https://www.mdpi.com/2227-7390/7/10/963
   orcid: 0000-0002-8457-3097
   scott: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: article
 - id: doi:10.1109/ACCESS.2018.2806944
-  title: Multi-Objective Optimum Solutions for IoT-Based Feature Models of Software
-    Product Line
+  title: Multi-objective optimum solutions for IoT-based feature models of software
+    product line
   authors:
   - Asad Abbas
   - Isma Farah Siddiqui
-  - Scott Uk-Jin Lee
+  - "Scott Uk\u2013Jin Lee"
   - Ali Kashif Bashir
   - Waleed Ejaz
   - Nawab Muhammad Faseeh Qureshi
-  publisher: IEEE Access
-  date: '2018-01-01'
-  link: https://doi.org/g4h2c4
+  publisher: IEEE Access (Voulume:6)
+  date: '2018-02-07'
+  link: https://ieeexplore.ieee.org/abstract/document/8303653
   orcid: 0000-0002-8457-3097
   scott: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: journal article
 - id: doi:10.1109/ACCESS.2017.2752242
   title: Optimizing Lifespan and Energy Consumption by Smart Meters in Green-Cloud-Based
     Smart Grids
@@ -303,25 +306,27 @@
   - Scott Uk-Jin Lee
   - Asad Abbas
   - Ali Kashif Bashir
-  publisher: IEEE Access
-  date: '2017-01-01'
-  link: https://doi.org/gnfc84
+  publisher: IEEE Access (Voulume:5)
+  date: '2017-09-19'
+  link: https://ieeexplore.ieee.org/abstract/document/8046004
   orcid: 0000-0002-8457-3097
   scott: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: journal article
 - id: doi:10.1155/2015/435316
   title: An Effective Methodology with Automated Product Configuration for Software
     Product Line Development
   authors:
   - Scott Uk-Jin Lee
-  publisher: Mathematical Problems in Engineering
-  date: '2015-01-01'
-  link: https://doi.org/f7wrfv
+  publisher: Hindawi Publishing Corporation
+  date: ''
+  link: https://www.hindawi.com/journals/mpe/2015/435316/
   orcid: 0000-0002-8457-3097
   scott: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/BCCA50787.2020.9274461
   title: Why the new consensus mechanism is needed in blockchain technology?
   authors:
@@ -515,17 +520,16 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
-- id: https://www.jatit.org/volumes/Vol98No22/2Vol98No22.pdf
+- type: paper
   title: 'Energy-Leaks in Android Application Development: Perspective and Challenges'
   authors:
   - Muhammad Umair Khan
   - Shanza Abbas
   - Scott Uk-Jin Lee
   - Asad Abbas
-  publisher: Little Lion Scientific
+  publisher: Journal of Theoretical and Applied Information Technology
   date: '2020-11-30'
   link: https://www.jatit.org/volumes/Vol98No22/2Vol98No22.pdf
-  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -631,17 +635,16 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
-- id: https://www.jatit.org/volumes/Vol98No22/7Vol98No22.pdf
+- type: paper
   title: 'Pipeline and Deep Learning Approach for NLIDB: A Comparative Study'
   authors:
   - Shanza Abbas
   - Muhammad Umair Khan
   - Scott Uk-Jin Lee
   - Asad Abbas
-  publisher: Little Lion Scientific
+  publisher: Journal of Theoretical and Applied Information Technology
   date: '2020-11-30'
   link: https://www.jatit.org/volumes/Vol98No22/7Vol98No22.pdf
-  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -801,7 +804,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
-- id: https://hhhwwwuuu.github.io/assets/pdf/Xin0.pdf
+- type: paper
   title: Web Attack Detection Based on ResNet and RNN
   authors:
   - Xin Chen
@@ -811,7 +814,6 @@
     (INCCST'19)
   date: '2019-04-10'
   link: https://hhhwwwuuu.github.io/assets/pdf/Xin0.pdf
-  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
   plugin: sources.py
@@ -860,7 +862,7 @@
   scott: true
   plugin: sources.py
   file: sources.yaml
-- id: https://hhhwwwuuu.github.io/assets/pdf/Zhiqiang6.pdf
+- type: paper
   title: "Identifying Latent Android Malware from Application\u2019s Description using\
     \ LSTM"
   authors:
@@ -870,8 +872,881 @@
   publisher: Society of Convergence and Integrated Research
   date: '2019-01-01'
   link: https://hhhwwwuuu.github.io/assets/pdf/Zhiqiang6.pdf
-  type: paper
   orcid: 0000-0002-8457-3097
   scott: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5626/JOK.2018.45.9.975
+  title: Case Study for Collecting Policy Evaluation Factors upon Request when Creating
+    XACML Policy
+  authors:
+  - Yongtaek Oh
+  - Scott Uk-Jin Lee
+  publisher: Journal of KIISE Vol.45 No.9
+  date: '2018-06-20'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07531037
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207301
+  title: Effective Methodology for Collecting Contextual Factors and Information that
+    Affect to XACML Policy Evaluation
+  authors:
+  - YounGeun Ahn
+  - Gichan Lee
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2017\uB144 \uD55C\uAD6D\uCEF4\
+    \uD4E8\uD130\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-06-18'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207301
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Classification of Concurrent Anomalies for IoT Software based Support Vector
+    Machine
+  authors:
+  - Zhiqiang Wu
+  - Asad Abbas
+  - Xin Chen
+  - Scott Uk-Jin Lee
+  publisher: Journal of Theoretical and Applied Information Technology
+  link: https://www.researchgate.net/publication/323279886_Classification_of_concurrent_anomalies_for_iot_software_based_support_vector_machine
+  date: '2018-02-15'
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07303204
+  title: Access Control Management Solution for Smart Apartments
+  authors:
+  - Yongtaek Oh
+  - YounGeun Ahn
+  - HakJin Lee
+  - Scott Uk-Jin Lee
+  publisher: "2018\uB144 \uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C \uB3D9\
+    \uACC4\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1 \uC81C26\uAD8C \uC81C1\uD638"
+  date: '2018-01-01'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07303204
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613603
+  title: Intuitive Interface of XACML Policy Editor for General Users in IoT Environments
+  authors:
+  - YounGeun Ahn
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2018 \uD55C\uAD6D\uC18C\uD504\
+    \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2018-12-19'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613603
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613646
+  title: Unity optimization for Raspberry Pi-based serious game
+  authors:
+  - HakJin Lee
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2018 \uD55C\uAD6D\uC18C\uD504\
+    \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2018-12-19'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613646
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503314
+  title: An Improved Plug-in Security Test Model for Web Application
+  authors:
+  - Ziyi Zhang
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2018 \uD55C\uAD6D\uC18C\uD504\
+    \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2018-12-19'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503314
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Comparative Analysis of GUI Development for Android application by utilizing
+    MDA Approach
+  authors:
+  - Mohsin Javaid Siddiqui
+  - Xintao Li
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Scott Uk-Jin Lee
+  publisher: 2017 International Workshop on Convergence Information Technology (IWCIT)
+  link: https://www.researchgate.net/publication/322593409_Comparative_Analysis_of_GUI_Development_for_Android_application_by_utilizing_MDA_Approach
+  date: '2017-12-01'
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322219
+  title: Quantitative/Qualitative Analysis and Comparison of Paradigm for Design and
+    Development of IoT Device Applications
+  authors:
+  - YounGeun Ahn
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2017 \uD55C\uAD6D\uC18C\uD504\
+    \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-12-20'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322219
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322377
+  title: A Feed-forward Neural Network Model for Predicting Stock Price
+  authors:
+  - Xintao Li
+  - Mohsin Javaid Siddiqui
+  - Asad Abbas
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2017 \uD55C\uAD6D\uC18C\uD504\
+    \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-12-20'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322377
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Effective Multi-Thread Extraction
+  authors:
+  - Hyung-Lak Kim
+  - Asad Abbas
+  - Scott Uk-Jin Lee
+  publisher: 2017 International Conference on Computing Convergence and Applications
+    (ICCCA)
+  link: https://www.researchgate.net/publication/322592767_Effective_Multi-Thread_Extraction_Methodology
+  date: '2017-08-01'
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Multiple Concurrency Anomalies Classification for Mobile Applications using
+    Support Vector Machine
+  authors:
+  - Zhiqiang Wu
+  - Asad Abbas
+  - Scott Uk-Jin Lee
+  publisher: 2017 International Conference on Computing Convergence and Applications
+    (ICCCA)
+  link: https://hhhwwwuuu.github.io/assets/pdf/Zhiqiang3.pdf
+  date: '2017-08-01'
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2017.2680470
+  title: Binary Pattern for Nested Cardinality Constraints for Software Product Line
+    of IoT-Based Feature Models
+  authors:
+  - Asad Abbas
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  - Ali Kashif Bashir
+  publisher: IEEE Access (Voulume:5)
+  date: '2017-05-09'
+  link: https://ieeexplore.ieee.org/document/7875079
+  type: journal article
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207405
+  title: Support Vector Machine for Predicting Stock Price Based on RBF Kernel
+  authors:
+  - Li Xintao
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2017 \uD55C\uAD6D\uCEF4\uD4E8\
+    \uD130\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-06-18'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207405
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101017
+  title: Feature Modeling with Multi-Software Product Line of IoT Protocols
+  authors:
+  - Asad Abbas
+  - Isma Fara Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: "2017\uB144 \uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C \uB3D9\
+    \uACC4\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1 \uC81C25\uAD8C \uC81C1\uD638"
+  date: '2017-01-01'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101017
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207293
+  title: MDA (Model Driven Architecture) Based Game Design Using Unity Engine
+  authors:
+  - Kyojun Hwang
+  - Hyunglak Kim
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2017\uB144 \uD55C\uAD6D\uCEF4\
+    \uD4E8\uD130\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-06-18'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207293
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207291
+  title: Automation of verification tools for Multi-Thread Analysis
+  authors:
+  - Hakjin Lee
+  - Hyunglak Kim
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2017\uB144 \uD55C\uAD6D\uCEF4\
+    \uD4E8\uD130\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-06-18'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207291
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322231
+  title: Mobile Platform for Developing Serious Game based on Raspberry Pi
+  authors:
+  - Hakjin Lee
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2017 \uD55C\uAD6D\uC18C\uD504\
+    \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-12-20'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322231
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Contextual variability management of IoT application with xml-based feature
+    modelling
+  authors:
+  - Asad Abbas
+  - Isma Fara Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: Journal of Theoretical and Applied Information Technology
+  link: https://www.semanticscholar.org/paper/CONTEXTUAL-VARIABILITY-MANAGEMENT-OF-IOT-WITH-Abbas-Siddiqui/e99109a3df024054f94068c159dd225ab10b2809
+  date: '2017-03-31'
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101016
+  title: Comparative Analysis of Centralized Vs. Distributed Locality-based Repository
+    over IoT-Enabled Big Data in Smart Grid Environment
+  authors:
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Scott Uk-Jin Lee
+  publisher: "2017\uB144 \uD55C\uAD6D\uCEF4\uD4E8\uD130\uC815\uBCF4\uD559\uD68C \uB3D9\
+    \uACC4\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-01-01'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101016
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322411
+  title: Entropy based Anomaly Detection and IP classification System to Prevent DDoS
+    Attacks in Cloud Computing
+  authors:
+  - Ziyi Zhang
+  - YongTaek Oh
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2017 \uD55C\uAD6D\uC18C\uD504\
+    \uD2B8\uC6E8\uC5B4\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-12-20'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322411
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Testing and Evaluation of Free/Open Source Web Vulnerability Scanners for
+    IoT Web Applications
+  authors:
+  - Xin Chen
+  - Zhiqiang Wu
+  - Scott Uk-Jin Lee
+  publisher: 2017 International Workshop on Convergence Information Technology (IWCIT)
+  link: https://www.researchgate.net/publication/327133953_Testing_and_Evaluation_of_FreeOpen_Source_Web_Vulnerability_Scanners_for_IoT_Web_Applications
+  date: '2017-12-22'
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Contextual Variability Management of IoT Applications Using Agent-Base Modeling
+    with Software Product Line
+  authors:
+  - Asad Abbas
+  - Hyunglak Kim
+  - Isma Farah Siddiqui
+  - Ali Kashif Bashir
+  - Scott Uk-Jin Lee
+  publisher: 2017 International Conference on Computing Convergence and Applications
+    (ICCCA)
+  link: https://www.researchgate.net/publication/333189505_Contextual_Variability_Management_of_IoT_Applications_Using_Agent-based_Modeling_with_Software_Product_Line
+  date: '2017-08-01'
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Contextual Variability Management of Multi-Software Product Line
+  authors:
+  - Asad Abbas
+  - Zhiqiang Wu
+  - Mohsin Javaid Siddiqui
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: 2017 International Conference on Computing Convergence and Applications
+    (ICCCA)
+  link: https://www.researchgate.net/publication/319701743_Contextual_Variability_Management_of_Multi-Software_Product_Line
+  date: '2017-08-01'
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207306
+  title: Source Code Language Conversion Model Using RNN
+  authors:
+  - SeonWoong Kim
+  - HyungLak Kim
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2017\uB144 \uD55C\uAD6D\uCEF4\
+    \uD4E8\uD130\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  date: '2017-06-18'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207306
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: A hidden markov model to predict hot socket issue in smart grid
+  authors:
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Scott Uk-Jin Lee
+  publisher: 2016 Journal of Theoretical and Applied Information Technology
+  link: https://www.scopus.com/record/display.uri?eid=2-s2.0-85008240258&origin=inward&txGid=1c3ff4323f667a9c0d55cd679ac515bb
+  date: '2016-12-31'
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.17485/ijst/2016/v9i45/106769
+  title: Multi-objective optimization of feature model in software product line Perspectives
+    and challenges
+  authors:
+  - Asad Abbas
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: Indian Journal of Science and Technology
+  date: '2016-12-01'
+  link: https://www.semanticscholar.org/paper/Multi-Objective-Optimization-of-Feature-Model-in-Abbas-Siddiqui/100f0d9695494d76e6222b7155d4d3dea406f57e
+  type: journal article
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.17485/ijst/2016/v9i48/108873
+  title: A Comparative Study of Multithreading APIs for Software of ICT Equipment
+  authors:
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Abdul Rahim Mohamed Ariffin
+  - Scott Uk-Jin Lee
+  publisher: Indian Society for Education and Environment
+  date: ''
+  link: http://www.indjst.org/index.php/indjst/article/view/108873
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: The Application of Bankers Algorithm in Order Scheduling Management for Deadlock
+    Avoidance
+  authors:
+  - Zhiqiang Wu
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C 2016\uB144 \uD55C\uAD6D\uCEF4\
+    \uD4E8\uD130\uC885\uD569\uD559\uC220\uB300\uD68C \uB17C\uBB38\uC9D1"
+  link: https://www.researchgate.net/publication/318315690_The_Application_of_Banker's_Algorithm_in_Order_Scheduling_Management_for_Deadlock_Avoidance
+  date: '2016-06-29'
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.17485/ijst/2016/v9i17/92730
+  title: An empirical study over correctness properties for multithreaded programs
+  authors:
+  - Abdul Rahim Muhammad Ariffin
+  - Isma Farah Siddiqui
+  - Gayeon Kim
+  - Scott Uk-Jin Lee
+  publisher: Indian Society for Education and Environment
+  date: ''
+  link: https://indjst.org/articles/an-empirical-study-over-correctness-properties-for-multithreaded-programs
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Challenges of Multi-Objective Optimization in Feature Model of Software Product
+    Line
+  authors:
+  - Asad Abbas
+  - Zhiqiang Wu
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: 2016 The International Conference on Information, System and Convergence
+    Applications (ICISCA)
+  link: https://www.researchgate.net/publication/316507983_Challenges_of_Multi-Objective_Optimization_in_Feature_Model_of_Software_Product_Line
+  date: '2016-07-13'
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.17485/ijst/2016/v9i17/92728
+  title: An approach for optimized feature selection in Software Product Lines using
+    union-find and genetic algorithms
+  authors:
+  - Scott Uk-Jin Lee
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Wu Zhiqiang
+  publisher: Indian Society for Education and Environment
+  date: ''
+  link: https://indjst.org/articles/an-approach-for-optimized-feature-selection-in-software-product-lines-using-union-find-and-genetic-algorithms
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: XML-based Feature Modeling of IoT Applications
+  authors:
+  - Scott Uk-Jin Lee
+  - Asad Abbas
+  - Isma Farah Siddiqui
+  publisher: The Korea Society of Computer Information
+  link: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Optimized feature selection with crosscutting concerns in software product
+    line feature model
+  authors:
+  - Asad Abbas
+  - Wu Zhiqiang
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: International Conference on Information and Convergence Technology for
+    Smart Society
+  link: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Goal-based modeling for requirement traceability of software product line
+  authors:
+  - Asad Abbas
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: Journal of Theoretical and Applied Information Technology
+  link: https://www.jatit.org/volumes/Vol94No2/8Vol94No2.pdf
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7472/jksii.2016.17.5.09
+  title: Access Control as a Service for Information Protection in Semantic Web based
+    Smart Environment
+  authors:
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC778\uD130\uB137\uC815\uBCF4\uD559\uD68C (Korea Internet\
+    \ Information Society)"
+  date: '1970-01-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002163275
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07115900&language=ko_KR&hasTopBanner=true
+  title: Automated Verification Method for Java-based Multithreaded Software
+  authors:
+  - Hyung-Lak Kim
+  - Scott Uk-Jin Lee
+  publisher: Korean Institute of Information Scientists and Engineers
+  date: ''
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07115900&language=ko_KR&hasTopBanner=true
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
+  title: Improvement of Crowdsourcing based Software Development Process
+  authors:
+  - Hyung-Lak Kim
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: 'HBAC: An access control over Semantics-enabled Smart Grids to enable energy-efficiency
+    and lifetime optimization'
+  authors:
+  - Isma Farah Siddiqui
+  - Asad Abbas
+  - Scott Uk-Jin Lee
+  publisher: Society of Convergence and Integrated Research
+  link: https://www.researchgate.net/publication/294823751_HBAC_An_access_control_over_Semantics-enabled_Smart_Grids_to_enable_energy-efficiency_and_lifetime_optimization
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07115834
+  title: Personalized User Recommendation Technique exploiting SNS Profiling
+  authors:
+  - Seon-Woong Kim
+  - Sung-Je Cho
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07115834
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017606
+  title: The Necessity of Multithread Feature in Node.js
+  authors:
+  - Kim Gayeon
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017606
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017602
+  title: "The Application of Banker\u2019s Algorithm in Order Scheduling Management\
+    \ for Deadlock Avoidance"
+  authors:
+  - Wu Zhiqiang
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017602
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017600
+  title: Improvement of Crowdsourcing based Software Development Process
+  authors:
+  - Hyung-Lak Kim
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017600
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SERVICES.2014.92
+  title: Predicting Student Blood Pressure by Support Vector Machine Using Facebook
+  authors:
+  - Muhammad Umair Khan
+  - Javeria Shaikh Manzoor
+  - Scott Uk-Jin Lee
+  publisher: IEEE
+  date: ''
+  link: https://ieeexplore.ieee.org/document/6903311?arnumber=6903311&SID=EBSCO:edseee
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
+  title: XML-based Feature Modeling for Variability Management in Complex Software
+    Product Line
+  authors:
+  - Asad Abbas
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: 'Privacy-Aware Smart Learning: Providing XACML as a Service in Semantic Web
+    based Smart Environment'
+  authors:
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: The 7th International Conference on Internet (ICONI) 2015
+  location: Kuala Lumpur, Malaysia
+  link: https://www.researchgate.net/profile/Isma-Siddiqui/publication/289519517_Privacy-Aware_Smart_Learning_Providing_XACML_as_a_Service_in_Semantic_Web_based_Smart_Environment/links/591a853eaca2722d7cfe9201/Privacy-Aware-Smart-Learning-Providing-XACML-as-a-Service-in-Semantic-Web-based-Smart-Environment.pdf
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602432
+  title: Aspect-Oriented Programming based Process Synchronization in Concurrent Systems
+  authors:
+  - Asad Abbas
+  - Isma Farah Siddiqui
+  - Gayeon Kim
+  - Scott Uk-Jin Lee
+  publisher: Proceedings of the 2015 Korean Institute of Information Scientists and
+    Engineers (KIISE) Winter Conference
+  date: ''
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602432
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602422
+  title: Comparative Analysis on Tools for Verifying Multithreaded Applications
+  authors:
+  - Abdul Rahim Mohamed Ariffin
+  - Gayeon Kim
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602422
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: http://www.dbpia.co.kr/Article/NODE06394643
+  title: Recent Trends of Fintech and Comparative Analysis of Samsung-Pay and Apple-Pay
+  authors:
+  - Seon-Woong Kim
+  - Byeong-Jin Park
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: http://www.dbpia.co.kr/Article/NODE06394643
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: A Novel Approach for Integrating Semantic Web Techniques into Smart Education
+    Environment
+  authors:
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: International Conference on Information and Convergence Technology for
+    Smart Society
+  link: https://www.researchgate.net/publication/271769906_A_Novel_Approach_for_Integrating_Semantic_Web_Techniques_into_Smart_Education_Environment
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: A Framework for Verifying Consistency of SQL-DB Ontology using Alloy
+  authors:
+  - Isma Farah Siddiqui
+  - Scott Uk-Jin Lee
+  publisher: 16th Korea Computer Congress
+  link: https://www.researchgate.net/publication/268688886_A_Framework_for_Verifying_Consistency_of_SQL-DB_Ontology_using_Alloy
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: An Advanced Hyper-Efficient Design to Detect Random Peer-to-Peer Botnets
+  authors:
+  - Isma Farah Siddiqui
+  - Nawab Muhammad Faseeh Qureshi
+  - Scott Uk-Jin Lee
+  - Mukhtiar Ali Unar
+  publisher: Communications in Computer and Information Science (CCIS), IMTIC 2013
+  link: https://www.researchgate.net/publication/268688917_An_Advanced_Hyper-Efficient_Design_to_Detect_Random_Peer-to-Peer_Botnets
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217182
+  title: Conflict Detection Algorithm for XACML Policies
+  authors:
+  - JaeJin Kim
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217182
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
+  title: Vulnerability of Web-Storage in HTML5
+  authors:
+  - Jaeho Choi
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: XACML Policy Viewer for Generating Effective Access Control Policies
+  authors:
+  - Jaeho Choi
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uC18C\uD504\uD2B8\uC6E8\uC5B4\
+    \uACF5\uD559 \uC18C\uC0AC\uC774\uC5B4\uD2F0, \uD55C\uAD6D\uC815\uBCF4\uCC98\uB9AC\
+    \uD559\uD68C \uC18C\uD504\uD2B8\uC6E8\uC5B4\uACF5\uD559 \uC5F0\uAD6C\uD68C"
+  link: http://sigsoft.or.kr/ftp/KCSE2014_proceeding.pdf
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217171
+  title: Extended Mind Map for Software Requirement Specification
+  authors:
+  - Jiang Hua
+  - Scott Uk-Jin Lee
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C (Korean Institute of Information\
+    \ Scientists and Engineers)"
+  date: ''
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217171
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_27
+  title: MELO 2011 - 1st Workshop on Model-Driven Engineering, Logic and Optimization
+  authors:
+  - Jordi Cabot
+  - Patrick Albert
+  - "Gr\xE9goire Dup\xE9"
+  - Marcos Didonet del Fabro
+  - Scott Lee
+  publisher: ECMFA 2011 - Modelling Foundations and Applications
+  date: '1970-01-01'
+  link: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_27
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_12
+  title: 'An MDE-Based Approach for Solving Configuration Problems: An Application
+    to the Eclipse Platform'
+  authors:
+  - Guillaume Doux
+  - Patrick Albert
+  - Gabriel Barbier
+  - Jordi Cabot
+  - Marcos Didonet Del Fabro
+  - Scott Uk-Jin Lee
+  publisher: ECMFA 2011 - Modelling Foundations and Applications
+  date: '1970-01-01'
+  link: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_12
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https://link.springer.com/article/10.1007/s10703-010-0099-4
+  title: Theorem Prover Approach to Semistructured Data Design
+  authors:
+  - Scott Uk-Jin Lee
+  - Gillian Dobbie
+  - Jing Sun
+  - Lindsay Groves
+  publisher: Formal Methods in System Design
+  date: '2010-09-30'
+  link: https://link.springer.com/article/10.1007/s10703-010-0099-4
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Applying MDE for the Validation of Correct Eclipse Plugin Bundles
+  authors:
+  - Guillaume Doux
+  - Marcos Didonet Del Fabro
+  - "Fr\xE9d\xE9ric Jouault"
+  - Patrick Albert
+  - "Jean B\xE9zivin"
+  - "Fr\xE9d\xE9ric Madiot"
+  - Scott Lee
+  publisher: Neptune Days
+  link: https://www.researchgate.net/publication/47664905_Applying_MDE_for_the_Validation_of_Correct_Eclipse_Plugin_Bundles
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TASE.2009.11
+  title: Verifying Semistructured Data Normalization Using SWRL
+  authors:
+  - Yuan Fang Li
+  - Jing Sun
+  - Gillian Dobbie
+  - Scott Lee
+  - Hai H. Wang
+  publisher: 2009 Third IEEE International Symposium on Theoretical Aspects of Software
+    Engineering
+  date: '2009-07-01'
+  link: https://ieeexplore.ieee.org/document/5198502
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Formal Verification of Semistructured Data Models in PVS
+  authors:
+  - Scott Uk-Jin Lee
+  - Gillian Dobbie
+  - Jing Sun
+  - Lindsay Groves
+  publisher: JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+  link: https://www.researchgate.net/publication/220349149_Formal_Verification_of_Semistructured_Data_Models_in_PVS
+  pages: 241-272
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICECCS.2008.23
+  title: Verifying Semistructured Data Normalization Using PVS
+  authors:
+  - Scott Uk-Jin Lee
+  - Jing Sun
+  - Gillian Dobbie
+  - Lindsay Groves
+  publisher: 13th IEEE International Conference on Engineering of Complex Computer
+    Systems (iceccs 2008)
+  date: '2008-04-18'
+  link: https://ieeexplore.ieee.org/document/4492875
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ASWEC.2008.4483213
+  title: Correctness Criteria for Normalization of Semistructured Data
+  authors:
+  - Scott Uk-Jin Lee
+  - Jing Sun
+  - Gillian Dobbie
+  - Lindsay Groves
+  publisher: 19th Australian Conference on Software Engineering (aswec 2008)
+  date: '2008-04-03'
+  link: https://ieeexplore.ieee.org/document/4483213
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: 'Extended Abstract: Towards Verifying Semistructured Data'
+  authors:
+  - Gillian Dobbie
+  - Jing Sun
+  - Yuan Fang Li
+  - Scott Uk-Jin Lee
+  publisher: Proceedings of the fourth Asia-Pacific conference on Comceptual modelling
+    - Volume 67
+  date: '2007-01-30'
+  link: https://dl.acm.org/citation.cfm?id=1274457
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: A PVS Approach to Verifying ORA-SS Data Models
+  authors:
+  - Scott Uk-Jin Lee
+  - Gillian Dobbie
+  - Jing Sun
+  - Lindsay Groves
+  publisher: Proceedings of the Eighteenth International Conference on Software Engineering
+    & Knowledge Engineering (SEKE'2006)
+  date: ''
+  link: https://www.researchgate.net/publication/221390797_A_PVS_approach_to_verifying_ORA-SS_data_models
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.entcs.2006.01.025
+  title: A Z Approach in Validating ORA-SS Data Models
+  authors:
+  - Scott Uk-Jin Lee
+  - Jing Sun
+  - Gillian Dobbie
+  - Yuan Fang Li
+  publisher: Electronic Notes in Theoretical Computer Science (ENTCS)
+  date: '2006-05-01'
+  link: https://doi.org/10.1016/j.entcs.2006.01.025
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- type: paper
+  title: Research into Verifying Semistructured Data
+  authors:
+  - Gillian Dobbie
+  - Jing Sun
+  - Yuan Fang Li
+  - Scott Uk-Jin Lee
+  publisher: International Conference on Distributed Computing and Internet Technology
+  link: https://link.springer.com/chapter/10.1007/11951957_32
+  date: '1970-01-01'
   plugin: sources.py
   file: sources.yaml
