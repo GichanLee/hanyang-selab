@@ -128,7 +128,6 @@
   plugin: sources.py
   file: sources.yaml
   gichan: true
-  type: paper
   description: null
   image: images/ieee.png
 
@@ -764,7 +763,7 @@
     - Scott Uk-Jin Lee
   publisher: Special Issue Application of Optimization in Production, Logistics, Inventory, Supply Chain Management and Block Chain
   link: https://www.mdpi.com/2227-7390/7/10/963
-  date: 2019-10-13
+  date: '2019-10-13'
 
 - id: doi:10.5626/JOK.2018.45.9.975
   type: paper
@@ -774,7 +773,7 @@
     - Scott Uk-Jin Lee
   publisher: Journal of KIISE Vol.45 No.9
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07531037
-  date: 2018-06-20
+  date: '2018-06-20'
 
 - id: doi:10.1109/ACCESS.2018.2806944
   type: journal article
@@ -788,7 +787,7 @@
     - Nawab Muhammad Faseeh Qureshi
   publisher: IEEE Access (Voulume:6)
   link: https://ieeexplore.ieee.org/abstract/document/8303653
-  date: 2018-02-07
+  date: '2018-02-07'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207301
   type: paper
@@ -799,7 +798,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017년 한국컴퓨터종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207301
-  date: 2017-06-18
+  date: '2017-06-18'
 
 - type: paper
   title: Classification of Concurrent Anomalies for IoT Software based Support Vector Machine
@@ -822,7 +821,7 @@
     - Scott Uk-Jin Lee
   publisher: 2018년 한국컴퓨터정보학회 동계학술대회 논문집 제26권 제1호
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07303204
-  date: 2018-01-01
+  date: '2018-01-01'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613603
   type: paper
@@ -832,7 +831,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2018 한국소프트웨어종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613603
-  date: 2018-12-19
+  date: '2018-12-19'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613646
   type: paper
@@ -842,7 +841,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2018 한국소프트웨어종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613646
-  date: 2018-12-19
+  date: '2018-12-19'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503314
   type: paper
@@ -852,7 +851,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2018 한국소프트웨어종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503314
-  date: 2018-12-19
+  date: '2018-12-19'
 
 - type: paper
   title: Comparative Analysis of GUI Development for Android application by utilizing MDA Approach
@@ -864,7 +863,7 @@
     - Scott Uk-Jin Lee
   publisher: 2017 International Workshop on Convergence Information Technology (IWCIT)
   link: https://www.researchgate.net/publication/322593409_Comparative_Analysis_of_GUI_Development_for_Android_application_by_utilizing_MDA_Approach
-  date: 2017-12-01
+  date: '2017-12-01'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322219
   type: paper 
@@ -874,7 +873,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017 한국소프트웨어종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322219
-  date: 2017-12-20
+  date: '2017-12-20'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322377
   type: paper
@@ -886,7 +885,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017 한국소프트웨어종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322377
-  date: 2017-12-20
+  date: '2017-12-20'
 
 - id: doi:10.1109/ACCESS.2017.2752242
   type: journal article
@@ -898,7 +897,7 @@
     - Ali Kashif Bashir
   publisher: IEEE Access (Voulume:5)
   link: https://ieeexplore.ieee.org/abstract/document/8046004
-  date: 2017-09-19
+  date: '2017-09-19'
 
 - type: paper
   title: Effective Multi-Thread Extraction
@@ -908,7 +907,7 @@
     - Scott Uk-Jin Lee
   publisher: 2017 International Conference on Computing Convergence and Applications (ICCCA)
   link: https://www.researchgate.net/publication/322592767_Effective_Multi-Thread_Extraction_Methodology
-  date: 2017-08-01
+  date: '2017-08-01'
 
 - type: paper
   title: Multiple Concurrency Anomalies Classification for Mobile Applications using Support Vector Machine
@@ -918,7 +917,7 @@
     - Scott Uk-Jin Lee
   publisher: 2017 International Conference on Computing Convergence and Applications (ICCCA)
   link: https://hhhwwwuuu.github.io/assets/pdf/Zhiqiang3.pdf
-  date: 2017-08-01
+  date: '2017-08-01'
 
 - id: doi:10.1109/ACCESS.2017.2680470
   type: journal article
@@ -930,7 +929,7 @@
     - Ali Kashif Bashir
   publisher: IEEE Access (Voulume:5)
   link: https://ieeexplore.ieee.org/document/7875079
-  date: 2017-05-09
+  date: '2017-05-09'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207405
   type: paper
@@ -940,7 +939,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017 한국컴퓨터종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207405
-  date: 2017-06-18
+  date: '2017-06-18'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101017
   type: paper 
@@ -951,7 +950,7 @@
     - Scott Uk-Jin Lee
   publisher: 2017년 한국컴퓨터정보학회 동계학술대회 논문집 제25권 제1호
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101017
-  date: 2017-01-01
+  date: '2017-01-12'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207293
   type: paper
@@ -962,7 +961,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017년 한국컴퓨터종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207293
-  date: 2017-06-18
+  date: '2017-06-18'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207291
   type: paper
@@ -973,7 +972,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017년 한국컴퓨터종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207291
-  date: 2017-06-18
+  date: '2017-06-18'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322231
   type: paper
@@ -983,7 +982,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017 한국소프트웨어종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322231
-  date: 2017-12-20
+  date: '2017-12-20'
 
 - type: paper
   title: Contextual variability management of IoT application with xml-based feature modelling
@@ -993,7 +992,7 @@
     - Scott Uk-Jin Lee
   publisher: Journal of Theoretical and Applied Information Technology
   link: https://www.semanticscholar.org/paper/CONTEXTUAL-VARIABILITY-MANAGEMENT-OF-IOT-WITH-Abbas-Siddiqui/e99109a3df024054f94068c159dd225ab10b2809
-  date: 2017-03-31
+  date: '2017-03-31'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101016
   type: paper 
@@ -1004,7 +1003,7 @@
     - Scott Uk-Jin Lee
   publisher: 2017년 한국컴퓨터정보학회 동계학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07101016
-  date: 2017-01-01
+  date: '2017-01-12'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322219
   type: paper
@@ -1025,7 +1024,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017 한국소프트웨어종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322411
-  date: 2017-12-20
+  date: '2017-12-20'
 
 - type: paper
   title: Testing and Evaluation of Free/Open Source Web Vulnerability Scanners for IoT Web Applications
@@ -1035,7 +1034,7 @@
     - Scott Uk-Jin Lee
   publisher: 2017 International Workshop on Convergence Information Technology (IWCIT)
   link: https://www.researchgate.net/publication/327133953_Testing_and_Evaluation_of_FreeOpen_Source_Web_Vulnerability_Scanners_for_IoT_Web_Applications
-  date: 2017-12-22
+  date: '2017-12-22'
 
 - type: paper
   title: Contextual Variability Management of IoT Applications Using Agent-Base Modeling with Software Product Line
@@ -1047,7 +1046,7 @@
     - Scott Uk-Jin Lee
   publisher: 2017 International Conference on Computing Convergence and Applications (ICCCA)
   link: https://www.researchgate.net/publication/333189505_Contextual_Variability_Management_of_IoT_Applications_Using_Agent-based_Modeling_with_Software_Product_Line
-  date: 2017-08-01
+  date: '2017-08-01'
 
 - type: paper
   title: Contextual Variability Management of Multi-Software Product Line
@@ -1059,7 +1058,7 @@
     - Scott Uk-Jin Lee
   publisher: 2017 International Conference on Computing Convergence and Applications (ICCCA)
   link: https://www.researchgate.net/publication/319701743_Contextual_Variability_Management_of_Multi-Software_Product_Line
-  date: 2017-08-01
+  date: '2017-08-01'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207306
   type: paper 
@@ -1070,7 +1069,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017년 한국컴퓨터종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207306
-  date: 2017-06-18
+  date: '2017-06-18'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207291
   type: paper
@@ -1081,7 +1080,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2017년 한국컴퓨터종합학술대회 논문집
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207291
-  date: 2017-06-18
+  date: '2017-06-18'
 
 - type: paper
   title: A hidden markov model to predict hot socket issue in smart grid
@@ -1091,7 +1090,7 @@
     - Scott Uk-Jin Lee
   publisher: 2016 Journal of Theoretical and Applied Information Technology 
   link: https://www.scopus.com/record/display.uri?eid=2-s2.0-85008240258&origin=inward&txGid=1c3ff4323f667a9c0d55cd679ac515bb
-  date: 2016-12-31
+  date: '2016-12-31'
 
 - id: doi:10.17485/ijst/2016/v9i45/106769
   type: journal article
@@ -1102,7 +1101,7 @@
     - Scott Uk-Jin Lee
   publisher: Indian Journal of Science and Technology
   link: https://www.semanticscholar.org/paper/Multi-Objective-Optimization-of-Feature-Model-in-Abbas-Siddiqui/100f0d9695494d76e6222b7155d4d3dea406f57e
-  date: 2016-12-01
+  date: '2016-12-01'
 
 - id: doi:10.17485/ijst/2016/v9i48/108873
   type: journal article
@@ -1114,7 +1113,7 @@
     - Scott Uk-Jin Lee
   publisher: Indian Society for Education and Environment
   link: https://www.researchgate.net/publication/313248305_A_Comparative_Study_of_Multithreading_APIs_for_Software_of_ICT_Equipment
-  date: 2016-12-01
+  date: '2016-12-01'
 
 - type: paper
   title: The Application of Bankers Algorithm in Order Scheduling Management for Deadlock Avoidance
@@ -1123,7 +1122,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 2016년 한국컴퓨터종합학술대회 논문집
   link: https://www.researchgate.net/publication/318315690_The_Application_of_Banker's_Algorithm_in_Order_Scheduling_Management_for_Deadlock_Avoidance
-  date: 2016-06-29
+  date: '2016-06-29'
 
 - id: doi:10.17485/ijst/2016/v9i17/92730
   type: journal article
@@ -1134,7 +1133,7 @@
     - Scott Uk-Jin Lee
   publisher: Indian Journal of Science and Technology
   link: https://www.researchgate.net/publication/303553790_An_Empirical_Study_over_Correctness_Properties_for_Multithreaded_Programs
-  date: 2016-05-01
+  date: '2016-05-01'
 
 - type: paper
   title: Challenges of Multi-Objective Optimization in Feature Model of Software Product Line
@@ -1145,7 +1144,7 @@
     - Scott Uk-Jin Lee
   publisher: 2016 The International Conference on Information, System and Convergence Applications (ICISCA)
   link: https://www.researchgate.net/publication/316507983_Challenges_of_Multi-Objective_Optimization_in_Feature_Model_of_Software_Product_Line
-  date: 2016-07-13
+  date: '2016-07-13'
 
 - id: doi:10.17485/ijst/2016/v9i17/92728
   type: paper
@@ -1157,7 +1156,7 @@
     - Wu Zhiqiang 
   publisher: Indian Society for Education and Environment
   link: https://indjst.org/articles/an-approach-for-optimized-feature-selection-in-software-product-lines-using-union-find-and-genetic-algorithms
-  date: 2016-05 
+  date: '2016-05-01'
 
 - type: paper
   title: "XML-based Feature Modeling of IoT Applications"
@@ -1167,7 +1166,7 @@
     - Isma Farah Siddiqui
   publisher: The Korea Society of Computer Information
   link: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
-  date: 2016-12
+  date: '2016-12-01'
 
 - type: paper
   title: "Optimized feature selection with crosscutting concerns in software product line feature model"
@@ -1178,7 +1177,7 @@
     - Scott Uk-Jin Lee
   publisher: International Conference on Information and Convergence Technology for Smart Society
   link: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
-  date: 2016-01
+  date: '2016-01-19'
 
 - type: paper
   title: "Goal-based modeling for requirement traceability of software product line"
@@ -1188,7 +1187,7 @@
     - Scott Uk-Jin Lee
   publisher: Journal of Theoretical and Applied Information Technology
   link: https://www.jatit.org/volumes/Vol94No2/8Vol94No2.pdf
-  date: 2016-12
+  date: '2016-12-31'
 
 - id: doi:10.7472/jksii.2016.17.5.09
   type: paper
@@ -1197,8 +1196,8 @@
     - Isma Farah Siddiqui
     - Scott Uk-Jin Lee
   publisher: 한국인터넷정보학회 (Korea Internet Information Society)
-  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002163275
-  date: 2016
+  link: https://doi.org/10.7472/jksii.2016.17.5.09
+  date: '2016-10-31'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07115900&language=ko_KR&hasTopBanner=true
   type: paper
@@ -1208,7 +1207,7 @@
     - Scott Uk-Jin Lee
   publisher: Korean Institute of Information Scientists and Engineers
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07115900&language=ko_KR&hasTopBanner=true
-  date: 2016-12
+  date: '2016-12-21'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
   type: paper
@@ -1218,7 +1217,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
-  date: 2016-06
+  date: '2016-06-29'
 
 - type: paper
   title: "HBAC: An access control over Semantics-enabled Smart Grids to enable energy-efficiency and lifetime optimization"
@@ -1228,7 +1227,7 @@
     - Scott Uk-Jin Lee
   publisher: Society of Convergence and Integrated Research
   link: https://www.researchgate.net/publication/294823751_HBAC_An_access_control_over_Semantics-enabled_Smart_Grids_to_enable_energy-efficiency_and_lifetime_optimization
-  date: 2016-01
+  date: '2016-01-19'
 
 - id: doi:10.17485/ijst/2016/v9i48/108873
   type: paper
@@ -1240,7 +1239,7 @@
     - Scott Uk-Jin Lee
   publisher: Indian Society for Education and Environment
   link: http://www.indjst.org/index.php/indjst/article/view/108873
-  date: 2016-12
+  date: '2016-12-01'
 
 - id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07115834
   type: paper
@@ -1251,7 +1250,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07115834
-  date: 2016-12
+  date: '2016-12-21'
 
 - id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017606
   type: paper
@@ -1261,7 +1260,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017606
-  date: 2016-06
+  date: '2016-06-29'
 
 - id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017602
   type: paper
@@ -1271,7 +1270,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017602
-  date: 2016-06
+  date: '2016-06-29'
 
 - id: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017600
   type: paper
@@ -1281,7 +1280,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017600
-  date: 2016-06
+  date: '2016-06-29'
 
 - id: doi:10.1155/2015/435316
   type: paper
@@ -1290,7 +1289,7 @@
     - Scott Uk-Jin Lee
   publisher: Hindawi Publishing Corporation
   link: https://www.hindawi.com/journals/mpe/2015/435316/
-  date: 2015-06
+  date: '2015-10-19'
 
 - id: doi:10.1109/SERVICES.2014.92
   type: paper
@@ -1301,7 +1300,7 @@
     - Scott Uk-Jin Lee
   publisher: IEEE
   link: https://ieeexplore.ieee.org/document/6903311?arnumber=6903311&SID=EBSCO:edseee
-  date: 2014-06
+  date: '2014-06-27'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
   type: paper
@@ -1312,7 +1311,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
-  date: 2015-06
+  date: '2015-06-24'
 
 - type: paper
   title: "Privacy-Aware Smart Learning: Providing XACML as a Service in Semantic Web based Smart Environment"
@@ -1322,7 +1321,7 @@
   publisher: The 7th International Conference on Internet (ICONI) 2015
   location: Kuala Lumpur, Malaysia
   link: https://www.researchgate.net/profile/Isma-Siddiqui/publication/289519517_Privacy-Aware_Smart_Learning_Providing_XACML_as_a_Service_in_Semantic_Web_based_Smart_Environment/links/591a853eaca2722d7cfe9201/Privacy-Aware-Smart-Learning-Providing-XACML-as-a-Service-in-Semantic-Web-based-Smart-Environment.pdf
-  date: 2015-12
+  date: '2015-12-01'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602432
   type: paper
@@ -1334,7 +1333,7 @@
     - Scott Uk-Jin Lee
   publisher: Proceedings of the 2015 Korean Institute of Information Scientists and Engineers (KIISE) Winter Conference
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602432
-  date: 2015-12
+  date: '2015-12-01'
 
 - id: doi:10.17485/ijst/2016/v9i17/92730
   type: paper
@@ -1346,7 +1345,7 @@
     - Scott Uk-Jin Lee
   publisher: Indian Society for Education and Environment
   link: https://indjst.org/articles/an-empirical-study-over-correctness-properties-for-multithreaded-programs
-  date: 2016-05
+  date: '2016-05-01'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602422
   type: paper
@@ -1357,7 +1356,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602422
-  date: 2015-12
+  date: '2015-12-01'
 
 - id: http://www.dbpia.co.kr/Article/NODE06394643
   type: paper
@@ -1368,7 +1367,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: http://www.dbpia.co.kr/Article/NODE06394643
-  date: 2015-06
+  date: '2015-06-24'
 
 - type: paper
   title: "A Novel Approach for Integrating Semantic Web Techniques into Smart Education Environment"
@@ -1377,7 +1376,7 @@
     - Scott Uk-Jin Lee
   publisher: International Conference on Information and Convergence Technology for Smart Society
   link: https://www.researchgate.net/publication/271769906_A_Novel_Approach_for_Integrating_Semantic_Web_Techniques_into_Smart_Education_Environment
-  date: 2015-01
+  date: '2015-01-01'
 
 - type: paper
   title: "A Framework for Verifying Consistency of SQL-DB Ontology using Alloy"
@@ -1386,7 +1385,7 @@
     - Scott Uk-Jin Lee
   publisher: 16th Korea Computer Congress
   link: https://www.researchgate.net/publication/268688886_A_Framework_for_Verifying_Consistency_of_SQL-DB_Ontology_using_Alloy
-  date: 2014-06
+  date: '2014-06-25'
 
 - type: paper
   title: "An Advanced Hyper-Efficient Design to Detect Random Peer-to-Peer Botnets"
@@ -1397,7 +1396,7 @@
     - Mukhtiar Ali Unar
   publisher: Communications in Computer and Information Science (CCIS), IMTIC 2013
   link: https://www.researchgate.net/publication/268688917_An_Advanced_Hyper-Efficient_Design_to_Detect_Random_Peer-to-Peer_Botnets
-  date: 2013-12
+  date: '2014-01-01'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217182
   type: paper
@@ -1407,7 +1406,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217182
-  date: 2013-06
+  date: '2013-06-01'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
   type: paper
@@ -1417,7 +1416,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
-  date: 2013-06
+  date: '2013-06-01'
 
 - type: paper
   title: "XACML Policy Viewer for Generating Effective Access Control Policies"
@@ -1426,7 +1425,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 소프트웨어공학 소사이어티, 한국정보처리학회 소프트웨어공학 연구회
   link: http://sigsoft.or.kr/ftp/KCSE2014_proceeding.pdf
-  date: 2014-02
+  date: '2014-02-01'
 
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217171
   type: paper
@@ -1436,7 +1435,7 @@
     - Scott Uk-Jin Lee
   publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217171
-  date: 2013-06
+  date: '2013-06-01'
 
 - id: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_27
   type: paper
@@ -1449,7 +1448,7 @@
     - Scott Lee
   publisher: ECMFA 2011 - Modelling Foundations and Applications
   link: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_27
-  date: 2011
+  date: '2011-06-01'
 
 - id: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_12
   type: paper
@@ -1463,7 +1462,7 @@
     - Scott Uk-Jin Lee
   publisher: ECMFA 2011 - Modelling Foundations and Applications
   link: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_12
-  date: 2011
+  date: '2011-06-01'
 
 - id: https://link.springer.com/article/10.1007/s10703-010-0099-4
   type: paper
@@ -1475,7 +1474,7 @@
     - Lindsay Groves
   publisher: Formal Methods in System Design
   link: https://link.springer.com/article/10.1007/s10703-010-0099-4
-  date: 2010-09-30
+  date: '2010-09-30'
 
 - type: paper
   title: "Applying MDE for the Validation of Correct Eclipse Plugin Bundles"
@@ -1489,7 +1488,7 @@
     - Scott Lee
   publisher: Neptune Days
   link: https://www.researchgate.net/publication/47664905_Applying_MDE_for_the_Validation_of_Correct_Eclipse_Plugin_Bundles
-  date: 2010-05
+  date: '2010-05-01'
 
 - id: doi:10.1109/TASE.2009.11
   type: paper
@@ -1502,6 +1501,7 @@
     - Hai H. Wang
   publisher: 2009 Third IEEE International Symposium on Theoretical Aspects of Software Engineering
   link: https://ieeexplore.ieee.org/document/5198502
+  date: '2009-07-29'
   
 - type: paper
   title: "Formal Verification of Semistructured Data Models in PVS"
@@ -1513,7 +1513,7 @@
   publisher: JOURNAL OF UNIVERSAL COMPUTER SCIENCE
   link: https://www.researchgate.net/publication/220349149_Formal_Verification_of_Semistructured_Data_Models_in_PVS
   pages: 241-272
-  date: 2009-01
+  date: '2009-01-01'
 
 - id: doi:10.1109/ICECCS.2008.23
   type: paper
@@ -1524,7 +1524,7 @@
     - Gillian Dobbie
     - Lindsay Groves
   publisher: 13th IEEE International Conference on Engineering of Complex Computer Systems (iceccs 2008)
-  date: 2008-04-18
+  date: '2008-04-18'
   link: https://ieeexplore.ieee.org/document/4492875
 
 - id: doi:10.1109/ASWEC.2008.4483213
@@ -1536,7 +1536,7 @@
     - Gillian Dobbie
     - Lindsay Groves
   publisher: 19th Australian Conference on Software Engineering (aswec 2008)
-  date: 2008-04-03
+  date: '2008-04-03'
   link: https://ieeexplore.ieee.org/document/4483213
   
 - type: paper
@@ -1547,7 +1547,7 @@
     - Yuan Fang Li
     - Scott Uk-Jin Lee
   publisher: Proceedings of the fourth Asia-Pacific conference on Comceptual modelling - Volume 67
-  date: 2007-01-30
+  date: '2007-01-30'
   link: https://dl.acm.org/citation.cfm?id=1274457
 
 - type: paper
@@ -1558,7 +1558,7 @@
     - Jing Sun
     - Lindsay Groves
   publisher: Proceedings of the Eighteenth International Conference on Software Engineering & Knowledge Engineering (SEKE'2006)
-  date: 2006-07
+  date: '2006-07-01'
   link: https://www.researchgate.net/publication/221390797_A_PVS_approach_to_verifying_ORA-SS_data_models
 
 - id: doi:10.1016/j.entcs.2006.01.025
@@ -1570,6 +1570,7 @@
     - Gillian Dobbie
     - Yuan Fang Li
   publisher: Electronic Notes in Theoretical Computer Science (ENTCS)
+  date: '2006-05-16'
   link: https://doi.org/10.1016/j.entcs.2006.01.025
 
 - type: paper
@@ -1581,4 +1582,4 @@
     - Scott Uk-Jin Lee
   publisher: International Conference on Distributed Computing and Internet Technology
   link: https://link.springer.com/chapter/10.1007/11951957_32
-  date: 2006
+  date: '2006-12-01'
