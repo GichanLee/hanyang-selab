@@ -805,7 +805,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207301
   date: 2017-06-18
 
-- id: https://www.researchgate.net/publication/323279886_Classification_of_concurrent_anomalies_for_iot_software_based_support_vector_machine
+- id: zhiqiang_JTAIT
   type: journal article
   title: Classification of Concurrent Anomalies for IoT Software based Support Vector Machine
   authors:
@@ -859,7 +859,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503314
   date: 2018-12-19
 
-- id: https://www.researchgate.net/publication/322593409_Comparative_Analysis_of_GUI_Development_for_Android_application_by_utilizing_MDA_Approach
+- id: mohsin_IWCIT
   type: paper
   title: Comparative Analysis of GUI Development for Android application by utilizing MDA Approach
   authors:
@@ -906,7 +906,7 @@
   link: https://ieeexplore.ieee.org/abstract/document/8046004
   date: 2017-09-19
 
-- id: https://www.researchgate.net/publication/322592767_Effective_Multi-Thread_Extraction_Methodology
+- id: hyunglak_ICCCA17
   type: paper
   title: Effective Multi-Thread Extraction
   authors:
@@ -993,7 +993,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322231
   date: 2017-12-20
 
-- id: https://www.semanticscholar.org/paper/CONTEXTUAL-VARIABILITY-MANAGEMENT-OF-IOT-WITH-Abbas-Siddiqui/e99109a3df024054f94068c159dd225ab10b2809
+- id: asad_JTAIT2017
   type: journal article
   title: Contextual variability management of IoT application with xml-based feature modelling
   authors:
@@ -1036,7 +1036,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322411
   date: 2017-12-20
 
-- id: https://www.researchgate.net/publication/327133953_Testing_and_Evaluation_of_FreeOpen_Source_Web_Vulnerability_Scanners_for_IoT_Web_Applications
+- id: chenxin_IWCIT17
   type: paper
   title: Testing and Evaluation of Free/Open Source Web Vulnerability Scanners for IoT Web Applications
   authors:
@@ -1047,7 +1047,7 @@
   link: https://www.researchgate.net/publication/327133953_Testing_and_Evaluation_of_FreeOpen_Source_Web_Vulnerability_Scanners_for_IoT_Web_Applications
   date: 2017-12-22
 
-- id: https://www.researchgate.net/publication/333189505_Contextual_Variability_Management_of_IoT_Applications_Using_Agent-based_Modeling_with_Software_Product_Line
+- id: asad_ICCCA17_1
   type: paper
   title: Contextual Variability Management of IoT Applications Using Agent-Base Modeling with Software Product Line
   authors:
@@ -1060,7 +1060,7 @@
   link: https://www.researchgate.net/publication/333189505_Contextual_Variability_Management_of_IoT_Applications_Using_Agent-based_Modeling_with_Software_Product_Line
   date: 2017-08-01
 
-- id: https://www.researchgate.net/publication/319701743_Contextual_Variability_Management_of_Multi-Software_Product_Line
+- id: asad_ICCCA17_2
   type: paper
   title: Contextual Variability Management of Multi-Software Product Line
   authors:
@@ -1095,7 +1095,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207291
   date: 2017-06-18
 
-- id: https://www.scopus.com/record/display.uri?eid=2-s2.0-85008240258&origin=inward&txGid=1c3ff4323f667a9c0d55cd679ac515bb
+- id: isma_2016JTAIT
   type: paper
   title: A hidden markov model to predict hot socket issue in smart grid
   authors:
@@ -1129,7 +1129,7 @@
   link: https://www.researchgate.net/publication/313248305_A_Comparative_Study_of_Multithreading_APIs_for_Software_of_ICT_Equipment
   date: 2016-12-01
 
-- id: https://www.researchgate.net/publication/318315690_The_Application_of_Banker's_Algorithm_in_Order_Scheduling_Management_for_Deadlock_Avoidance
+- id: zhqiaing_kcc
   type: paper
   title: The Application of Bankers Algorithm in Order Scheduling Management for Deadlock Avoidance
   authors:
@@ -1150,7 +1150,7 @@
   link: https://www.researchgate.net/publication/303553790_An_Empirical_Study_over_Correctness_Properties_for_Multithreaded_Programs
   date: 2016-05-01
 
-- id: https://www.researchgate.net/publication/316507983_Challenges_of_Multi-Objective_Optimization_in_Feature_Model_of_Software_Product_Line
+- id: asad_ICISCA16
   type: paper
   title: Challenges of Multi-Objective Optimization in Feature Model of Software Product Line
   authors:
@@ -1174,7 +1174,7 @@
   link: https://indjst.org/articles/an-approach-for-optimized-feature-selection-in-software-product-lines-using-union-find-and-genetic-algorithms
   date: 2016-05 
 
-- id: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
+- id: scott_KSCI
   type: paper
   title: "XML-based Feature Modeling of IoT Applications"
   authors:
@@ -1238,7 +1238,7 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
   date: 2016-06
 
-- id: https://www.researchgate.net/publication/294823751_HBAC_An_access_control_over_Semantics-enabled_Smart_Grids_to_enable_energy-efficiency_and_lifetime_optimization
+- id: isma_SCIR16
   type: paper
   title: "HBAC: An access control over Semantics-enabled Smart Grids to enable energy-efficiency and lifetime optimization"
   authors:
@@ -1390,7 +1390,7 @@
   link: http://www.dbpia.co.kr/Article/NODE06394643
   date: 2015-06
 
-- id: https://www.researchgate.net/publication/271769906_A_Novel_Approach_for_Integrating_Semantic_Web_Techniques_into_Smart_Education_Environment
+- id: isma_ICICTSS15
   type: paper
   title: "A Novel Approach for Integrating Semantic Web Techniques into Smart Education Environment"
   authors:
@@ -1400,7 +1400,7 @@
   link: https://www.researchgate.net/publication/271769906_A_Novel_Approach_for_Integrating_Semantic_Web_Techniques_into_Smart_Education_Environment
   date: 2015-01
 
-- id: https://www.researchgate.net/publication/268688886_A_Framework_for_Verifying_Consistency_of_SQL-DB_Ontology_using_Alloy
+- id: isma_KCC16
   type: paper
   title: "A Framework for Verifying Consistency of SQL-DB Ontology using Alloy"
   authors:
@@ -1410,7 +1410,7 @@
   link: https://www.researchgate.net/publication/268688886_A_Framework_for_Verifying_Consistency_of_SQL-DB_Ontology_using_Alloy
   date: 2014-06
 
-- id: https://www.researchgate.net/publication/268688917_An_Advanced_Hyper-Efficient_Design_to_Detect_Random_Peer-to-Peer_Botnets
+- id: isma_CCIS13
   type: paper
   title: "An Advanced Hyper-Efficient Design to Detect Random Peer-to-Peer Botnets"
   authors:
@@ -1501,7 +1501,7 @@
   link: https://link.springer.com/article/10.1007/s10703-010-0099-4
   date: 2010-09-30
 
-- id: https://www.researchgate.net/publication/47664905_Applying_MDE_for_the_Validation_of_Correct_Eclipse_Plugin_Bundles
+- id: scott_postdoc1
   type: paper
   title: "Applying MDE for the Validation of Correct Eclipse Plugin Bundles"
   authors:
@@ -1528,7 +1528,7 @@
   publisher: 2009 Third IEEE International Symposium on Theoretical Aspects of Software Engineering
   link: https://ieeexplore.ieee.org/document/5198502
   
-- id: https://www.researchgate.net/publication/220349149_Formal_Verification_of_Semistructured_Data_Models_in_PVS
+- id: scott_JUCS
   type: paper
   title: "Formal Verification of Semistructured Data Models in PVS"
   authors:
@@ -1586,7 +1586,7 @@
   date: 2007-01-30
   link: https://dl.acm.org/citation.cfm?id=1274457
 
-- id: https://www.researchgate.net/publication/221390797_A_PVS_approach_to_verifying_ORA-SS_data_models
+- id: scott_doc1
   type: paper
   title: "A PVS Approach to Verifying ORA-SS Data Models"
   authors:
@@ -1609,7 +1609,7 @@
   publisher: Electronic Notes in Theoretical Computer Science (ENTCS)
   link: https://doi.org/10.1016/j.entcs.2006.01.025
 
-- id: https://link.springer.com/chapter/10.1007/11951957_32
+- id: scott_ICDCIT
   type: paper
   title: "Research into Verifying Semistructured Data"
   authors:
