@@ -1516,7 +1516,7 @@
   link: https://www.researchgate.net/publication/47664905_Applying_MDE_for_the_Validation_of_Correct_Eclipse_Plugin_Bundles
   date: 2010-05
 
-- id: doi:10.1109/TASE.2009.11.
+- id: doi:10.1109/TASE.2009.11
   type: paper
   title: "Verifying Semistructured Data Normalization Using SWRL"
   authors:
@@ -1565,16 +1565,7 @@
   date: 2008-04-03
   link: https://ieeexplore.ieee.org/document/4483213
   
-- id: https://dl.acm.org/citation.cfm?id=1274457
-  type: paper
-  title: "Towards Verifying Semistructured Data"
-  authors:
-    - Scott Uk-Jin Lee
-  publisher: Proceedings of the fourth Asia-Pacific conference on Comceptual modelling - Volume 67
-  link: https://dl.acm.org/citation.cfm?id=1274457
-  date: 2007-01
-
-- id: doi:10.5555/1274453.1274457
+- id: scott_APCCM
   type: paper
   title: "Extended Abstract: Towards Verifying Semistructured Data"
   authors:
