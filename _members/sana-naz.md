@@ -4,7 +4,7 @@ image: images/sana.jpg
 role: phd
 description: 박사과정
 aliases:
-  - Gichan Lee
+  - Sana Naz
 group: 현역
 links:
   email: sananaz@hanyang.ac.kr
