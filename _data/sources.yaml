@@ -1155,3 +1155,547 @@
   publisher: 2016 The International Conference on Information, System and Convergence Applications (ICISCA)
   link: https://www.researchgate.net/publication/316507983_Challenges_of_Multi-Objective_Optimization_in_Feature_Model_of_Software_Product_Line
   date: 2016-07-13
+
+- id: doi:10.17485/ijst/2016/v9i17/92728
+  type: paper
+  title: "An approach for optimized feature selection in Software Product Lines using union-find and genetic algorithms"
+  authors:
+    - Scott Uk-Jin Lee
+    - Isma Farah Siddiqui
+    - Asad Abbas
+    - Wu Zhiqiang 
+  publisher: Indian Society for Education and Environment
+  link: https://indjst.org/articles/an-approach-for-optimized-feature-selection-in-software-product-lines-using-union-find-and-genetic-algorithms
+  date: 2016-05
+  tags:
+    - Feature model
+    - Genetic algorithm
+    - Optimization
+    - Software Product Line
+    - Union-find algorithm
+
+- id: none
+  type: paper
+  title: "XML-based Feature Modeling of IoT Applications"
+  authors:
+    - Scott Uk-Jin Lee
+    - Asad Abbas
+    - Isma Farah Siddiqui
+  publisher: The Korea Society of Computer Information
+  link: https://repository.hanyang.ac.kr/handle/20.500.11754/71348
+  date: 2016-12
+  tags:
+    - Internet of Things (IoT)
+    - Software Product Line (SPL)
+    - XML-based Feature Modeling
+
+- id: none
+  type: conference-paper
+  title: "Optimized feature selection with crosscutting concerns in software product line feature model"
+  authors:
+    - Asad Abbas
+    - Wu Zhiqiang
+    - Isma Farah Siddiqui
+    - Scott Uk-Jin Lee
+  publisher: International Conference on Information and Convergence Technology for Smart Society
+  link: https://hhhwwwuuu.github.io/assets/pdf/Asad0.pdf
+  date: 2016-01
+  tags:
+    - Software Product Line
+    - Feature model
+    - Union-find algorithm
+    - Genetic algorithm
+    - Optimization
+
+- id: none
+  type: journal-article
+  title: "Goal-based modeling for requirement traceability of software product line"
+  authors:
+    - Asad Abbas
+    - Isma Farah Siddiqui
+    - Scott Uk-Jin Lee
+  publisher: Journal of Theoretical and Applied Information Technology
+  link: https://www.jatit.org/volumes/Vol94No2/8Vol94No2.pdf
+  date: 2016-12
+  tags:
+    - Requirement traceability
+    - Software Product Line
+    - Feature Model
+
+- id: doi:10.7472/jksii.2016.17.5.09
+  type: journal-article
+  title: "Access Control as a Service for Information Protection in Semantic Web based Smart Environment"
+  authors:
+    - Isma Farah Siddiqui
+    - Scott Uk-Jin Lee
+  publisher: 한국인터넷정보학회 (Korea Internet Information Society)
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002163275
+  date: 2016
+  tags:
+    - Access Control
+    - Smart Environment
+    - Semantic Web
+    - XACML
+
+- id: none
+  type: conference-paper
+  title: "Automated Verification Method for Java-based Multithreaded Software"
+  authors: 
+    - Hyung-Lak Kim
+    - Scott Uk-Jin Lee
+  publisher: Korean Institute of Information Scientists and Engineers
+  link: none
+  date: 2016-12
+  tags: 
+
+- id: none
+  type: conference-paper
+  title: "Improvement of Crowdsourcing based Software Development Process"
+  authors:
+    - Hyung-Lak Kim
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017600
+  date: 2016-06
+  tags:
+
+
+- id: none
+  type: conference-paper
+  title: "HBAC: An access control over Semantics-enabled Smart Grids to enable energy-efficiency and lifetime optimization"
+  authors:
+    - Isma Farah Siddiqui
+    - Asad Abbas
+    - Scott Uk-Jin Lee
+  publisher: Society of Convergence and Integrated Research
+  link: https://www.researchgate.net/publication/294823751_HBAC_An_access_control_over_Semantics-enabled_Smart_Grids_to_enable_energy-efficiency_and_lifetime_optimization
+  date: 2016-01
+  tags:
+    - Smart grid
+    - IoT
+    - Handshake Based Access Control (HBAC)
+    - ICT
+
+  - id: doi:10.17485/ijst/2016/v9i48/108873
+  type: journal-article
+  title: "A Comparative Study of Multithreading APIs for Software of ICT Equipment"
+  authors:
+    - Isma Farah Siddiqui
+    - Asad Abbas
+    - Abdul Rahim Mohamed Ariffin
+    - Scott Uk-Jin Lee
+  publisher: Indian Society for Education and Environment
+  link: http://www.indjst.org/index.php/indjst/article/view/108873
+  date: 2016-12
+  tags:
+    - ICT Software
+    - Parallelism
+    - Multithreading Models
+
+- id: none
+  type: conference-paper
+  title: "Personalized User Recommendation Technique exploiting SNS Profiling"
+  authors:
+    - Seon-Woong Kim
+    - Sung-Je Cho
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07115834
+  date: 2016-12
+  tags:
+
+- id: none
+  type: conference-paper
+  title: "The Necessity of Multithread Feature in Node.js"
+  authors:
+    - Kim Gayeon
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017606
+  date: 2016-06
+  tags:
+
+- id: none
+  type: conference-paper
+  title: "The Application of Banker’s Algorithm in Order Scheduling Management for Deadlock Avoidance"
+  authors:
+    - Wu Zhiqiang
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017602
+  date: 2016-06
+  tags:
+
+- id: none
+  type: conference-paper
+  title: "Improvement of Crowdsourcing based Software Development Process"
+  authors:
+    - Hyung-Lak Kim
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07017600
+  date: 2016-06
+  tags:
+
+- id: doi:10.1155/2015/435316
+  type: journal-article
+  title: "An Effective Methodology with Automated Product Configuration for Software Product Line Development"
+  authors:
+    - Scott Uk-Jin Lee
+  publisher: Hindawi Publishing Corporation
+  link: https://www.hindawi.com/journals/mpe/2015/435316/
+  date: 2015-06
+  tags:
+
+- id: doi:10.1109/SERVICES.2014.92
+  type: conference-paper
+  title: "Predicting Student Blood Pressure by Support Vector Machine Using Facebook"
+  authors:
+    - Muhammad Umair Khan
+    - Javeria Shaikh Manzoor
+    - Scott Uk-Jin Lee
+  publisher: IEEE
+  link: https://ieeexplore.ieee.org/document/6903311?arnumber=6903311&SID=EBSCO:edseee
+  date: 2014-06
+  tags:
+    - Blood Pressure
+    - Facebook
+    - Support Vector Machines
+    - Kernel
+    - Training
+    - Error Analysis
+
+- id: none
+  type: conference-paper
+  title: "XML-based Feature Modeling for Variability Management in Complex Software Product Line"
+  authors:
+    - Asad Abbas
+    - Isma Farah Siddiqui
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06394151
+  date: 2015-06
+  tags:
+
+- id: none
+  type: conference-paper
+  title: "Privacy-Aware Smart Learning: Providing XACML as a Service in Semantic Web based Smart Environment"
+  authors:
+    - Isma Farah Siddiqui
+    - Scott Uk-Jin Lee
+  publisher: The 7th International Conference on Internet (ICONI) 2015
+  location: Kuala Lumpur, Malaysia
+  link: none
+  date: 2015-12
+  tags:
+    - Smart Learning
+    - Access Control
+    - Context-Aware Smart Environment
+    - Semantic Web
+
+- id: none
+  type: paper
+  title: Aspect-Oriented Programming based Process Synchronization in Concurrent Systems
+  authors:
+    - Asad Abbas
+    - Isma Farah Siddiqui
+    - Gayeon Kim
+    - Scott Uk-Jin Lee
+  publisher: Proceedings of the 2015 Korean Institute of Information Scientists and Engineers (KIISE) Winter Conference
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602432
+  date: 2015-12
+  tags:
+
+- id: doi:10.17485/ijst/2016/v9i17/92730
+  type: journal-article
+  title: "An empirical study over correctness properties for multithreaded programs"
+  authors:
+    - Abdul Rahim Muhammad Ariffin
+    - Isma Farah Siddiqui
+    - Gayeon Kim
+    - Scott Uk-Jin Lee
+  publisher: Indian Society for Education and Environment
+  link: https://indjst.org/articles/an-empirical-study-over-correctness-properties-for-multithreaded-programs
+  date: 2016-05
+
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602422
+  type: conference-paper
+  title: "Comparative Analysis on Tools for Verifying Multithreaded Applications"
+  authors:
+    - Abdul Rahim Mohamed Ariffin
+    - Gayeon Kim
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602422
+  date: 2015-12
+
+- id: http://www.dbpia.co.kr/Article/NODE06394643
+  type: conference-paper
+  title: "Recent Trends of Fintech and Comparative Analysis of Samsung-Pay and Apple-Pay"
+  authors:
+    - Seon-Woong Kim
+    - Byeong-Jin Park
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: http://www.dbpia.co.kr/Article/NODE06394643
+  date: 2015-06
+
+- id: https://www.researchgate.net/publication/271769906_A_Novel_Approach_for_Integrating_Semantic_Web_Techniques_into_Smart_Education_Environment
+  type: conference-paper
+  title: "A Novel Approach for Integrating Semantic Web Techniques into Smart Education Environment"
+  authors:
+    - Isma Farah Siddiqui
+    - Scott Uk-Jin Lee
+  publisher: International Conference on Information and Convergence Technology for Smart Society
+  link: https://www.researchgate.net/publication/271769906_A_Novel_Approach_for_Integrating_Semantic_Web_Techniques_into_Smart_Education_Environment
+  date: 2015-01
+
+- id: https://www.researchgate.net/publication/268688886_A_Framework_for_Verifying_Consistency_of_SQL-DB_Ontology_using_Alloy
+  type: conference-paper
+  title: "A Framework for Verifying Consistency of SQL-DB Ontology using Alloy"
+  authors:
+    - Isma Farah Siddiqui
+    - Scott Uk-Jin Lee
+  publisher: 16th Korea Computer Congress
+  link: https://www.researchgate.net/publication/268688886_A_Framework_for_Verifying_Consistency_of_SQL-DB_Ontology_using_Alloy
+  date: 2014-06
+
+- id: https://www.researchgate.net/publication/268688917_An_Advanced_Hyper-Efficient_Design_to_Detect_Random_Peer-to-Peer_Botnets
+  type: conference-paper
+  title: "An Advanced Hyper-Efficient Design to Detect Random Peer-to-Peer Botnets"
+  authors:
+    - Isma Farah Siddiqui
+    - Nawab Muhammad Faseeh Qureshi
+    - Scott Uk-Jin Lee
+    - Mukhtiar Ali Unar
+  publisher: Communications in Computer and Information Science (CCIS), IMTIC 2013
+  link: https://www.researchgate.net/publication/268688917_An_Advanced_Hyper-Efficient_Design_to_Detect_Random_Peer-to-Peer_Botnets
+  date: 2013-12
+
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217182
+  type: conference-paper
+  title: "Conflict Detection Algorithm for XACML Policies"
+  authors:
+    - JaeJin Kim
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217182
+  date: 2013-06
+
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
+  type: conference-paper
+  title: "Vulnerability of Web-Storage in HTML5"
+  authors:
+    - Jaeho Choi
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217244
+  date: 2013-06
+
+- id: http://sigsoft.or.kr/ftp/KCSE2014_proceeding.pdf
+  type: conference-paper
+  title: "XACML Policy Viewer for Generating Effective Access Control Policies"
+  authors:
+    - Jaeho Choi
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 소프트웨어공학 소사이어티, 한국정보처리학회 소프트웨어공학 연구회
+  link: http://sigsoft.or.kr/ftp/KCSE2014_proceeding.pdf
+  date: 2014-02
+
+- id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217171
+  type: conference-paper
+  title: "Extended Mind Map for Software Requirement Specification"
+  authors:
+    - Jiang Hua
+    - Scott Uk-Jin Lee
+  publisher: 한국정보과학회 (Korean Institute of Information Scientists and Engineers)
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02217171
+  date: 2013-06
+
+- id: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_27
+  type: conference-paper
+  title: "MELO 2011 - 1st Workshop on Model-Driven Engineering, Logic and Optimization"
+  authors:
+    - Jordi Cabot
+    - Patrick Albert
+    - Grégoire Dupé
+    - Marcos Didonet del Fabro
+    - Scott Lee
+  publisher: ECMFA 2011 - Modelling Foundations and Applications
+  link: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_27
+  date: 2011
+
+- id: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_12
+  type: conference-paper
+  title: "An MDE-Based Approach for Solving Configuration Problems: An Application to the Eclipse Platform"
+  authors:
+    - Guillaume Doux
+    - Patrick Albert
+    - Gabriel Barbier
+    - Jordi Cabot
+    - Marcos Didonet Del Fabro
+    - Scott Uk-Jin Lee
+  publisher: ECMFA 2011 - Modelling Foundations and Applications
+  link: https://link.springer.com/chapter/10.1007/978-3-642-21470-7_12
+  date: 2011
+
+- id: https://link.springer.com/article/10.1007/s10703-010-0099-4
+  type: journal-article
+  title: "Theorem Prover Approach to Semistructured Data Design"
+  authors:
+    - Scott Uk-Jin Lee
+    - Gillian Dobbie
+    - Jing Sun
+    - Lindsay Groves
+  publisher: Formal Methods in System Design
+  link: https://link.springer.com/article/10.1007/s10703-010-0099-4
+  date: 2010-09-30
+
+- id: https://www.researchgate.net/publication/47664905_Applying_MDE_for_the_Validation_of_Correct_Eclipse_Plugin_Bundles
+  type: conference-paper
+  title: "Applying MDE for the Validation of Correct Eclipse Plugin Bundles"
+  authors:
+    - Guillaume Doux
+    - Marcos Didonet Del Fabro
+    - Frédéric Jouault
+    - Patrick Albert
+    - Jean Bézivin
+    - Frédéric Madiot
+    - Scott Lee
+  link: https://www.researchgate.net/publication/47664905_Applying_MDE_for_the_Validation_of_Correct_Eclipse_Plugin_Bundles
+  date: 2010-05
+
+ - id: doi:10.1109/TASE.2009.11.
+  type: conference-paper
+  title: "Verifying Semistructured Data Normalization Using SWRL"
+  authors:
+    - Yuan Fang Li
+    - Jing Sun
+    - Gillian Dobbie
+    - Scott Lee
+    - Hai H. Wang
+  publisher: IEEE
+  link: https://ieeexplore.ieee.org/document/5198502
+  tags:
+    - Formal Verification
+    - Semistructured Data Modeling
+    - Semantic Web Rule Language
+    - Ontological Reasoning
+
+- id: https://www.researchgate.net/publication/220349149_Formal_Verification_of_Semistructured_Data_Models_in_PVS
+  type: journal-article
+  title: "Formal Verification of Semistructured Data Models in PVS"
+  authors:
+    - Scott Uk-Jin Lee
+    - Gillian Dobbie
+    - Jing Sun
+    - Lindsay Groves
+  publisher: JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+  link: https://www.researchgate.net/publication/220349149_Formal_Verification_of_Semistructured_Data_Models_in_PVS
+  pages: 241-272
+  date: 2009-01
+
+- id: none
+  type: conference-paper
+  title: "Verifying Semistructured Data Normalization Using PVS"
+  authors:
+    - Scott Uk-Jin Lee
+    - Jing Sun
+    - Gillian Dobbie
+    - Lindsay Groves
+  publisher: IEEE
+  link: none
+  date: none
+
+- id: doi:10.1109/ICECCS.2008.23
+  type: conference-paper
+  title: "Verifying Semistructured Data Normalization Using PVS"
+  authors:
+    - Scott Uk-Jin Lee
+    - Jing Sun
+    - Gillian Dobbie
+    - Lindsay Groves
+  publisher: IEEE
+  date: 2008-04-18
+  link: https://ieeexplore.ieee.org/document/4492875
+  tags:
+    - Formal Verification
+    - Semistructured Data
+    - Data Normalization
+    - PVS
+    - Computer Science
+    - Data Modeling
+
+- id: doi:10.1109/ASWEC.2008.4483213
+  type: conference-paper
+  title: "Correctness Criteria for Normalization of Semistructured Data"
+  authors:
+    - Scott Uk-Jin Lee
+    - Jing Sun
+    - Gillian Dobbie
+    - Lindsay Groves
+  publisher: IEEE
+  date: 2008-04-03
+  link: none
+  tags:
+    - Formal Specification
+    - Semistructured Data
+    - Normalization
+    - ORA-SS
+    - Z
+
+- id: https://dl.acm.org/citation.cfm?id=1274457
+  type: conference-paper
+  title: "Towards Verifying Semistructured Data"
+  authors:
+    - Scott Uk-Jin Lee
+  publisher: Australian Computer Society, Inc.
+  link: https://dl.acm.org/citation.cfm?id=1274457
+  date: 2007-01
+
+- id: doi:10.5555/1274453.1274457
+  type: conference-paper
+  title: "Extended Abstract: Towards Verifying Semistructured Data"
+  authors:
+    - Gillian Dobbie
+    - Jing Sun
+    - Yuan Fang Li
+    - Scott Uk-Jin Lee
+  publisher: Australian Computer Society, Inc.
+  date: 2007-01-30
+  link: https://dl.acm.org/citation.cfm?id=1274457
+
+  - id: https://www.researchgate.net/publication/221390797_A_PVS_approach_to_verifying_ORA-SS_data_models
+  type: conference-paper
+  title: "A PVS Approach to Verifying ORA-SS Data Models"
+  authors:
+    - Scott Uk-Jin Lee
+    - Gillian Dobbie
+    - Jing Sun
+    - Lindsay Groves
+  publisher: Proceedings of the Eighteenth International Conference on Software Engineering & Knowledge Engineering (SEKE'2006)
+  date: 2006-07
+  link: https://www.researchgate.net/publication/221390797_A_PVS_approach_to_verifying_ORA-SS_data_models
+
+- id: doi:10.1016/j.entcs.2006.01.025
+  type: journal-article
+  title: "A Z Approach in Validating ORA-SS Data Models"
+  authors:
+    - Scott Uk-Jin Lee
+    - Jing Sun
+    - Gillian Dobbie
+    - Yuan Fang Li
+  publisher: Electronic Notes in Theoretical Computer Science (ENTCS)
+  link: https://doi.org/10.1016/j.entcs.2006.01.025
+
+- id: none
+  type: conference-paper
+  title: "Research into Verifying Semistructured Data"
+  authors:
+    - Gillian Dobbie
+    - Jing Sun
+    - Yuan Fang Li
+    - Scott Uk-Jin Lee
+  publisher: Distributed Computing and Internet Technology (ICDCIT 2006)
+  link: https://link.springer.com/chapter/10.1007/11951957_32
+  date: 2006
