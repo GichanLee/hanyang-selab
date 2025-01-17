@@ -1,7 +1,7 @@
 
 # SELAB@Hanyang Univ. ERICA homepage sources
 
-Visit **[gichanlee.github.io/hanyang-selab](https://gichanlee.github.io/hanyang-selab)** 🚀
+Visit **[selab.hanyang.ac.kr](http://selab.hanyang.ac.kr)** 🚀
 
 This repo will be managed by the collaborators and me.
 
