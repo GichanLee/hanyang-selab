@@ -1,1 +1,1 @@
-Sitemap: https://gichanlee.github.io/hanyang-selab/sitemap.xml
+Sitemap: http://selab.hanyang.ac.kr/sitemap.xml
