@@ -6,6 +6,7 @@ description: 석사과정
 aliases:
   - Garyeong Kim
   - 김가령
+  - Garyoung Kim
 group: 현역
 links:
   email: sun890@hanyang.ac.kr
