@@ -7,10 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-{% include tags.html tags="pi, ci" link="/hanyang-selab/projects/" %}
-## 2025 Activated
+{% include tags.html tags="pi, ci" link="/projects/" %}
+## Current (2025)
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 {% include section.html %}
 
-## Deactivated
+## Completed
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
