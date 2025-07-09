@@ -2,10 +2,10 @@
 name: Mohsin Javaid Siddiqui 
 image: images/moshin.jpg
 role: phd
-description: 석박사통합과정
+description: 박사 수료
 aliases:
   - Mohsin Javaid Siddiqui 
-group: 현역
+group: 박사졸
 links:
   email: mohsinjavaid@hanyang.ac.kr
   orcid: 0009-0006-6145-6011
