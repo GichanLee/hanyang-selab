@@ -11,16 +11,6 @@
   type: paper
   date: 2023-02-13
 
-- id: doi:10.1109/SANER56733.2023.00026
-  type: paper
-  title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction Models
-  authors:
-    - Gichan Lee
-    - Scott Uk-Jin Lee
-  publisher: 2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
-  link: https://ieeexplore.ieee.org/document/10123486
-  date: 2023-03-21
-
 - id: doi:10.1145/3691620.3695056
   title: 'NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological and Empirical Perceptions of Modern Developers'
   authors:
