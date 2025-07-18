@@ -381,9 +381,9 @@
   date: '2023-03-21'
   link: https://ieeexplore.ieee.org/document/10123486
   type: paper
+  description: null
   plugin: sources.py
   file: sources.yaml
-  description: null
 - id: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224363
   title: Proposal of Outpatient Flow Optimization System in Tertiary and General Hospitals
     Using Explainable Digital Twin Simulations
