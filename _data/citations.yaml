@@ -370,6 +370,25 @@
   file: sources.yaml
   type: paper
   scott: true
+- id: doi:10.1109/SANER64311.2025.00051
+  title: Can We Trust the Actionable Guidance from Explainable AI Techniques in Defect
+    Prediction?
+  authors:
+  - Gichan Lee
+  - Hansae Ju
+  - Scott Uk-Jin Lee
+  publisher: 2025 IEEE International Conference on Software Analysis, Evolution and
+    Reengineering (SANER)
+  date: '2025-03-04'
+  link: https://doi.org/10.1109/SANER64311.2025.00051
+  orcid: 0009-0007-1064-1521
+  scott: true
+  plugin: sources.py
+  file: sources.yaml
+  gichan: true
+  hansae: true
+  type: paper
+  description: null
 - id: doi:10.1109/SANER56733.2023.00026
   title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction
     Models
