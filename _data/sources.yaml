@@ -1,15 +1,20 @@
-- id: doi:10.1145/3691620.3695056
+- id: doi:10.1109/SANER64311.2025.00051
+  title: 'NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological and Empirical Perceptions of Modern Developers'
+  authors:
+    - Gichan Lee
+    - Hansae Ju
+    - Scott Uk-Jin Lee
+  publisher: 2025 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+  date: '2025-03-04'
+  link: https://doi.org/10.1109/SANER64311.2025.00051
+  orcid: 0009-0007-1064-1521
+  scott: true
+  plugin: sources.py
+  file: sources.yaml
+  gichan: true
+  hansae: true
   type: paper
-  title: An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction Models
-  date: 2024-10-27
-
-- id: doi:10.1016/j.jss.2023.111677
-  type: paper
-  date: 2023-07-01
-
-- id: doi:10.1109/MS.2023.3244204
-  type: paper
-  date: 2023-02-13
+  description: null
 
 - id: doi:10.1145/3691620.3695056
   title: 'NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological and Empirical Perceptions of Modern Developers'
