@@ -2,7 +2,7 @@
 name:  Jeongbin Park
 image: images/박정빈.png
 role: master
-description: 학석사통합과정
+description: 석사과정
 aliases:
   - Jeongbin Park
   - 박정빈
@@ -13,4 +13,4 @@ links:
   github: dev-jjjjjeong-bin
 ---
 
-안녕하세요. 학석사통합과정생 박정빈입니다. 현재 관심있는 연구 분야는 Foundation Models for Software Engineering 입니다.
+안녕하세요. 석사과정생 박정빈입니다. 현재 관심있는 연구 분야는 Foundation Models for Software Engineering 입니다.
