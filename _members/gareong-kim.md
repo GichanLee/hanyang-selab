@@ -7,7 +7,7 @@ aliases:
   - Garyeong Kim
   - 김가령
   - Garyoung Kim
-group: 현역
+group: 석사졸
 links:
   email: sun890@hanyang.ac.kr
   github: wintergk
