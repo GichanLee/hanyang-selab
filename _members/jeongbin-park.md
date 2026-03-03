@@ -6,7 +6,7 @@ description: 석사과정
 aliases:
   - Jeongbin Park
   - 박정빈
-group: 현역
+group: 석사졸
 links:
   email: pjb0226@hanyang.ac.kr
   orcid: 0009-0006-9411-6128
